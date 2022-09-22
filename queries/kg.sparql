@@ -1,0 +1,50 @@
+PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX odrl: <http://www.w3.org/ns/odrl/2/>
+PREFIX fx:   <http://sparql.xyz/facade-x/ns/>
+PREFIX xyz:  <http://sparql.xyz/facade-x/data/>
+PREFIX dct:  <http://purl.org/dc/terms/>
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+PREFIX owl:  <http://www.w3.org/2002/07/owl#>
+PREFIX dc:   <http://purl.org/dc/elements/1.1/>
+PREFIX reco:   <http://purl.org/research-ecosystem/>
+PREFIX pl:   <http://w3id.org/polifonia/licences/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX prov: <http://www.w3.org/ns/prov#>
+
+
+CONSTRUCT {
+	?resource a reco:Resource, odrl:Asset ;
+		rdfs:label ?externalDataset ;
+		skos:note ?note ;
+		prov:wasDerivedFrom ?licenceSourceLit ;
+		dc:rights ?additionalInfo ;
+		dcat:landingPage ?link ;
+		owl:sameAs ?musoWUri
+		.
+	?odrlLicence a odrl:Set ;
+		odrl:uid ?odrlLicenceUID ;
+		odrl:asset ?resource
+} WHERE {
+    SERVICE <x-sparql-anything:> {
+    	fx:properties fx:location "./data/External datasets requests.xlsx" ;
+  		fx:spreadsheet.headers true ;
+		fx:null-string "" ;
+  		fx:root <urn:tmp:>
+	  	.
+	  	GRAPH <urn:tmp:Licences%20%20External%20databases> { 
+			?r  xyz:Additional%2520information ?additionalInfo ; 
+				xyz:External%2520datasets ?externalDataset ;
+				xyz:Link ?link ;
+				xyz:Source%2520of%2520info%2520about%2520licence%252C%2520copyright%2520or%2520accessibility ?licenceSource
+				.
+			optional { ?r xyz:1 ?note }	
+			optional { ?r xyz:MusoW ?musoW }	
+		}
+    }
+	
+	BIND ( fx:entity(pl:, fx:DigestUtils.md5Hex(?externalDataset)) AS ?resource ) .
+	BIND (fx:literal(?licenceSource,xsd:anyUri) AS ?licenceSourceLit) .
+	BIND ( fx:entity(?musoW) AS ?musoWUri ) .
+}
