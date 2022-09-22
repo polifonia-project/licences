@@ -25,7 +25,9 @@ CONSTRUCT {
 		.
 	?odrlLicence a odrl:Set ;
 		odrl:uid ?odrlLicenceUID ;
-		odrl:asset ?resource
+		odrl:asset ?resource ;
+		rdfs:label ?licenceID
+		
 } WHERE {
     SERVICE <x-sparql-anything:> {
     	fx:properties fx:location "./data/External datasets requests.xlsx" ;
@@ -36,15 +38,30 @@ CONSTRUCT {
 	  	GRAPH <urn:tmp:Licences%20%20External%20databases> { 
 			?r  xyz:Additional%2520information ?additionalInfo ; 
 				xyz:External%2520datasets ?externalDataset ;
+				xyz:Licence%2520ID ?licenceID ;
 				xyz:Link ?link ;
 				xyz:Source%2520of%2520info%2520about%2520licence%252C%2520copyright%2520or%2520accessibility ?licenceSource
 				.
 			optional { ?r xyz:1 ?note }	
 			optional { ?r xyz:MusoW ?musoW }	
 		}
+		
+# 	  	GRAPH <urn:tmp:Licences%20and%20characteristcs> { 
+# 			[]  xyz:LICENCE%20ID ?licenceId ;
+# 				xyz:URL ?licenceUrl ;
+# 				xyz:SHARE ?licenceShare ;
+# 				xyz:ADAPT ?licenceAdapt ;
+# 				xyz:ATTRIBUTION ?licenceAttribution ;
+# 				xyz:SHARE%20ALIKE ?licenceShareAlike 
+# 				.
+# 		}
+		
+		
     }
 	
 	BIND ( fx:entity(pl:, fx:DigestUtils.md5Hex(?externalDataset)) AS ?resource ) .
-	BIND (fx:literal(?licenceSource,xsd:anyUri) AS ?licenceSourceLit) .
+	BIND ( fx:entity(pl:, fx:DigestUtils.md5Hex(?licenceID)) AS ?odrlLicence ) .
+	BIND ( fx:DigestUtils.md5Hex(?licenceID) AS ?odrlLicenceUID ) .
+	BIND ( fx:literal(?licenceSource,xsd:anyUri) AS ?licenceSourceLit ) .
 	BIND ( fx:entity(?musoW) AS ?musoWUri ) .
 }

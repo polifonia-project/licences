@@ -1,0 +1,27 @@
+PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX odrl: <http://www.w3.org/ns/odrl/2/>
+PREFIX fx:   <http://sparql.xyz/facade-x/ns/>
+PREFIX xyz:  <http://sparql.xyz/facade-x/data/>
+
+CONSTRUCT {
+	?s ?p ?o
+} WHERE {
+	service <x-sparql-anything:> {
+		service <x-sparql-anything:> {
+			fx:properties fx:location "https://api.dalicc.net/licenselibrary/list" ; 
+				fx:http.query.limit 10000 ; 
+				fx:media-type "application/json"
+				.
+			[] xyz:id/xyz:value ?uri 
+		}
+		BIND (CONCAT(?uri, "?format=ttl&download=true") as ?location) .
+		fx:properties fx:location ?location ; 
+			fx:http.header.accept "text/turtle" ; 
+			fx:http.query.format "ttl"  ; 
+			fx:http.query.download "true" ; 
+			fx:media-type "text/turtle" 
+			.
+		?s ?p ?o
+	}
+}
