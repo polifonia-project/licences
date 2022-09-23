@@ -1,0 +1,38 @@
+PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX odrl: <http://www.w3.org/ns/odrl/2/>
+PREFIX fx:   <http://sparql.xyz/facade-x/ns/>
+PREFIX xyz:  <http://sparql.xyz/facade-x/data/>
+PREFIX dct:  <http://purl.org/dc/terms/>
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+PREFIX owl:  <http://www.w3.org/2002/07/owl#>
+PREFIX dc:   <http://purl.org/dc/elements/1.1/>
+PREFIX reco:   <http://purl.org/research-ecosystem/>
+PREFIX pl:   <http://w3id.org/polifonia/licences/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX afn: <http://jena.apache.org/ARQ/function#>
+
+SELECT distinct ?resource ?type ?operation
+#SELECT ?licence (count(?resource) as ?datasets)
+#SELECT ?licence
+WHERE {
+
+	graph ?g {
+		?licence odrl:asset/rdfs:label ?resource 
+	}
+	
+	graph ?g1 {
+		{ ?licence odrl:permission/odrl:action ?action . bind ("Can" as ?type) .}
+		 UNION
+ 		{ ?licence odrl:prohibition/odrl:action ?action . bind ("Cannot" as ?type) .}
+ 		UNION
+ 		{ ?licence odrl:permission/odrl:duty/odrl:action ?action . bind ("Must" as ?type) .}
+	}
+	
+	bind (afn:localname(?action) as ?operation)
+} 
+#group by ?licence
+#group by ?action
+#order by desc(?datasets)
