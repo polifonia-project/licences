@@ -17,7 +17,7 @@ pl:c17b91d1c8c1a5d76cb599f90cb50b34
         rdf:type             odrl:Asset , reco:Resource ;
         rdfs:label           "DBpedia" ;
         dc:rights            "free access" ;
-        xyz:stocazzo         "Apache-2.0" ;
+        dct:licence          "Apache-2.0" ;
         dcat:landingPage     "https://www.dbpedia.org/" ;
         prov:wasDerivedFrom  "https://github.com/dbpedia/databus/commit/623030644b5e59f5e536051919fe20de3cb30bdb"^^xsd:anyUri .
 
@@ -28,7 +28,7 @@ pl:f96aa862d6716c49ca3874d8a2698e79
         rdf:type             odrl:Asset , reco:Resource ;
         rdfs:label           "Gesualdo online" ;
         dc:rights            "copyright, free access" ;
-        xyz:stocazzo         "GNU_GPL_v3" ;
+        dct:licence          "GNU_GPL_v3" ;
         owl:sameAs           <https://w3id.org/musow/1638949164-9532564> ;
         dcat:landingPage     "https://ricercar.gesualdo-online.cesr.univ-tours.fr/" ;
         prov:wasDerivedFrom  "https://ricercar.gesualdo-online.cesr.univ-tours.fr/privacy"^^xsd:anyUri .
@@ -37,7 +37,7 @@ pl:dfad9f1ea57adec7ba93c021deeed03a
         rdf:type             odrl:Asset , reco:Resource ;
         rdfs:label           "Common Thesaurus for Audiovisual Archives" ;
         dc:rights            "copyright (partially), free access" ;
-        xyz:stocazzo         "CC-BY_v4" ;
+        dct:licence          "CC-BY_v4" ;
         dcat:landingPage     "https://labs.beeldengeluid.nl/" ;
         prov:wasDerivedFrom  "https://labs.beeldengeluid.nl"^^xsd:anyUri .
 
@@ -45,7 +45,7 @@ pl:8414a361d4e69fdcb5f8158b381c5f84
         rdf:type             odrl:Asset , reco:Resource ;
         rdfs:label           "Catalogo Generale dei Beni Culturali" ;
         dc:rights            "free access" ;
-        xyz:stocazzo         "CC-BY-SA_v4" ;
+        dct:licence          "CC-BY-SA_v4" ;
         dcat:landingPage     "https://www.catalogo.beniculturali.it/" ;
         prov:wasDerivedFrom  "https://www.catalogo.beniculturali.it/termini-uso"^^xsd:anyUri .
 
@@ -53,7 +53,7 @@ pl:0ae4fda3b3d812d0bfb42ff4b6ae8407
         rdf:type             odrl:Asset , reco:Resource ;
         rdfs:label           "MusicBrainz" ;
         dc:rights            "free access" ;
-        xyz:stocazzo         "Cc010Universal" ;
+        dct:licence          "Cc010Universal" ;
         owl:sameAs           <https://w3id.org/musow/1638796882-8190558> ;
         dcat:landingPage     "https://musicbrainz.org/" ;
         prov:wasDerivedFrom  "https://musicbrainz.org/doc/About/Data_License"^^xsd:anyUri .
@@ -62,7 +62,7 @@ pl:51b49dee5ccab082685bb84e09d59685
         rdf:type             odrl:Asset , reco:Resource ;
         rdfs:label           "Lakh MIDI dataset" ;
         dc:rights            "copyright, free access" ;
-        xyz:stocazzo         "CC-BY_v4" ;
+        dct:licence          "CC-BY_v4" ;
         owl:sameAs           <https://w3id.org/musow/1635268063-603579> ;
         dcat:landingPage     "https://colinraffel.com/projects/lmd/" ;
         prov:wasDerivedFrom  "https://colinraffel.com/projects/lmd/#license\n\nhttps://colinraffel.com/projects/lmd/copyrights.txt"^^xsd:anyUri .
@@ -74,7 +74,7 @@ pl:b6be2be069196525c72604617b272213
         rdf:type             odrl:Asset , reco:Resource ;
         rdfs:label           "Neuma digital library" ;
         dc:rights            "free access" ;
-        xyz:stocazzo         "CC-BY-SA_v4" ;
+        dct:licence          "CC-BY-SA_v4" ;
         dcat:landingPage     "http://neuma.huma-num.fr/" ;
         prov:wasDerivedFrom  "https://liveunibo.sharepoint.com/:x:/r/sites/polifonia/_layouts/15/Doc.aspx?sourcedoc=%7B3EC0372B-963D-439E-8619-EC60F1303B7B%7D&file=Annex%201.xlsx&action=default&mobileredirect=true"^^xsd:anyUri .
 
@@ -85,7 +85,7 @@ pl:9c677286866aad38f8e9b660f5411814
         rdf:type             odrl:Asset , reco:Resource ;
         rdfs:label           "Wikipedia" ;
         dc:rights            "free access" ;
-        xyz:stocazzo         "CC-BY-SA_v4" ;
+        dct:licence          "CC-BY-SA_v4" ;
         dcat:landingPage     "https://www.wikipedia.org/" ;
         prov:wasDerivedFrom  "https://www.wikipedia.org"^^xsd:anyUri .
 
@@ -99,7 +99,7 @@ pl:9755043f10c1148c97ca24b3a40419d2
         rdf:type             odrl:Asset , reco:Resource ;
         rdfs:label           "CRIM (American side)" ;
         dc:rights            "copyright, free access" ;
-        xyz:stocazzo         "CC-BY-NC_v4" ;
+        dct:licence          "CC-BY-NC_v4" ;
         owl:sameAs           <https://w3id.org/musow/1638949650-001854> ;
         dcat:landingPage     "https://crimproject.org/" ;
         prov:wasDerivedFrom  "https://crimproject.org"^^xsd:anyUri .
@@ -111,7 +111,7 @@ pl:315c2804cc6d214d939accc9fa454510
         rdf:type             odrl:Asset , reco:Resource ;
         rdfs:label           "Josquin project" ;
         dc:rights            "free access" ;
-        xyz:stocazzo         "CC-BY-SA_v4" ;
+        dct:licence          "CC-BY-SA_v4" ;
         owl:sameAs           <https://w3id.org/musow/1638950648-024772> ;
         dcat:landingPage     "https://josquin.stanford.edu/" ;
         prov:wasDerivedFrom  "https://github.com/josquin-research-project/jrp-scores/commit/5742f86080bc89edba0f3e61c7807264b548b710"^^xsd:anyUri .
@@ -120,7 +120,7 @@ pl:dce788ef721dbb8b746b183021ff4d5b
         rdf:type             odrl:Asset , reco:Resource ;
         rdfs:label           "CRIM (European side)" ;
         dc:rights            "copyright, free access" ;
-        xyz:stocazzo         "GNU_GPL_v3" ;
+        dct:licence          "GNU_GPL_v3" ;
         owl:sameAs           <https://w3id.org/musow/1638949650-001854> ;
         dcat:landingPage     "https://ricercar.crim.cesr.univ-tours.fr/home" ;
         prov:wasDerivedFrom  "https://ricercar.crim.cesr.univ-tours.fr/privacy"^^xsd:anyUri .
@@ -132,7 +132,7 @@ pl:56a6ef116330db452e6d00bb99f60909
         rdf:type             odrl:Asset , reco:Resource ;
         rdfs:label           "MIDI-LD" ;
         dc:rights            "copyright, free access" ;
-        xyz:stocazzo         "Cc010Universal" ;
+        dct:licence          "Cc010Universal" ;
         owl:sameAs           <https://w3id.org/musow/1635268063-595624> ;
         dcat:landingPage     "https://midi-ld.github.io/" ;
         prov:wasDerivedFrom  "https://www.dropbox.com/s/nyvmwac5m4qayv3/INTERLINK_externalDatasets.xlsx?dl=0"^^xsd:anyUri .
@@ -141,7 +141,7 @@ pl:65cbc71bea12de8caa4a729006a3ac54
         rdf:type             odrl:Asset , reco:Resource ;
         rdfs:label           "Listening Experience Database" ;
         dc:rights            "free access" ;
-        xyz:stocazzo         "CC-BY-NC-SA_v4" ;
+        dct:licence          "CC-BY-NC-SA_v4" ;
         owl:sameAs           <https://w3id.org/musow/1638950247-3949933> ;
         dcat:landingPage     "https://led.kmi.open.ac.uk/" ;
         prov:wasDerivedFrom  "https://led.kmi.open.ac.uk/linkeddata/"^^xsd:anyUri .
@@ -150,7 +150,7 @@ pl:4151d3d86c4c150bf845b56dc5bc371b
         rdf:type             odrl:Asset , reco:Resource ;
         rdfs:label           "Dutch Song Database" ;
         dc:rights            "copyright, free access" ;
-        xyz:stocazzo         "CC-BY-NC-SA_v4" ;
+        dct:licence          "CC-BY-NC-SA_v4" ;
         owl:sameAs           <https://w3id.org/musow/1635268063-600943> ;
         dcat:landingPage     "https://www.meertens.knaw.nl/cms/en/over-het-meertens-instituut/disclaimer" ;
         prov:wasDerivedFrom  "https://liveunibo.sharepoint.com/:x:/r/sites/polifonia/_layouts/15/Doc.aspx?sourcedoc=%7B3EC0372B-963D-439E-8619-EC60F1303B7B%7D&file=Annex%201.xlsx&action=default&mobileredirect=true"^^xsd:anyUri .
@@ -159,7 +159,7 @@ pl:1b6ddeb64d22500a3bf233c31b3898a2
         rdf:type             odrl:Asset , reco:Resource ;
         rdfs:label           "The Lost Voices project" ;
         dc:rights            "copyright, free access" ;
-        xyz:stocazzo         "CC-BY-NC_v4" ;
+        dct:licence          "CC-BY-NC_v4" ;
         owl:sameAs           <https://w3id.org/musow/1635268063-596738> ;
         dcat:landingPage     "http://digitalduchemin.org" ;
         prov:wasDerivedFrom  "http://digitalduchemin.org"^^xsd:anyUri .
@@ -168,6 +168,6 @@ pl:e1875fc379c063c582658ef6a38414e8
         rdf:type             odrl:Asset , reco:Resource ;
         rdfs:label           "Internet Archive.org" ;
         dc:rights            "copyright, free access" ;
-        xyz:stocazzo         "GNU_GPL_v3" ;
+        dct:licence          "GNU_GPL_v3" ;
         dcat:landingPage     "http://archive.org/" ;
         prov:wasDerivedFrom  "https://github.com/jjjake/internetarchive/commit/ecb9e075f75e3504f30ce396779d0514230f19d6\n\nhttps://archive.org/about/terms.php"^^xsd:anyUri .

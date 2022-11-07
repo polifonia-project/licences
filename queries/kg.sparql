@@ -22,7 +22,7 @@ CONSTRUCT {
 		dc:rights ?additionalInfo ;
 		dcat:landingPage ?link ;
 		owl:sameAs ?musoWUri ;
-		xyz:stocazzo ?licenceID1
+		dct:licence ?licenceID1
 		.
 	?licenceUri1 odrl:asset ?resource .
 #	?licenceUri2 odrl:asset ?resource .
