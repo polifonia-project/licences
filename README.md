@@ -8,7 +8,7 @@ In what follows, fx refers to the following command line `java -jar sparql-anyth
 We reuse a catalogue of machine readable licences from the [Dalicc project](https://www.dalicc.net/).
 
 ```
-fx -q queries/harvest-dalicc.sparql -f TTL -o data/dalicc.ttl
+fx -q queries/harvest-dalicc.sparql -f TTL -o knowledgegraph/dalicc.ttl
 ```
 
 ## Knowledge Graph Construction
@@ -19,3 +19,22 @@ From the spreadhseet in `data/` to the RDF file.
 ```
 fx -q queries/kg.sparql -f TTL -o knowledgegraph/datasets-licences.ttl
 ```
+
+### Views
+
+```
+fx -q queries/terms-view.sparql -l knowledgegraph/
+```
+
+### Stats
+
+```
+fx -q queries/datasets-by-licence.sparql -l knowledgegraph/
+
+fx -q queries/terms-stats.sparql -l knowledgegraph/
+```
+
+
+
+
+
