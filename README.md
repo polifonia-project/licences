@@ -4,7 +4,7 @@ name: Licences Knowlegde Graph
 description: Resources for the Polifonia Licences KG, containing licence information of the resources from third-parties that the project reused.
 type: Software
 release-date: 28/04/2023
-release-number: v1.0
+release-number: v0.1
 work-package: 
 - WP2
 licence: Public domain, https://unlicense.org
