@@ -1,4 +1,4 @@
-<https://w3id.org/musow/1635268063-589009/>
+<https://w3id.org/musow/1635268063-589009>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Irish Sheet Music Archives" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -8,7 +8,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1645550121-8709016/>
+<https://w3id.org/musow/1645550121-8709016>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Tavern" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -53,7 +53,7 @@
         <https://schema.org/workExample>
                 "https://www.whosampled.com/Young-Thug/Bubbly/" .
 
-<https://w3id.org/musow/1635268063-604947/>
+<https://w3id.org/musow/1635268063-604947>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Deutsches Volksliedarchiv (German Folksong Archive)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -63,7 +63,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-602746/>
+<https://w3id.org/musow/1635268063-602746>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Tony" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -73,7 +73,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-586186/>
+<https://w3id.org/musow/1635268063-586186>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "African American Sheet Music, 1820-1920" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -83,7 +83,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1638797326-4737487/>
+<https://w3id.org/musow/1638797326-4737487>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "BRUBECK ORAL HISTORY PROJECT" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -172,7 +172,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "music style" .
 
-<https://w3id.org/musow/1645551129-2378705/>
+<https://w3id.org/musow/1645551129-2378705>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Algomus datasets" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -193,7 +193,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Robert Eggplant" .
 
-<https://w3id.org/musow/1635268063-597846/>
+<https://w3id.org/musow/1635268063-597846>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Audio Features Ontology" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -235,7 +235,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Germany" .
 
-<https://w3id.org/musow/1635268063-590502/>
+<https://w3id.org/musow/1635268063-590502>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "VARIATIONS Prototype: Online Musical Scores" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -276,7 +276,7 @@
         <https://schema.org/workExample>
                 "https://samap.ukzn.ac.za/10th-ave-boogie-jazz" .
 
-<https://w3id.org/musow/1635268063-591191/>
+<https://w3id.org/musow/1635268063-591191>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Slovenian Digital Library" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -317,7 +317,7 @@
         <https://schema.org/workExample>
                 <http://imslp.org/wiki/Impromptu,_Op.106_(Galeotti,_Cesare)> .
 
-<https://w3id.org/musow/1635268063-579029/>
+<https://w3id.org/musow/1635268063-579029>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Documenting Teresa Carreño" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -327,7 +327,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1638951400-4520338/>
+<https://w3id.org/musow/1638951400-4520338>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Measuring Polyphony" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -602,7 +602,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Similarity Ontology" .
 
-<https://w3id.org/musow/1635268063-588564/>
+<https://w3id.org/musow/1635268063-588564>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Historic American Sheet Music 1850-1920" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -648,7 +648,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "hip hop" .
 
-<https://w3id.org/musow/1641119521-912459/>
+<https://w3id.org/musow/1641119521-912459>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "EMI Archive Trust" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -694,7 +694,7 @@
         <https://schema.org/workExample>
                 <http://archives.nyphil.org/index.php/artifact/38e072a7-8fc9-4f9a-8eac-3957905c0002?search-type=singleFilter&search-text=MUSIC&search-dates-from=&search-dates-to=> .
 
-<https://w3id.org/musow/1635268063-586697/>
+<https://w3id.org/musow/1635268063-586697>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Boije Collection" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -902,7 +902,7 @@
         <https://schema.org/workExample>
                 "https://www.omroepmuziek.nl/en/concerten/slobodeniouk-premieres-uit-zweden-en-denemarken/" .
 
-<https://w3id.org/musow/1635268063-597339/>
+<https://w3id.org/musow/1635268063-597339>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "British Library Online Gallery: Virtual Books" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -951,7 +951,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Ireland" .
 
-<https://w3id.org/musow/1639391295-253099/>
+<https://w3id.org/musow/1639391295-253099>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Beethoven-Haus Bonn Digital Archives" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -964,7 +964,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1641117135-924746/>
+<https://w3id.org/musow/1641117135-924746>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "SixtyEight2OhFive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -977,7 +977,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-60418/>
+<https://w3id.org/musow/1635268063-60418>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Schumann-Autographen" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -1159,7 +1159,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Verovio" .
 
-<https://w3id.org/musow/1635268063-59862/>
+<https://w3id.org/musow/1635268063-59862>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "A-R Editions' Online Music Anthology" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -1169,7 +1169,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-596146/>
+<https://w3id.org/musow/1635268063-596146>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Metrical structure annotations dataset" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -1220,7 +1220,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "National Center for Scientific Research" .
 
-<https://w3id.org/musow/1635268063-581284/>
+<https://w3id.org/musow/1635268063-581284>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Classical Discography" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -1431,7 +1431,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Larry Livermore" .
 
-<https://w3id.org/musow/1635268063-595843/>
+<https://w3id.org/musow/1635268063-595843>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "JRP Database" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -1441,7 +1441,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1639036364-7362227/>
+<https://w3id.org/musow/1639036364-7362227>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Song in the Sumatran Highlands" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -1487,7 +1487,7 @@
         <https://schema.org/name>       "Jamendo" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/data-aggregation> , <https://w3id.org/musow/vocab/music-listening> , <https://w3id.org/musow/vocab/lod-publication> .
 
-<https://w3id.org/musow/1635268063-583795/>
+<https://w3id.org/musow/1635268063-583795>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Cantus Fractus Database (Projetto Raphael)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -1501,7 +1501,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Audio Onset Detection" , "audio onset detection" .
 
-<https://w3id.org/musow/1635268063-591035/>
+<https://w3id.org/musow/1635268063-591035>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Integrated Database for Early Music (IDEM)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -1511,7 +1511,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1645595496-6777816/>
+<https://w3id.org/musow/1645595496-6777816>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Corpus of Jazz Chord Sequences" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -1524,7 +1524,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1663770578-6968083/>
+<https://w3id.org/musow/1663770578-6968083>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Dutch Broadcast Concert Collection" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -1541,7 +1541,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Musical resource" .
 
-<https://w3id.org/musow/1635268063-582248/>
+<https://w3id.org/musow/1635268063-582248>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "BBC Playcount Data" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -1585,7 +1585,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Set List Identification" , "set list identification" .
 
-<https://w3id.org/musow/1638975705-6394398/>
+<https://w3id.org/musow/1638975705-6394398>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Detroit Sound Conservancy" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -1598,7 +1598,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-581357/>
+<https://w3id.org/musow/1635268063-581357>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Cylinder Preservation Project, UCSB" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -1608,7 +1608,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1641121220-4758475/>
+<https://w3id.org/musow/1641121220-4758475>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "World Radio History Archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -1621,7 +1621,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1638799020-858299/>
+<https://w3id.org/musow/1638799020-858299>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Museu du Fado" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -1699,7 +1699,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Video" , "video" .
 
-<https://w3id.org/musow/1635268063-605021/>
+<https://w3id.org/musow/1635268063-605021>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Every noise at once" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -1709,7 +1709,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-580164/>
+<https://w3id.org/musow/1635268063-580164>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Motet Database (1475-1600)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -1723,7 +1723,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "choral music" .
 
-<https://w3id.org/musow/1635268063-6019/>
+<https://w3id.org/musow/1635268063-6019>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "AcoustiID API" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -1737,7 +1737,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "University of Bologna" .
 
-<https://w3id.org/musow/1635268063-591108/>
+<https://w3id.org/musow/1635268063-591108>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Handrit: Historical undefined Manuscripts from Iceland" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -1755,7 +1755,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Rhythm" .
 
-<https://w3id.org/musow/1635268063-592244/>
+<https://w3id.org/musow/1635268063-592244>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Spirituals Database" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -1785,7 +1785,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Centre d'études supérieures de la Renaissance" .
 
-<https://w3id.org/musow/1635268063-579102/>
+<https://w3id.org/musow/1635268063-579102>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Arto Wikla's Early Music Pages" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -1799,7 +1799,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Louisville" .
 
-<https://w3id.org/musow/1635268063-601682/>
+<https://w3id.org/musow/1635268063-601682>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "SAWA" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -1902,7 +1902,7 @@
         <https://schema.org/workExample>
                 "https://worldradiohistory.com/CANADA/Archive-Broadcaster-Canada/40s/45/BCC-1945-01-06.pdf" .
 
-<https://w3id.org/musow/1641121064-367263/>
+<https://w3id.org/musow/1641121064-367263>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MARS FM" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -2022,7 +2022,7 @@
         <https://schema.org/name>       "Electronic and Virtual Editions" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/metadata-aggregation> .
 
-<https://w3id.org/musow/1635268063-58513/>
+<https://w3id.org/musow/1635268063-58513>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Irish Traditional Music Archive / Taisce Cheol Dúchais Éireann (ITMA)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -2174,7 +2174,7 @@
                 <http://www.wikidata.org/entity/Q30> ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/history-of-instruments> , <https://w3id.org/musow/vocab/music-history> , <https://w3id.org/musow/vocab/religious-history> , <https://w3id.org/musow/vocab/history> , <https://w3id.org/musow/vocab/archival-studies> .
 
-<https://w3id.org/musow/1635268063-592317/>
+<https://w3id.org/musow/1635268063-592317>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Bodleian Library Broadside Ballads Catalogue" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -2184,7 +2184,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1645597469-7097328/>
+<https://w3id.org/musow/1645597469-7097328>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Peachnote datasets" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -2255,7 +2255,7 @@
         <https://schema.org/workExample>
                 "https://rucore.libraries.rutgers.edu/rutgers-lib/63520/" .
 
-<https://w3id.org/musow/1635268063-602581/>
+<https://w3id.org/musow/1635268063-602581>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Aruspix" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -2297,7 +2297,7 @@
         <https://schema.org/workExample>
                 <http://www.free-scores.com/download-sheet-music.php?pdf=608> .
 
-<https://w3id.org/musow/1635268063-601755/>
+<https://w3id.org/musow/1635268063-601755>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Automatic Ontology generation" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -2397,7 +2397,7 @@
         <https://schema.org/workExample>
                 <http://epapers.bham.ac.uk/1679/> .
 
-<https://w3id.org/musow/1639298151-6594517/>
+<https://w3id.org/musow/1639298151-6594517>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "ALL MUSIC" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -2443,7 +2443,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "United States of America" .
 
-<https://w3id.org/musow/1645534156-1895688/>
+<https://w3id.org/musow/1645534156-1895688>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MusoRepo" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -2487,7 +2487,7 @@
         <https://schema.org/name>       "Nottingham dataset" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/midi-collection> , <https://w3id.org/musow/vocab/music-annotation> , <https://w3id.org/musow/vocab/music-analysis> .
 
-<https://w3id.org/musow/1635268063-586103/>
+<https://w3id.org/musow/1635268063-586103>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Aaron Copland Collection" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -2646,7 +2646,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Carlo Gesualdo" .
 
-<https://w3id.org/musow/1635268063-601828/>
+<https://w3id.org/musow/1635268063-601828>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Chord symbol service" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -2656,7 +2656,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1638797833-2683523/>
+<https://w3id.org/musow/1638797833-2683523>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Similarity Ontology" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -2669,7 +2669,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-591937/>
+<https://w3id.org/musow/1635268063-591937>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Opera in Italy, Austria, and Germany (1770-1830)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -2682,7 +2682,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1638980945-7790356/>
+<https://w3id.org/musow/1638980945-7790356>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Irish pirate radio archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -2860,7 +2860,7 @@
         <https://schema.org/name>       "Conductus: Online catalogue of poetry and musical settings" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/comparative-studies> , <https://w3id.org/musow/vocab/music-history> , <https://w3id.org/musow/vocab/musicology> .
 
-<https://w3id.org/musow/1635268063-601248/>
+<https://w3id.org/musow/1635268063-601248>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Musipedia" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -2870,7 +2870,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1638976114-1832004/>
+<https://w3id.org/musow/1638976114-1832004>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "German Music Archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -2899,7 +2899,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Frédéric Chopin" .
 
-<https://w3id.org/musow/1639160406-255715/>
+<https://w3id.org/musow/1639160406-255715>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "EMI Music Canada archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -2957,7 +2957,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Software" .
 
-<https://w3id.org/musow/1635268063-595179/>
+<https://w3id.org/musow/1635268063-595179>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Echonest Analyzer" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -2967,7 +2967,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-589975/>
+<https://w3id.org/musow/1635268063-589975>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Oregon Music Collection" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -3014,7 +3014,7 @@
         <https://schema.org/workExample>
                 <http://explore.bl.uk/primo_library/libweb/action/display.do?tabs=moreTab&ct=display&fn=search&doc=BLL01004344201&indx=9&recIds=BLL01004344201&recIdxs=8&elementId=8&renderMode=poppedOut&displayMode=full&frbrVersion=&frbg=&rfnGrpCounter=1&vl(488279563UI0)=any&dscnt=0&scp.scps=scope%3A%28BLCONTENT%29&tb=t&fctV=Scores&mode=Basic&vid=BLVU1&rfnGrp=1&srt=rank&tab=local_tab&fctN=facet_rtype&dum=true&vl(freeText0)=%22early%20music%20online%22&dstmp=1498462006867> .
 
-<https://w3id.org/musow/1664531599-3946595/>
+<https://w3id.org/musow/1664531599-3946595>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "On Wings of Native Songs (Ukrainian)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -3170,7 +3170,7 @@
         <https://schema.org/workExample>
                 <http://www2.cpdl.org/wiki/index.php/Dal_lecto_(Michael_Pesenti)> .
 
-<https://w3id.org/musow/1635268063-584252/>
+<https://w3id.org/musow/1635268063-584252>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "English Broadside Ballad Archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -3188,7 +3188,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "CC-BY-NC-SA" .
 
-<https://w3id.org/musow/1635268063-581503/>
+<https://w3id.org/musow/1635268063-581503>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Stanford Music Library Digital Scores Collection" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -3198,7 +3198,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1638798413-3540587/>
+<https://w3id.org/musow/1638798413-3540587>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Segment Ontology" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -3215,7 +3215,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Audio Offset Detection" , "audio offset detection" .
 
-<https://w3id.org/musow/1639385146-4206917/>
+<https://w3id.org/musow/1639385146-4206917>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Quantone" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -3228,7 +3228,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-589243/>
+<https://w3id.org/musow/1635268063-589243>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Juilliard Manuscript Collection" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -3238,7 +3238,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-58968/>
+<https://w3id.org/musow/1635268063-58968>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Music Library Digital Scores Collection" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -3359,7 +3359,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Duke Ellington" .
 
-<https://w3id.org/musow/1635268063-596666/>
+<https://w3id.org/musow/1635268063-596666>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Freischütz Digital" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -3402,7 +3402,7 @@
         <https://schema.org/workExample>
                 "https://vimeo.com/showcase/8429137" .
 
-<https://w3id.org/musow/1638961593-482965/>
+<https://w3id.org/musow/1638961593-482965>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Smithsonian Jazz Oral History Program" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -3445,7 +3445,7 @@
         <https://schema.org/workExample>
                 "http://www.hexawe.net/mess/200.Drum.Machines/" .
 
-<https://w3id.org/musow/1635268063-587074/>
+<https://w3id.org/musow/1635268063-587074>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Classical String Quartet, 1770-1840" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -3524,7 +3524,7 @@
         <https://schema.org/workExample>
                 <http://athena.uky.edu/oes/sec001.htm> .
 
-<https://w3id.org/musow/1635268063-582393/>
+<https://w3id.org/musow/1635268063-582393>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Global Jukebox" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -3534,7 +3534,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-595473/>
+<https://w3id.org/musow/1635268063-595473>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Hymn Tune Index" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -3575,7 +3575,7 @@
         <https://schema.org/name>       "Band-in-a-Box Jazz standards" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/discography> , <https://w3id.org/musow/vocab/midi-collection> .
 
-<https://w3id.org/musow/1635268063-579263/>
+<https://w3id.org/musow/1635268063-579263>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Center for Beethoven Research" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -3690,7 +3690,7 @@
         <https://schema.org/workExample>
                 <https://sherlock.ischool.berkeley.edu/cgi-bin/CSMPSearch2.tcl?CSMP@docid+741> .
 
-<https://w3id.org/musow/1635268063-589316/>
+<https://w3id.org/musow/1635268063-589316>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MacEdward Leach and the Songs of Atlantic Canada" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -3731,7 +3731,7 @@
         <https://schema.org/workExample>
                 "https://freesound.org/s/382446/" .
 
-<https://w3id.org/musow/1645596007-813033/>
+<https://w3id.org/musow/1645596007-813033>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The McGill Billboard Project" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -3748,7 +3748,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "score-audio linkage" .
 
-<https://w3id.org/musow/1635268063-604429/>
+<https://w3id.org/musow/1635268063-604429>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Ada Lovelace Numbers into Notes" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -3762,7 +3762,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Archival studies" , "archival studies" .
 
-<https://w3id.org/musow/1635268063-5809/>
+<https://w3id.org/musow/1635268063-5809>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Polish Folk Instruments" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -3772,7 +3772,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1638961726-9823408/>
+<https://w3id.org/musow/1638961726-9823408>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "John Coltrane Memorial Black Music Archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -3819,7 +3819,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "performance" .
 
-<https://w3id.org/musow/1635268063-587147/>
+<https://w3id.org/musow/1635268063-587147>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Codices Electronici Sangallenses = Digital Abbey Library of St. Gallen" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -3833,7 +3833,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "LCSH classification" .
 
-<https://w3id.org/musow/1635268063-582466/>
+<https://w3id.org/musow/1635268063-582466>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Discogs Dataset" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -3843,7 +3843,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-579336/>
+<https://w3id.org/musow/1635268063-579336>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Center for Computer Assisted Research in the Humanities (CCARH)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -3853,7 +3853,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-581575/>
+<https://w3id.org/musow/1635268063-581575>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Linked Jazz" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -3863,7 +3863,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1639383381-676601/>
+<https://w3id.org/musow/1639383381-676601>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Sound Credit" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -3903,7 +3903,7 @@
         <https://schema.org/name>       "Music for the Nation: American Sheet Music 1870-1885" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/> .
 
-<https://w3id.org/musow/1639039719-2525394/>
+<https://w3id.org/musow/1639039719-2525394>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Black Music History Library" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -3920,7 +3920,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "2000s" .
 
-<https://w3id.org/musow/1639161154-5540648/>
+<https://w3id.org/musow/1639161154-5540648>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Womxn Who Rock" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -3966,7 +3966,7 @@
         <https://schema.org/workExample>
                 <http://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN778676625&PHYSID=PHYS_0006&DMDID=DMDLOG_0001> .
 
-<https://w3id.org/musow/1635268063-594353/>
+<https://w3id.org/musow/1635268063-594353>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Free Sheet Music" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -4045,7 +4045,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "CC-BY-NC" .
 
-<https://w3id.org/musow/1635268063-601321/>
+<https://w3id.org/musow/1635268063-601321>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MEI XML schema" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -4092,7 +4092,7 @@
         <https://schema.org/workExample>
                 <http://spirituals-database.com/omeka/items/show/11066> .
 
-<https://w3id.org/musow/1635268063-585288/>
+<https://w3id.org/musow/1635268063-585288>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Library of The Jewish Theological Seminary Digital Collections: Music Collections" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -4106,7 +4106,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "audio pattern matching" .
 
-<https://w3id.org/musow/1635268063-584397/>
+<https://w3id.org/musow/1635268063-584397>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "19th-Century American Sheet Music" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -4116,7 +4116,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-592462/>
+<https://w3id.org/musow/1635268063-592462>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Loire Valley Chanson Sources" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -4130,7 +4130,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "religious music" .
 
-<https://w3id.org/musow/1635268063-587743/>
+<https://w3id.org/musow/1635268063-587743>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Sheet Music Consortium" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -4237,7 +4237,7 @@
         <https://schema.org/name>       "Smithsonian Jazz Oral History Program" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/performance> .
 
-<https://w3id.org/musow/1639035224-1500654/>
+<https://w3id.org/musow/1639035224-1500654>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Manchester Digital Music Archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -4250,7 +4250,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-584985/>
+<https://w3id.org/musow/1635268063-584985>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Gaylord Special Collections, Music (Washington University Libraries)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -4260,7 +4260,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-58143/>
+<https://w3id.org/musow/1635268063-58143>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Edison Recorded Sound Archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -4323,7 +4323,7 @@
         <https://schema.org/name>       "Llibre Vermell de Montserrat" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/> .
 
-<https://w3id.org/musow/1635268063-603723/>
+<https://w3id.org/musow/1635268063-603723>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Linked by Music" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -4368,7 +4368,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Chicago" .
 
-<https://w3id.org/musow/1635268063-590358/>
+<https://w3id.org/musow/1635268063-590358>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The St. Petersburg Score Collection" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -4411,7 +4411,7 @@
         <https://schema.org/workExample>
                 <https://repository.library.brown.edu/studio/item/bdr:100158/> .
 
-<https://w3id.org/musow/1635268063-593361/>
+<https://w3id.org/musow/1635268063-593361>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Monuments of Partimenti" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -4449,7 +4449,7 @@
         <https://schema.org/name>       "Magnatune" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/music-selling> , <https://w3id.org/musow/vocab/data-aggregation> , <https://w3id.org/musow/vocab/lod-publication> .
 
-<https://w3id.org/musow/1635268063-590881/>
+<https://w3id.org/musow/1635268063-590881>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Edvard Grieg" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -4459,7 +4459,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-587816/>
+<https://w3id.org/musow/1635268063-587816>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "NYPL Digital Gallery" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -4588,7 +4588,7 @@
         <https://schema.org/workExample>
                 "https://www.cpdl.org/wiki/index.php/Beati_omnes_qui_timent_Dominum_(Nicolas_Champion)" .
 
-<https://w3id.org/musow/1635268063-578502/>
+<https://w3id.org/musow/1635268063-578502>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "ArchiveGrid" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -4615,7 +4615,7 @@
         <https://schema.org/name>       "seevl.fm" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/> .
 
-<https://w3id.org/musow/1635268063-591342/>
+<https://w3id.org/musow/1635268063-591342>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Duben Collection Database Search" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -4686,7 +4686,7 @@
         <https://schema.org/workExample>
                 <http://cpebach.org/toc/toc-I-1.html> .
 
-<https://w3id.org/musow/1635268063-581052/>
+<https://w3id.org/musow/1635268063-581052>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Ludwig Senfl: Works" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -4700,7 +4700,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MusicBrainz" .
 
-<https://w3id.org/musow/1635268063-601393/>
+<https://w3id.org/musow/1635268063-601393>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MIDI Linked Dataset Translation API" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -4710,7 +4710,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-593434/>
+<https://w3id.org/musow/1635268063-593434>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Archives Sonores CNRS" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -4758,7 +4758,7 @@
         <https://schema.org/workExample>
                 "https://josquin.stanford.edu/work/?id=Jos9907" .
 
-<https://w3id.org/musow/1635268063-592543/>
+<https://w3id.org/musow/1635268063-592543>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Old English Songs" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -4768,7 +4768,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1639035923-917963/>
+<https://w3id.org/musow/1639035923-917963>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Maurice Levy Oral History of Music in Pittsburgh Collection (OHMP)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -4815,7 +4815,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "measure annotation" .
 
-<https://w3id.org/musow/1645596749-4521604/>
+<https://w3id.org/musow/1645596749-4521604>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Weimar Jazz Database" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -4865,7 +4865,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "music listening" .
 
-<https://w3id.org/musow/1635268063-593132/>
+<https://w3id.org/musow/1635268063-593132>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Frescobaldi Thematic Catalogue Online" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -4875,7 +4875,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1638798594-7252076/>
+<https://w3id.org/musow/1638798594-7252076>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "LOUIS ARMSTRONG HOUSE MUSEUM" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -4888,7 +4888,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-584176/>
+<https://w3id.org/musow/1635268063-584176>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Portal to Texas History" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -4939,7 +4939,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "South America" .
 
-<https://w3id.org/musow/1635268063-580536/>
+<https://w3id.org/musow/1635268063-580536>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Gregorien" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5020,7 +5020,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "20th century" .
 
-<https://w3id.org/musow/1635268063-60057/>
+<https://w3id.org/musow/1635268063-60057>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Cantus Planus Regensburg" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5068,7 +5068,7 @@
         <https://schema.org/workExample>
                 "http://www.progarchives.com/artist.asp?id=1" .
 
-<https://w3id.org/musow/1635268063-589167/>
+<https://w3id.org/musow/1635268063-589167>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "John Cage Unbound: A Living Archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5146,7 +5146,7 @@
         <https://schema.org/workExample>
                 <http://www.themefinder.org/cgi-bin/themeresults?session=09136798&page=1> .
 
-<https://w3id.org/musow/1635268063-60161/>
+<https://w3id.org/musow/1635268063-60161>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "VexFlow" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5156,7 +5156,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1645596444-6679177/>
+<https://w3id.org/musow/1645596444-6679177>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Enhanced Wikifonia Leadsheet Dataset (EWLD)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5169,7 +5169,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-601466/>
+<https://w3id.org/musow/1635268063-601466>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Cantus Melody search" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5252,7 +5252,7 @@
         <https://schema.org/workExample>
                 "https://tunepal.org/index.html#!/tune/138-Aird-v1.abc-15-A~Lovely~Lass~to~a~Friar~Came." .
 
-<https://w3id.org/musow/1645714204-5331008/>
+<https://w3id.org/musow/1645714204-5331008>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "British Library Sound archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5336,7 +5336,7 @@
         <https://schema.org/name>       "Muziekschatten" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/musicology> , <https://w3id.org/musow/vocab/performance> .
 
-<https://w3id.org/musow/1635268063-58232/>
+<https://w3id.org/musow/1635268063-58232>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Sheet Music Consortium LOD" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5346,7 +5346,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-598767/>
+<https://w3id.org/musow/1635268063-598767>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MuseData" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5392,7 +5392,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "js" .
 
-<https://w3id.org/musow/1635268063-600338/>
+<https://w3id.org/musow/1635268063-600338>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Medieval Music Database" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5406,7 +5406,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Ace Backwords" .
 
-<https://w3id.org/musow/1635268063-58566/>
+<https://w3id.org/musow/1635268063-58566>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Music Ontology" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5416,7 +5416,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-590725/>
+<https://w3id.org/musow/1635268063-590725>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Digital Collections in the Berlin State Library" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5426,7 +5426,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-580609/>
+<https://w3id.org/musow/1635268063-580609>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "RELICS (Renaissance Liturgical Imprints)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5464,7 +5464,7 @@
         <https://schema.org/serviceUrl>
                 "http://quantonemusic.com/api/" .
 
-<https://w3id.org/musow/1645706564-9274452/>
+<https://w3id.org/musow/1645706564-9274452>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Yale Classical Archives Corpus" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5477,7 +5477,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-588199/>
+<https://w3id.org/musow/1635268063-588199>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Juan Crisóstomo Arriaga -- Digital Collection" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5526,7 +5526,7 @@
         <https://schema.org/workExample>
                 "http://dxarchive.com/landbased_uk_merseyside_radio_atlantis.html" .
 
-<https://w3id.org/musow/1635268063-580242/>
+<https://w3id.org/musow/1635268063-580242>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "César: French Theatrical Database" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5540,7 +5540,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "musescore" .
 
-<https://w3id.org/musow/1635268063-602977/>
+<https://w3id.org/musow/1635268063-602977>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "music21" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5690,7 +5690,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Drum Transcription" , "drum transcription" .
 
-<https://w3id.org/musow/1635268063-596305/>
+<https://w3id.org/musow/1635268063-596305>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Automatic Annotations dataset" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5700,7 +5700,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-594651/>
+<https://w3id.org/musow/1635268063-594651>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MusixMatch" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5710,7 +5710,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-601172/>
+<https://w3id.org/musow/1635268063-601172>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Mutopia Project" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5724,7 +5724,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "queer" .
 
-<https://w3id.org/musow/1635268063-58305/>
+<https://w3id.org/musow/1635268063-58305>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Archive of Seventeenth-Century Italian Madrigals and Arias (ASCIMA)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5734,7 +5734,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-59808/>
+<https://w3id.org/musow/1635268063-59808>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "OMRAS2 Chord Ontology" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5744,7 +5744,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1638976241-4442387/>
+<https://w3id.org/musow/1638976241-4442387>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Gladys Palmera collection" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5791,7 +5791,7 @@
         <https://schema.org/workExample>
                 <http://cantus.uwaterloo.ca/chant/149254> .
 
-<https://w3id.org/musow/1635268063-604574/>
+<https://w3id.org/musow/1635268063-604574>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "BMI Repertoire Search" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5835,7 +5835,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "mag/xml" .
 
-<https://w3id.org/musow/1638955648-063725/>
+<https://w3id.org/musow/1638955648-063725>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Grove Music Online" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5848,7 +5848,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-580315/>
+<https://w3id.org/musow/1635268063-580315>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "CLORI: Archive of the Italian Cantata" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5858,7 +5858,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-5954/>
+<https://w3id.org/musow/1635268063-5954>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Fontes Cantus Bohemiae" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5868,7 +5868,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-579783/>
+<https://w3id.org/musow/1635268063-579783>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Katalog der Hochschulbibliothek der HMT Leipzig" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5878,7 +5878,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-600109/>
+<https://w3id.org/musow/1635268063-600109>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "LifeWay Worship" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5888,7 +5888,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1645710008-5747483/>
+<https://w3id.org/musow/1645710008-5747483>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Nottingham dataset" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5934,7 +5934,7 @@
         <https://schema.org/workExample>
                 <http://imslp.org/wiki/Carol_of_the_Drum_(Rondeau%2C_Michel)> .
 
-<https://w3id.org/musow/1635268063-593579/>
+<https://w3id.org/musow/1635268063-593579>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The National Jukebox (US)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5944,7 +5944,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1639494911-2882073/>
+<https://w3id.org/musow/1639494911-2882073>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Loeb Music Library" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5955,7 +5955,7 @@
         <https://w3id.org/musow/publicationStage>
                 "not modified" .
 
-<https://w3id.org/musow/1635268063-585434/>
+<https://w3id.org/musow/1635268063-585434>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Theological Commons" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -5965,7 +5965,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-599739/>
+<https://w3id.org/musow/1635268063-599739>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Open Music Score" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -6115,7 +6115,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "AHRC funded project" .
 
-<https://w3id.org/musow/1635268063-591495/>
+<https://w3id.org/musow/1635268063-591495>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Chopin Editions in Poland" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -6158,7 +6158,7 @@
         <https://schema.org/workExample>
                 <http://beethoven.staatsbibliothek-berlin.de/beethoven/de/sinfonien/9/4/1/17.html> .
 
-<https://w3id.org/musow/1635268063-604647/>
+<https://w3id.org/musow/1635268063-604647>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Llibre Vermell de Montserrat" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -6168,7 +6168,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-59043/>
+<https://w3id.org/musow/1635268063-59043>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Templeton Digital Collections" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -6178,7 +6178,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-592084/>
+<https://w3id.org/musow/1635268063-592084>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Kleiner Collection of Silent Movie Music" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -6352,7 +6352,7 @@
         <https://schema.org/workExample>
                 <http://www.reidconcerts.music.ed.ac.uk/concert/annual-reid-concert-1841> .
 
-<https://w3id.org/musow/1635268063-602209/>
+<https://w3id.org/musow/1635268063-602209>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "ELVIS project" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -6362,7 +6362,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-59824/>
+<https://w3id.org/musow/1635268063-59824>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "CALMA Vocabulary" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -6372,7 +6372,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-60282/>
+<https://w3id.org/musow/1635268063-60282>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Flow Machines" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -6382,7 +6382,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-596377/>
+<https://w3id.org/musow/1635268063-596377>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Etree Dataset" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -6433,7 +6433,7 @@
         <https://schema.org/workExample>
                 <https://musescore.com/user/19941921/scores/4161576> .
 
-<https://w3id.org/musow/1635268063-594048/>
+<https://w3id.org/musow/1635268063-594048>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Virtual Gramophone: Canadian Historical Sound Recordings" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -6512,7 +6512,7 @@
         <https://schema.org/workExample>
                 <https://documentingcarreno.org/items/show/320> .
 
-<https://w3id.org/musow/1635268063-591568/>
+<https://w3id.org/musow/1635268063-591568>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "What's the Score?" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -6632,7 +6632,7 @@
         <https://schema.org/name>       "Center for Computer Assisted Research in the Humanities (CCARH)" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/music-history> , <https://w3id.org/musow/vocab/musicology> .
 
-<https://w3id.org/musow/1645709610-040475/>
+<https://w3id.org/musow/1645709610-040475>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "LvH - French" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -6671,7 +6671,7 @@
         <https://schema.org/name>       "SMuFL" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/data-visualization> , <https://w3id.org/musow/vocab/music-annotation> .
 
-<https://w3id.org/musow/1635268063-580387/>
+<https://w3id.org/musow/1635268063-580387>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "VolksLiedWerke (Austrian Folksong Database)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -6751,7 +6751,7 @@
         <https://schema.org/workExample>
                 <https://github.com/nyphilarchive/PerformanceHistory/tree/master/Programs> .
 
-<https://w3id.org/musow/1645715063-0885732/>
+<https://w3id.org/musow/1645715063-0885732>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "UBU Web: Sound Art" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -6776,7 +6776,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Irish Traditional Music Archive" .
 
-<https://w3id.org/musow/1635268063-579562/>
+<https://w3id.org/musow/1635268063-579562>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Hill Collection of Popular Sheet Music - University of Arizona" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -6786,7 +6786,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-591713/>
+<https://w3id.org/musow/1635268063-591713>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Sequentia" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -6796,7 +6796,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-582017/>
+<https://w3id.org/musow/1635268063-582017>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Magnatune" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -6806,7 +6806,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-581866/>
+<https://w3id.org/musow/1635268063-581866>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "DBTune" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -6851,7 +6851,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Huma-Num" .
 
-<https://w3id.org/musow/1635268063-583431/>
+<https://w3id.org/musow/1635268063-583431>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Wiesbaden (\"Giant\") Codex of Hildegard of Bingen" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -6861,7 +6861,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-600411/>
+<https://w3id.org/musow/1635268063-600411>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Slovak Early Music Database: Cantus Planus In Slovacia" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -6879,7 +6879,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "kern" .
 
-<https://w3id.org/musow/1635268063-587381/>
+<https://w3id.org/musow/1635268063-587381>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Early Music Online" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -6897,7 +6897,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Guinea" .
 
-<https://w3id.org/musow/1638975485-0080729/>
+<https://w3id.org/musow/1638975485-0080729>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Colorado Music Experience" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -6939,7 +6939,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Columbia University" .
 
-<https://w3id.org/musow/1635268063-58402/>
+<https://w3id.org/musow/1635268063-58402>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Isidore" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -7025,7 +7025,7 @@
         <https://schema.org/workExample>
                 <http://daten.digitale-sammlungen.de/~db/0001/bsb00016760/images/index.html?fip=193.174.98.30&seite=21&pdfseitex=> .
 
-<https://w3id.org/musow/1635268063-583504/>
+<https://w3id.org/musow/1635268063-583504>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Official Catalog of the Works of Ernesto Nazareth" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -7070,7 +7070,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Shares data in open data formats" .
 
-<https://w3id.org/musow/1635268063-603289/>
+<https://w3id.org/musow/1635268063-603289>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Peachnote Music n-Gram Viewer" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -7080,7 +7080,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1638975270-2578552/>
+<https://w3id.org/musow/1638975270-2578552>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Berklee College of Music Archives" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -7122,7 +7122,7 @@
         <https://schema.org/workExample>
                 "https://pirate.ie/archive/dr-don-hosts-a-phone-in-on-ard/" .
 
-<https://w3id.org/musow/1635268063-60395/>
+<https://w3id.org/musow/1635268063-60395>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Linked data music portal" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -7170,7 +7170,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Johann Sebastian Bach" .
 
-<https://w3id.org/musow/1635268063-587454/>
+<https://w3id.org/musow/1635268063-587454>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "e-codices: Virtual Manuscript Library of Switzerland" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -7239,7 +7239,7 @@
         <https://schema.org/workExample>
                 "https://ncaa.gov.in/repository/search/displaySearchRecordPreview/VSV-1-78RPM" .
 
-<https://w3id.org/musow/1635268063-596809/>
+<https://w3id.org/musow/1635268063-596809>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Marenzio Online Digital Edition" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -7280,7 +7280,7 @@
         <https://schema.org/workExample>
                 "https://collections.louisarmstronghouse.org/asset-detail/1198969" .
 
-<https://w3id.org/musow/1635268063-599812/>
+<https://w3id.org/musow/1635268063-599812>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Project Gutenberg Sheet Music Project" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -7290,7 +7290,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-591785/>
+<https://w3id.org/musow/1635268063-591785>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Tudor Partbooks" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -7300,7 +7300,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-586261/>
+<https://w3id.org/musow/1635268063-586261>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Alfred Whital Stern Collection of Lincolniana" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -7467,7 +7467,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "San Diego State University" .
 
-<https://w3id.org/musow/1635268063-587527/>
+<https://w3id.org/musow/1635268063-587527>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Europeana: Connecting Cultural Heritage" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -7510,7 +7510,7 @@
         <https://schema.org/workExample>
                 <http://www.russian-records.com/details.php?image_id=9403> .
 
-<https://w3id.org/musow/1635268063-584092/>
+<https://w3id.org/musow/1635268063-584092>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Music Treasures Consortium" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -7524,7 +7524,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Green Day" .
 
-<https://w3id.org/musow/1639467339-727195/>
+<https://w3id.org/musow/1639467339-727195>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "CHASE Collection of Historical Annotated String Editions" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -7567,7 +7567,7 @@
         <https://schema.org/workExample>
                 <http://www.peachnote.com/viewer?sid=IMSLP88790&page=11> .
 
-<https://w3id.org/musow/1635268063-578953/>
+<https://w3id.org/musow/1635268063-578953>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Opera and Ballet Primary Sources" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -7581,7 +7581,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "recommendation" .
 
-<https://w3id.org/musow/1635268063-592834/>
+<https://w3id.org/musow/1635268063-592834>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Psalm Database (Psalmendatenbank)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -7621,7 +7621,7 @@
         <https://schema.org/workExample>
                 <https://www.vifamusik.de/en/specialized-data-bases/online-data-bases/dbis/> .
 
-<https://w3id.org/musow/1635268063-580979/>
+<https://w3id.org/musow/1635268063-580979>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Lassus Manuscript Database" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -7666,7 +7666,7 @@
         <https://schema.org/workExample>
                 <http://www.hberlioz.com/Scores/sfrancsjuges.htm> .
 
-<https://w3id.org/musow/1635268063-589083/>
+<https://w3id.org/musow/1635268063-589083>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Irving Fine Collection" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -7710,7 +7710,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Learning" .
 
-<https://w3id.org/musow/1635268063-603507/>
+<https://w3id.org/musow/1635268063-603507>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The largest MIDI collection on the Web" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -7720,7 +7720,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-594121/>
+<https://w3id.org/musow/1635268063-594121>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Théâtre classique" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -7734,7 +7734,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "1950s" .
 
-<https://w3id.org/musow/1635268063-595624/>
+<https://w3id.org/musow/1635268063-595624>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MIDI Linked Dataset" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -7748,7 +7748,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "audio effects annotation" .
 
-<https://w3id.org/musow/1635268063-58172/>
+<https://w3id.org/musow/1635268063-58172>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Singing Dataset" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -7762,7 +7762,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "music learning" .
 
-<https://w3id.org/musow/1635268063-60198/>
+<https://w3id.org/musow/1635268063-60198>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "ThemeFinder" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -7772,7 +7772,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-59269/>
+<https://w3id.org/musow/1635268063-59269>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Musicat" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -7786,7 +7786,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MusicXML. Melody Search" .
 
-<https://w3id.org/musow/1638798243-808912/>
+<https://w3id.org/musow/1638798243-808912>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Hop-Hop Radio Archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -7860,7 +7860,7 @@
                 "http://www.peachnote.com/datasets.html" ;
         <https://schema.org/name>       "Peachnote datasets" .
 
-<https://w3id.org/musow/1639160794-6585488/>
+<https://w3id.org/musow/1639160794-6585488>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Great American Songbook Archives & Library" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -7908,7 +7908,7 @@
         <https://schema.org/workExample>
                 <https://labrosa.ee.columbia.edu/millionsong/pages/example-track-description> .
 
-<https://w3id.org/musow/1635268063-587233/>
+<https://w3id.org/musow/1635268063-587233>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Danish National Digital Sheet Music Archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -7922,7 +7922,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Image" .
 
-<https://w3id.org/musow/1639036981-673488/>
+<https://w3id.org/musow/1639036981-673488>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The List archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -7935,7 +7935,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-599884/>
+<https://w3id.org/musow/1635268063-599884>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "New Hymns for Worship" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -8012,7 +8012,7 @@
         <https://schema.org/workExample>
                 <http://comparatio.irht.cnrs.fr/chantById/268349> .
 
-<https://w3id.org/musow/1635268063-602893/>
+<https://w3id.org/musow/1635268063-602893>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Verovio" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -8118,7 +8118,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Multiple Fundamental Frequency Estimation & Tracking" , "multiple fundamental frequency estimation & tracking" .
 
-<https://w3id.org/musow/1635268063-604792/>
+<https://w3id.org/musow/1635268063-604792>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Rare Book Room" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -8128,7 +8128,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1645599195-6993346/>
+<https://w3id.org/musow/1645599195-6993346>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Real World Computing Music Database (RWC)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -8149,7 +8149,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "<1000" .
 
-<https://w3id.org/musow/1635268063-587599/>
+<https://w3id.org/musow/1635268063-587599>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Felix Mendelssohn at the Library of Congress" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -8297,7 +8297,7 @@
         <https://schema.org/workExample>
                 "https://artsongcentral.com/2007/adam-cantique-de-noel/" .
 
-<https://w3id.org/musow/1635268063-599067/>
+<https://w3id.org/musow/1635268063-599067>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MuseScore.com" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -8311,7 +8311,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Music structure" .
 
-<https://w3id.org/musow/1638960552-5043755/>
+<https://w3id.org/musow/1638960552-5043755>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Oral history archives at Columbia University" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -8324,7 +8324,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-603579/>
+<https://w3id.org/musow/1635268063-603579>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Lakh dataset" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -8383,7 +8383,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "paleography" .
 
-<https://w3id.org/musow/1635268063-603362/>
+<https://w3id.org/musow/1635268063-603362>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Global Chant" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -8569,7 +8569,7 @@
         <https://schema.org/workExample>
                 <http://cantus.uwaterloo.ca/melody> .
 
-<https://w3id.org/musow/1645710566-4320617/>
+<https://w3id.org/musow/1645710566-4320617>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "OpenScore" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -8582,7 +8582,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1638797132-3821204/>
+<https://w3id.org/musow/1638797132-3821204>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Bononcini catalogue" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -8599,7 +8599,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "history of theatre" .
 
-<https://w3id.org/musow/1635268063-588784/>
+<https://w3id.org/musow/1635268063-588784>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "IN Harmony: Sheet Music from Indiana" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -8651,7 +8651,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Automatic Lyrics-to-Audio Alignment" , "automatic lyrics-to-audio alignment" .
 
-<https://w3id.org/musow/1635268063-602125/>
+<https://w3id.org/musow/1635268063-602125>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "SIMSSA OMR" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -8693,7 +8693,7 @@
         <https://schema.org/workExample>
                 "https://airtable.com/shrrXVdEgQGXo76xe/tbloYXgVJfeTY801C" .
 
-<https://w3id.org/musow/1635268063-603435/>
+<https://w3id.org/musow/1635268063-603435>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Music Encoding and Linked Data (MELD)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -8707,7 +8707,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Structural Analysis of Large Amounts of Music Information [SALAMI]" .
 
-<https://w3id.org/musow/1635268063-586624/>
+<https://w3id.org/musow/1635268063-586624>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Band Music from the Civil War Era" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -8793,7 +8793,7 @@
         <https://schema.org/workExample>
                 <http://oregonbachfestival.com/assets/discovery/BWV_4.pdf> .
 
-<https://w3id.org/musow/1635268063-597772/>
+<https://w3id.org/musow/1635268063-597772>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Music Instrument taxonomies" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -8815,7 +8815,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "70s" .
 
-<https://w3id.org/musow/1635268063-596881/>
+<https://w3id.org/musow/1635268063-596881>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Songs of the Victorians" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -8833,7 +8833,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "EMI" .
 
-<https://w3id.org/musow/1643622487-2183828/>
+<https://w3id.org/musow/1643622487-2183828>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Proud music" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -8854,7 +8854,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "OMRAS2" .
 
-<https://w3id.org/musow/1638950247-3949933/>
+<https://w3id.org/musow/1638950247-3949933>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Listening Experience Database" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -8984,7 +8984,7 @@
         <https://schema.org/workExample>
                 <https://www.wdl.org/en/item/10599/#item_type=manuscript&additional_subjects=Music> .
 
-<https://w3id.org/musow/1635268063-594499/>
+<https://w3id.org/musow/1635268063-594499>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MusicalTheatreScores" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -9030,7 +9030,7 @@
         <https://schema.org/workExample>
                 <http://dme.mozarteum.at/DME/libretti-edition/wrkliste.php?sec=libedi&l=2> .
 
-<https://w3id.org/musow/1638798021-51573/>
+<https://w3id.org/musow/1638798021-51573>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Gemeenschappelijke Thesaurus voor Audiovisuele Archieven" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -9076,7 +9076,7 @@
         <https://schema.org/workExample>
                 <http://4658.datatrium.com/fmi/iwp/cgi?-db=asjm_st_petersburg_scores&-loadframes> .
 
-<https://w3id.org/musow/1635268063-597105/>
+<https://w3id.org/musow/1635268063-597105>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Antiphonale Synopticum" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -9090,7 +9090,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Europeana Data Model (EDM)" .
 
-<https://w3id.org/musow/1635268063-585057/>
+<https://w3id.org/musow/1635268063-585057>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Fryderyk Chopin digital collection - National Library of Poland" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -9100,7 +9100,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1663771058-8047798/>
+<https://w3id.org/musow/1663771058-8047798>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MuziekWeb" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -9153,7 +9153,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "sampling" .
 
-<https://w3id.org/musow/1635268063-584613/>
+<https://w3id.org/musow/1635268063-584613>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Digital Bach Project" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -9163,7 +9163,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1639037503-618952/>
+<https://w3id.org/musow/1639037503-618952>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "RomArchive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -9180,7 +9180,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "WWU Music Score Portal" .
 
-<https://w3id.org/musow/1635268063-583722/>
+<https://w3id.org/musow/1635268063-583722>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Cambridge Lute Books" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -9289,7 +9289,7 @@
         <https://schema.org/workExample>
                 <http://piano.instruments.edu.pl/en/pianos/show/piano/7> .
 
-<https://w3id.org/musow/1635268063-602451/>
+<https://w3id.org/musow/1635268063-602451>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Edirom" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -9303,7 +9303,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "anonymous" .
 
-<https://w3id.org/musow/1638976909-9197845/>
+<https://w3id.org/musow/1638976909-9197845>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "National Institute of Musicology Carlos Vega" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -9320,7 +9320,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Score" .
 
-<https://w3id.org/musow/1635268063-603214/>
+<https://w3id.org/musow/1635268063-603214>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "ChantDigger" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -9330,7 +9330,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-604096/>
+<https://w3id.org/musow/1635268063-604096>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Bagaduce Music Lending Library (Blue Hill, Maine)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -9397,7 +9397,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "history of instruments" .
 
-<https://w3id.org/musow/1635268063-598314/>
+<https://w3id.org/musow/1635268063-598314>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Timeline Ontology" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -9411,7 +9411,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "17th century" .
 
-<https://w3id.org/musow/1635268063-582754/>
+<https://w3id.org/musow/1635268063-582754>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "musiXmatch Dataset" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -9421,7 +9421,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1639467056-9320772/>
+<https://w3id.org/musow/1639467056-9320772>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Charles H. Templeton Sheet Music Collection" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -9537,7 +9537,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "reggae" .
 
-<https://w3id.org/musow/1635268063-58447/>
+<https://w3id.org/musow/1635268063-58447>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Beethoven-Haus Bonn: Das Digitale Beethoven-Haus" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -9660,7 +9660,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Echonest" .
 
-<https://w3id.org/musow/1635268063-586769/>
+<https://w3id.org/musow/1635268063-586769>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Brahms-Institut Digitale Bestände" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -9670,7 +9670,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-595254/>
+<https://w3id.org/musow/1635268063-595254>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Partifi" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -9680,7 +9680,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-579934/>
+<https://w3id.org/musow/1635268063-579934>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Sheet Music Collections Online" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -9690,7 +9690,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1641116860-6101842/>
+<https://w3id.org/musow/1641116860-6101842>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Map of women composers" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -9715,7 +9715,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Manchester" .
 
-<https://w3id.org/musow/1646404151-5873914/>
+<https://w3id.org/musow/1646404151-5873914>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "kworb.net" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -9732,7 +9732,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "woman musician" .
 
-<https://w3id.org/musow/1638949164-9532564/>
+<https://w3id.org/musow/1638949164-9532564>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Gesualdo online" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -9814,7 +9814,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Zenodo" .
 
-<https://w3id.org/musow/1638952203-7180405/>
+<https://w3id.org/musow/1638952203-7180405>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Campanologia" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -9866,7 +9866,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Joseph Haydn" .
 
-<https://w3id.org/musow/1645534417-0452876/>
+<https://w3id.org/musow/1645534417-0452876>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "ABC - The Annotated Beethoven Corpus" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -9910,7 +9910,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Arcangelo Corelli" .
 
-<https://w3id.org/musow/1635268063-58121/>
+<https://w3id.org/musow/1635268063-58121>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Corniani-Algarotti Collection" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -9957,7 +9957,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Audio Key Detection" , "audio key detection" .
 
-<https://w3id.org/musow/1635268063-584685/>
+<https://w3id.org/musow/1635268063-584685>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Digital Library of Latin American Heritage = Biblioteca Digital del Patrimonio Iberoamericano (BDPI)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -9999,7 +9999,7 @@
         <https://schema.org/workExample>
                 "https://www.songfacts.com/facts/richard-a-whiting/mary-pickford-the-darling-of-them-all" .
 
-<https://w3id.org/musow/1635268063-593975/>
+<https://w3id.org/musow/1635268063-593975>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Trachtman Roll Scanning" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -10009,7 +10009,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-589535/>
+<https://w3id.org/musow/1635268063-589535>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Morgan Library & Museum: Music Manuscripts Online" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -10055,7 +10055,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "GP3/GP4 editor" , "gp3/gp4 editor" .
 
-<https://w3id.org/musow/1638797019-2646148/>
+<https://w3id.org/musow/1638797019-2646148>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Tonality Ontology" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -10076,7 +10076,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "psychological testing" .
 
-<https://w3id.org/musow/1635268063-600943/>
+<https://w3id.org/musow/1635268063-600943>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Dutch Song Database and Search Engine (Nedelandse Liederenbank)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -10127,7 +10127,7 @@
         <https://schema.org/workExample>
                 "https://digital.library.pitt.edu/islandora/object/pitt%3A31735065784799" .
 
-<https://w3id.org/musow/1635268063-595327/>
+<https://w3id.org/musow/1635268063-595327>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "CCARH Humdrum Portal" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -10207,7 +10207,7 @@
         <https://schema.org/workExample>
                 <http://data.doremus.org/expression/caa72208-9a18-342b-9492-acd6e9ff6e0f/key/la_mineur_et_majeur> .
 
-<https://w3id.org/musow/1638953483-3177638/>
+<https://w3id.org/musow/1638953483-3177638>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Stichting Omroep Muziek catalogue" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -10289,7 +10289,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "marcxml" .
 
-<https://w3id.org/musow/1635268063-598386/>
+<https://w3id.org/musow/1635268063-598386>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MIREX" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -10299,7 +10299,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-581944/>
+<https://w3id.org/musow/1635268063-581944>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Jamendo" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -10346,7 +10346,7 @@
         <https://schema.org/workExample>
                 <http://webapp1.dlib.indiana.edu/inharmony/detail.do?action=detail&fullItemID=/lilly/starr/LL-SSM-2-135-0025&queryNumber=3> .
 
-<https://w3id.org/musow/1635268063-589608/>
+<https://w3id.org/musow/1635268063-589608>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Music at the National Library of Scotland" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -10450,7 +10450,7 @@
         <https://schema.org/workExample>
                 <http://www.mdb.uni-mainz.de/werkDetail.aspx?ID=1674> .
 
-<https://w3id.org/musow/1645711350-9549549/>
+<https://w3id.org/musow/1645711350-9549549>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Band-in-a-Box Jazz standards" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -10463,7 +10463,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-594572/>
+<https://w3id.org/musow/1635268063-594572>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "eMusik" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -10532,7 +10532,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Museu do Fado" .
 
-<https://w3id.org/musow/1645534635-3681836/>
+<https://w3id.org/musow/1645534635-3681836>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Beethoven Piano Sonata with Function Harmony (BPS-FH) dataset" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -10545,7 +10545,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1639299888-6683187/>
+<https://w3id.org/musow/1639299888-6683187>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Freesound" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -10603,7 +10603,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Provides interfaces for browsing contents" .
 
-<https://w3id.org/musow/1635268063-594207/>
+<https://w3id.org/musow/1635268063-594207>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Cantus Database" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -10745,7 +10745,7 @@
         <https://schema.org/workExample>
                 <http://popmusic.mtsu.edu/ManuscriptMusic/permalink/310/> .
 
-<https://w3id.org/musow/1635268063-597266/>
+<https://w3id.org/musow/1635268063-597266>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "19th Century California Sheet Music" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -10759,7 +10759,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "LvH - German" .
 
-<https://w3id.org/musow/1636560578-1976395/>
+<https://w3id.org/musow/1636560578-1976395>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Muziekschatten" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -10776,7 +10776,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "ICONCLASS" .
 
-<https://w3id.org/musow/1639162951-0181825/>
+<https://w3id.org/musow/1639162951-0181825>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Boston Public Library (BPL) sound collection" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -10789,7 +10789,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1638974935-6715455/>
+<https://w3id.org/musow/1638974935-6715455>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "BBC Archive collections" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -10898,7 +10898,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "social studies" .
 
-<https://w3id.org/musow/1635268063-597411/>
+<https://w3id.org/musow/1635268063-597411>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Bruckner Online" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -11059,7 +11059,7 @@
         <https://schema.org/workExample>
                 "http://port.itma.ie/score/ITMA_4216" .
 
-<https://w3id.org/musow/1635268063-598165/>
+<https://w3id.org/musow/1635268063-598165>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MusicXML Ontology" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -11136,7 +11136,7 @@
         <https://schema.org/workExample>
                 "https://csu-sdsu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991023667129302917&context=L&vid=01CALS_SDL:01CALS_SDL&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,coltrane&mode=advanced&offset=0" .
 
-<https://w3id.org/musow/1635268063-593215/>
+<https://w3id.org/musow/1635268063-593215>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "GWV - Graupner-Werke-Verzeichnis (Thematic Catalogue of the Works of Christoph Graupner)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -11182,7 +11182,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "literary studies" .
 
-<https://w3id.org/musow/1645598903-145555/>
+<https://w3id.org/musow/1645598903-145555>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "A Corpus Study of Rock Music" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -11273,7 +11273,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Detroit" .
 
-<https://w3id.org/musow/1635268063-592912/>
+<https://w3id.org/musow/1635268063-592912>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Clarinet Quintet" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -11315,7 +11315,7 @@
         <https://schema.org/workExample>
                 "https://www.thepiratearchive.net/midlands-underground/" .
 
-<https://w3id.org/musow/1645712131-57912/>
+<https://w3id.org/musow/1645712131-57912>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MAESTRO dataset" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -11463,7 +11463,7 @@
         <https://schema.org/name>       "OpenScore" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/data-aggregation> , <https://w3id.org/musow/vocab/discography> .
 
-<https://w3id.org/musow/1639036173-4239824/>
+<https://w3id.org/musow/1639036173-4239824>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Radio Télévision Guinée (RTG)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -11480,7 +11480,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "<10" .
 
-<https://w3id.org/musow/1635268063-57971/>
+<https://w3id.org/musow/1635268063-57971>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Internet Culturale: Cataloghi et collezioni digitali delle biblioteche italiane" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -11520,7 +11520,7 @@
         <https://schema.org/workExample>
                 <http://purl.org/ontology/chord/symbol/D:min7> .
 
-<https://w3id.org/musow/1639496386-0363798/>
+<https://w3id.org/musow/1639496386-0363798>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "IN Harmony: Sheet Music from Indiana" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -11537,7 +11537,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "<100" .
 
-<https://w3id.org/musow/1645707817-4686248/>
+<https://w3id.org/musow/1645707817-4686248>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Elvis database" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -11617,7 +11617,7 @@
         <https://schema.org/workExample>
                 <http://www.bu.edu/beethovencenter/beethoven-autographs-online/> .
 
-<https://w3id.org/musow/1635268063-596069/>
+<https://w3id.org/musow/1635268063-596069>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Metric Modulations Dataset" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -11627,7 +11627,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-596959/>
+<https://w3id.org/musow/1635268063-596959>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Band Music of Amilcare Ponchielli" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -11637,7 +11637,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1639298571-9893827/>
+<https://w3id.org/musow/1639298571-9893827>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Jaxsta" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -11654,7 +11654,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "punk rock" .
 
-<https://w3id.org/musow/1677573579-3339484/>
+<https://w3id.org/musow/1677573579-3339484>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Dance Music Archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -11723,7 +11723,7 @@
                 "https://www.gracenote.com/" ;
         <https://schema.org/name>      "Gracenote " .
 
-<https://w3id.org/musow/1638950648-024772/>
+<https://w3id.org/musow/1638950648-024772>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Josquin project" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -11736,7 +11736,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-597483/>
+<https://w3id.org/musow/1635268063-597483>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "NEUMA" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -11860,7 +11860,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "musical pattern matching" .
 
-<https://w3id.org/musow/1638796882-8190558/>
+<https://w3id.org/musow/1638796882-8190558>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Music Brainz" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -11873,7 +11873,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1639384189-1280735/>
+<https://w3id.org/musow/1639384189-1280735>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Werner Icking Music Archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -11948,7 +11948,7 @@
                 <http://www.wikidata.org/entity/Q3141> , <http://www.wikidata.org/entity/Q408> ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/theology> , <https://w3id.org/musow/vocab/history> , <https://w3id.org/musow/vocab/ethnography> .
 
-<https://w3id.org/musow/1638796258-0588534/>
+<https://w3id.org/musow/1638796258-0588534>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Awesome MIDI sources" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -12039,7 +12039,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "marilena.daquino2@unibo.it" .
 
-<https://w3id.org/musow/1635268063-591268/>
+<https://w3id.org/musow/1635268063-591268>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Swedish Musical Heritage" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -12049,7 +12049,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-604355/>
+<https://w3id.org/musow/1635268063-604355>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "GuitarPro" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -12059,7 +12059,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-598994/>
+<https://w3id.org/musow/1635268063-598994>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Musicalion" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -12100,7 +12100,7 @@
         <https://schema.org/workExample>
                 <http://iii.library.unt.edu/record=b2566319~S7> .
 
-<https://w3id.org/musow/1635268063-597556/>
+<https://w3id.org/musow/1635268063-597556>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MusicXML" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -12110,7 +12110,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1638981345-1141422/>
+<https://w3id.org/musow/1638981345-1141422>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Latin American electroacoustic music collection" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -12157,7 +12157,7 @@
         <https://schema.org/workExample>
                 <http://neuma.huma-num.fr/home/opus/psautiers:lyon1548:005/?sim_measure=pitches#> .
 
-<https://w3id.org/musow/1638795966-4064233/>
+<https://w3id.org/musow/1638795966-4064233>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Geographical Original of Music Data Set" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -12273,7 +12273,7 @@
         <https://schema.org/name>       "Discogs Dataset" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/discography> .
 
-<https://w3id.org/musow/1635268063-59428/>
+<https://w3id.org/musow/1635268063-59428>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MusicScores" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -12283,7 +12283,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-594798/>
+<https://w3id.org/musow/1635268063-594798>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Lost Voices Thesaurus" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -12359,7 +12359,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "University of KwaZulu-Natal" .
 
-<https://w3id.org/musow/1638949650-001854/>
+<https://w3id.org/musow/1638949650-001854>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Citations: The Renaissance Imitation Mass (CRIM)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -12372,7 +12372,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-585215/>
+<https://w3id.org/musow/1635268063-585215>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Lester S. Levy Collection of Sheet Music" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -12386,7 +12386,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Schema" .
 
-<https://w3id.org/musow/1635268063-584324/>
+<https://w3id.org/musow/1635268063-584324>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "New York Philharmonic Digital Archives" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -12404,7 +12404,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "musicology" .
 
-<https://w3id.org/musow/1635268063-578714/>
+<https://w3id.org/musow/1635268063-578714>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Digital Resources for Musicology" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -12443,7 +12443,7 @@
         <https://schema.org/name>       "The largest MIDI collection on the Web" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/midi-collection> .
 
-<https://w3id.org/musow/1638976409-095411/>
+<https://w3id.org/musow/1638976409-095411>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Global music archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -12456,7 +12456,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-592167/>
+<https://w3id.org/musow/1635268063-592167>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Renaissance Music in Croatia" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -12466,7 +12466,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-588274/>
+<https://w3id.org/musow/1635268063-588274>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Ira F. Brilliant Center for Beethoven Studies San José State University" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -12555,7 +12555,7 @@
         <https://schema.org/workExample>
                 "https://diglib.library.vanderbilt.edu/diglib-fulldisplay.pl?SID=20211208534176612&code=&code=ama&RC=1199&Row=1" .
 
-<https://w3id.org/musow/1635268063-596738/>
+<https://w3id.org/musow/1635268063-596738>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Lost Voices: The Chansons of Nicolas du Chemin" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -12565,7 +12565,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-60365/>
+<https://w3id.org/musow/1635268063-60365>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MySongBook" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -12575,7 +12575,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-589753/>
+<https://w3id.org/musow/1635268063-589753>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Musical Scores from the University of Illinois Music Library" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -12648,7 +12648,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Oxford University Press" .
 
-<https://w3id.org/musow/1638797592-5820174/>
+<https://w3id.org/musow/1638797592-5820174>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Living Collections Catalogue - Creative Black Music at the Walker: Selections from the Archives" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -12728,7 +12728,7 @@
         <https://schema.org/workExample>
                 <http://www.themorgan.org/music/manuscript/115408> .
 
-<https://w3id.org/musow/1645706080-3971267/>
+<https://w3id.org/musow/1645706080-3971267>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Kostka-Payne corpus" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -12774,7 +12774,7 @@
         <https://schema.org/workExample>
                 <http://ricercar.cesr.univ-tours.fr/3-programmes/EMN/Croatie/sources/listescorch.asp?numnotice=1&ID=001> .
 
-<https://w3id.org/musow/1635268063-588347/>
+<https://w3id.org/musow/1635268063-588347>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Hector Berlioz Website" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -12819,7 +12819,7 @@
         <https://schema.org/workExample>
                 <http://cudl.lib.cam.ac.uk/view/MS-DD-00005-00078-00003/1> .
 
-<https://w3id.org/musow/1635268063-599226/>
+<https://w3id.org/musow/1635268063-599226>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Full English Transcription Programme at Folkopedia" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -12870,7 +12870,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "music analysis" .
 
-<https://w3id.org/musow/1638961991-9581568/>
+<https://w3id.org/musow/1638961991-9581568>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Queer Music Heritage" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -13050,7 +13050,7 @@
         <https://schema.org/workExample>
                 <http://cantigas.fcsh.unl.pt/cantiga.asp?cdcant=1307&pv=sim> .
 
-<https://w3id.org/musow/1635268063-590284/>
+<https://w3id.org/musow/1635268063-590284>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Songs of America" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -13064,7 +13064,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "60s" .
 
-<https://w3id.org/musow/1635268063-588935/>
+<https://w3id.org/musow/1635268063-588935>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Inventions of Note: Sheet Music Collection" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -13232,7 +13232,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "gospel music" .
 
-<https://w3id.org/musow/1635268063-582538/>
+<https://w3id.org/musow/1635268063-582538>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MusicNet" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -13269,7 +13269,7 @@
         <https://schema.org/name>       "University of Colorado Digital Sheet Music Collection" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/> .
 
-<https://w3id.org/musow/1635268063-581647/>
+<https://w3id.org/musow/1635268063-581647>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Networked Environment for Musical Analysis (NEMA)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -13283,7 +13283,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Unknown" .
 
-<https://w3id.org/musow/1645714370-6854248/>
+<https://w3id.org/musow/1645714370-6854248>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Creative Audio Archive (CAA)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -13300,7 +13300,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Colorado" .
 
-<https://w3id.org/musow/1635268063-590047/>
+<https://w3id.org/musow/1635268063-590047>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Portugese Early Music Database (PEM)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -13342,7 +13342,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Player Piano Project" .
 
-<https://w3id.org/musow/1635268063-57863/>
+<https://w3id.org/musow/1635268063-57863>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MuSO (Europeana)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -13378,7 +13378,7 @@
         <https://schema.org/name>       "MIREX" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/automatic-lyrics-to-audio-alignment> , <https://w3id.org/musow/vocab/audio-fingerprinting> , <https://w3id.org/musow/vocab/symbolic-melodic-similarity> , <https://w3id.org/musow/vocab/query-by-singing/humming> , <https://w3id.org/musow/vocab/audio-classification> , <https://w3id.org/musow/vocab/set-list-identification> , <https://w3id.org/musow/vocab/audio-music-similarity-and-retrieval> , <https://w3id.org/musow/vocab/audio-tempo-estimation> , <https://w3id.org/musow/vocab/drum-transcription> , <https://w3id.org/musow/vocab/audio-chord-estimation> , <https://w3id.org/musow/vocab/audio-tag-classification> , <https://w3id.org/musow/vocab/multiple-fundamental-frequency-estimation-&-tracking> , <https://w3id.org/musow/vocab/audio-downbeat-estimation> , <https://w3id.org/musow/vocab/audio-key-detection> , <https://w3id.org/musow/vocab/query-by-tapping> , <https://w3id.org/musow/vocab/structural-segmentation> , <https://w3id.org/musow/vocab/audio-melody-extraction> , <https://w3id.org/musow/vocab/audio-onset-detection> , <https://w3id.org/musow/vocab/audio-beat-tracking> , <https://w3id.org/musow/vocab/audio-offset-detection> , <https://w3id.org/musow/vocab/singing-voice-separation> , <https://w3id.org/musow/vocab/discovery-of-repeated-themes-&-sections> , <https://w3id.org/musow/vocab/real-time-audio-to-score-alignment-(a.k.a-score-following)> , <https://w3id.org/musow/vocab/audio-cover-song-identification> .
 
-<https://w3id.org/musow/1635268063-59239/>
+<https://w3id.org/musow/1635268063-59239>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "HUAPALA: Hawaiian Lyrics and Hula Archives" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -13456,7 +13456,7 @@
         <https://schema.org/workExample>
                 "https://hiphopradioarchive.org/show/880" .
 
-<https://w3id.org/musow/1639384427-9732945/>
+<https://w3id.org/musow/1639384427-9732945>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MuseScore" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -13559,7 +13559,7 @@
         <https://schema.org/workExample>
                 "http://detroitsound.org/artifact/madelyn-washington/" .
 
-<https://w3id.org/musow/1635268063-600191/>
+<https://w3id.org/musow/1635268063-600191>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Oliver Seely’s (mostly) Clarinet Page" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -13697,7 +13697,7 @@
         <https://schema.org/workExample>
                 <http://irishsheetmusicarchives.com/Sheet-Music-Catalog/Wink-Song-IF-SM-01-990.htm> .
 
-<https://w3id.org/musow/1677573144-775718/>
+<https://w3id.org/musow/1677573144-775718>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "John Cousins Collection" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -13710,7 +13710,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1645712351-8043017/>
+<https://w3id.org/musow/1645712351-8043017>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Four Score and more" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -13723,7 +13723,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-598919/>
+<https://w3id.org/musow/1635268063-598919>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "ChoralWiki" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -13733,7 +13733,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-594871/>
+<https://w3id.org/musow/1635268063-594871>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "HOTTABS" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -13743,7 +13743,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1639162424-7193198/>
+<https://w3id.org/musow/1639162424-7193198>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "ARChive of Contemporary Music (ARC)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -13756,7 +13756,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1639495573-5585299/>
+<https://w3id.org/musow/1639495573-5585299>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Düben Collection Database Catalogue" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -13877,7 +13877,7 @@
         <https://schema.org/workExample>
                 <http://www.bruckner-online.at/?page_id=870> .
 
-<https://w3id.org/musow/1638798822-6517777/>
+<https://w3id.org/musow/1638798822-6517777>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "National Jazz Archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -13927,7 +13927,7 @@
         <https://schema.org/workExample>
                 <https://searchworks.stanford.edu/view/11457324> .
 
-<https://w3id.org/musow/1635268063-585956/>
+<https://w3id.org/musow/1635268063-585956>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Chopin First Editions Online" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -13941,7 +13941,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Research" .
 
-<https://w3id.org/musow/1635268063-598693/>
+<https://w3id.org/musow/1635268063-598693>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "BabelScores: Contemporary Music Online" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -13955,7 +13955,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "sound art" .
 
-<https://w3id.org/musow/1635268063-583284/>
+<https://w3id.org/musow/1635268063-583284>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Chopin Early Editions" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -13969,7 +13969,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "wav" .
 
-<https://w3id.org/musow/1635268063-604501/>
+<https://w3id.org/musow/1635268063-604501>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Virginia Woolf Online" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14060,7 +14060,7 @@
         <https://schema.org/workExample>
                 <http://garfield.jtsa.edu:1801/view/action/nmets.do?DOCCHOICE=496620.xml&dvs=1498664840343~977&locale=en_US&search_terms=&adjacency=&VIEWER_URL=/view/action/nmets.do?&DELIVERY_RULE_ID=4&divType=&usePid1=true&usePid2=true> .
 
-<https://w3id.org/musow/1635268063-58811/>
+<https://w3id.org/musow/1635268063-58811>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "ScorSer -- Online Scores (PDFs)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14070,7 +14070,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-581124/>
+<https://w3id.org/musow/1635268063-581124>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "UNC Middle Eastern Music" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14138,7 +14138,7 @@
         <https://schema.org/name>       "MuSO (Europeana)" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/metadata-aggregation> .
 
-<https://w3id.org/musow/1635268063-593506/>
+<https://w3id.org/musow/1635268063-593506>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Glenn Gould Archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14179,7 +14179,7 @@
         <https://schema.org/workExample>
                 <https://www.dropbox.com/s/4zoauoqy8axyjbw/Aida%20-%20MTI%20-%20PC.pdf?dl=0> .
 
-<https://w3id.org/musow/1635268063-590961/>
+<https://w3id.org/musow/1635268063-590961>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Richard Strauss" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14189,7 +14189,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1638959420-625252/>
+<https://w3id.org/musow/1638959420-625252>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "SongFacts" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14202,7 +14202,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-595698/>
+<https://w3id.org/musow/1635268063-595698>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Corago" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14212,7 +14212,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-579488/>
+<https://w3id.org/musow/1635268063-579488>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Finding Scores Online" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14222,7 +14222,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-596231/>
+<https://w3id.org/musow/1635268063-596231>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Reference Annotations dataset" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14232,7 +14232,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-604255/>
+<https://w3id.org/musow/1635268063-604255>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "seevl.fm" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14242,7 +14242,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1638960085-8914223/>
+<https://w3id.org/musow/1638960085-8914223>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Early American Secular Music and Its European Sources, 1589–1839" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14255,7 +14255,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1639385765-5944748/>
+<https://w3id.org/musow/1639385765-5944748>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Art song central" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14298,7 +14298,7 @@
         <https://schema.org/name>       "Tonality Ontology" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/music-annotation> .
 
-<https://w3id.org/musow/1635268063-591422/>
+<https://w3id.org/musow/1635268063-591422>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Albert Schatz Collection (Library of Congress)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14382,7 +14382,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Irish folk music" .
 
-<https://w3id.org/musow/1635268063-592011/>
+<https://w3id.org/musow/1635268063-592011>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Gospel Music History Archives" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14410,7 +14410,7 @@
         <https://schema.org/name>       "Codici Electronici Ecclesiae Coloniensis (CEEC)" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/> .
 
-<https://w3id.org/musow/1635268063-601538/>
+<https://w3id.org/musow/1635268063-601538>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Music Addressability API and  Service (Omas)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14453,7 +14453,7 @@
         <https://schema.org/workExample>
                 <https://www.loc.gov/item/99478101/> .
 
-<https://w3id.org/musow/1639036577-4595208/>
+<https://w3id.org/musow/1639036577-4595208>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "South Africa music archive " ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14474,7 +14474,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Audio Chord Estimation" , "audio chord estimation" .
 
-<https://w3id.org/musow/1638974765-663959/>
+<https://w3id.org/musow/1638974765-663959>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Audio Culture" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14495,7 +14495,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Query by Singing/Humming" , "query by singing/humming" .
 
-<https://w3id.org/musow/1635268063-582611/>
+<https://w3id.org/musow/1635268063-582611>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "BBC Things" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14547,7 +14547,7 @@
         <https://schema.org/workExample>
                 <http://www.songsofthevictorians.com/balfe/archive.html> .
 
-<https://w3id.org/musow/1635268063-5977/>
+<https://w3id.org/musow/1635268063-5977>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "DoReMus Model" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14557,7 +14557,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-59058/>
+<https://w3id.org/musow/1635268063-59058>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "World War I Sheet Music" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14608,7 +14608,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Canada" .
 
-<https://w3id.org/musow/1635268063-582172/>
+<https://w3id.org/musow/1635268063-582172>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MySpace data" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14618,7 +14618,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-582977/>
+<https://w3id.org/musow/1635268063-582977>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Schenker Documents Online" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14628,7 +14628,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1639298863-140835/>
+<https://w3id.org/musow/1639298863-140835>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Prog Archives" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14760,7 +14760,7 @@
         <https://schema.org/name>       "Timeline Ontology" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/audio-annotation> , <https://w3id.org/musow/vocab/music-annotation> .
 
-<https://w3id.org/musow/1635268063-584542/>
+<https://w3id.org/musow/1635268063-584542>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Digital Archive of Popular American Music" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14852,7 +14852,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Anthony Braxton" .
 
-<https://w3id.org/musow/1635268063-588492/>
+<https://w3id.org/musow/1635268063-588492>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Gilbert and Sullivan Archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14866,7 +14866,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Pratt Institute School of Library Information Science" .
 
-<https://w3id.org/musow/1666725248-9482715/>
+<https://w3id.org/musow/1666725248-9482715>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "East Bay Punk Digital Archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14913,7 +14913,7 @@
         <https://schema.org/workExample>
                 <http://www.armusicanthology.com/anthology/Default.aspx?music_id=730&composer=&title=&period=0&genre=0> .
 
-<https://w3id.org/musow/1635268063-598545/>
+<https://w3id.org/musow/1635268063-598545>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Motools" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14923,7 +14923,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-600791/>
+<https://w3id.org/musow/1635268063-600791>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Printed Sacred Music Database" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14945,7 +14945,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Maine)" .
 
-<https://w3id.org/musow/1645711604-484135/>
+<https://w3id.org/musow/1645711604-484135>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "BitMIDI" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -14962,7 +14962,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "performers" .
 
-<https://w3id.org/musow/1635268063-579855/>
+<https://w3id.org/musow/1635268063-579855>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Moldenhauer Archives" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -15003,7 +15003,7 @@
         <https://schema.org/workExample>
                 <https://www.itma.ie/digital-library/text/300-national-melodies-of-the-british-isles.-vol.-3-100.-irish-airs> .
 
-<https://w3id.org/musow/1638976584-2402775/>
+<https://w3id.org/musow/1638976584-2402775>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Hogan Archive of New Orleans Music and New Orleans Jazz" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -15087,7 +15087,7 @@
         <https://schema.org/workExample>
                 "https://archive.org/details/lp_beethoven-complete-piano-music_alfred-brendel-zubin-mehta-heinz-wallberg" .
 
-<https://w3id.org/musow/1635268063-582683/>
+<https://w3id.org/musow/1635268063-582683>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "SecondHandSongs dataset" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -15109,7 +15109,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Music Encoding Initiative" .
 
-<https://w3id.org/musow/1635268063-5993/>
+<https://w3id.org/musow/1635268063-5993>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Hymnary.org" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -15182,7 +15182,7 @@
         <https://schema.org/name>       "LinkedBrainz" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/lod-publication> , <https://w3id.org/musow/vocab/music-annotation> .
 
-<https://w3id.org/musow/1635268063-593896/>
+<https://w3id.org/musow/1635268063-593896>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Russian Records" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -15233,7 +15233,7 @@
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/musicology> ;
         <https://schema.org/usageInfo>  "https://github.com/smashub/choco/blob/main/LICENSE.md" .
 
-<https://w3id.org/musow/1635268063-604719/>
+<https://w3id.org/musow/1635268063-604719>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Music for the Nation: American Sheet Music 1870-1885" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -15269,7 +15269,7 @@
         <https://schema.org/name>       "Proud music" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/music-learning> , <https://w3id.org/musow/vocab/music-listening> , <https://w3id.org/musow/vocab/data-aggregation> , <https://w3id.org/musow/vocab/music-history> .
 
-<https://w3id.org/musow/1635268063-600864/>
+<https://w3id.org/musow/1635268063-600864>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Cantorales de la Biblioteca Nacional de Espana" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -15310,7 +15310,7 @@
         <https://schema.org/workExample>
                 <http://www.braidense.it/cataloghi/rd_query.php> .
 
-<https://w3id.org/musow/1635268063-60109/>
+<https://w3id.org/musow/1635268063-60109>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Tasso in Music Project (TMP)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -15355,7 +15355,7 @@
         <https://schema.org/name>       "Four Score and more" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/music-analysis> , <https://w3id.org/musow/vocab/music-learning> .
 
-<https://w3id.org/musow/1635268063-595771/>
+<https://w3id.org/musow/1635268063-595771>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Cantus Manuscript Database" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -15369,7 +15369,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Gioachino Rossini" .
 
-<https://w3id.org/musow/1645707299-0540593/>
+<https://w3id.org/musow/1645707299-0540593>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Choral Public Domain Library" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -15382,7 +15382,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-596449/>
+<https://w3id.org/musow/1635268063-596449>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "CALMA Dataset" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -15458,7 +15458,7 @@
         <https://schema.org/workExample>
                 <https://musopen.org/sheetmusic/25583/carlo-alboni/genl-franklin-pierces-grand-march/> .
 
-<https://w3id.org/musow/1639037748-4481337/>
+<https://w3id.org/musow/1639037748-4481337>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Archives of African music and culture (AAMC)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -15475,7 +15475,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Copyright" .
 
-<https://w3id.org/musow/1635268063-588638/>
+<https://w3id.org/musow/1635268063-588638>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Hoagy Carmichael Collection" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -15701,7 +15701,7 @@
         <https://schema.org/name>       "Networked Environment for Musical Analysis (NEMA)" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/music-analysis> .
 
-<https://w3id.org/musow/1635268063-580459/>
+<https://w3id.org/musow/1635268063-580459>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Mass Database" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -15828,7 +15828,7 @@
         <https://schema.org/name>       "Algomus datasets" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/music-analysis> , <https://w3id.org/musow/vocab/music-annotation> , <https://w3id.org/musow/vocab/musicology> , <https://w3id.org/musow/vocab/symbolic-melodic-similarity> .
 
-<https://w3id.org/musow/1638959734-7802122/>
+<https://w3id.org/musow/1638959734-7802122>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "WhoSampled" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -15845,7 +15845,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "html" .
 
-<https://w3id.org/musow/1635268063-588034/>
+<https://w3id.org/musow/1635268063-588034>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "List of Public Domain Music" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -16052,7 +16052,7 @@
         <https://schema.org/workExample>
                 <http://www.swedishmusicalheritage.com/composers/agrell-johan/SMH-W3672-Sinfonia_a_6_B-flat_major_op_14/> .
 
-<https://w3id.org/musow/1645714627-546162/>
+<https://w3id.org/musow/1645714627-546162>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "INTERNET UNDERGROUND MUSIC ARCHIVE " ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -16199,7 +16199,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "tei/xml" .
 
-<https://w3id.org/musow/1635268063-600643/>
+<https://w3id.org/musow/1635268063-600643>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Comparatio (Chant Comparison)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -16213,7 +16213,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Music Artist" .
 
-<https://w3id.org/musow/1635268063-593651/>
+<https://w3id.org/musow/1635268063-593651>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "New Zealand Pianola Site" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -16231,7 +16231,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "prov" .
 
-<https://w3id.org/musow/1639391573-2689812/>
+<https://w3id.org/musow/1639391573-2689812>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Cello Music Collection" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -16310,7 +16310,7 @@
         <https://schema.org/workExample>
                 "https://aaamc.indiana.edu/Collections/Bala-Baptiste" .
 
-<https://w3id.org/musow/1645597211-3453195/>
+<https://w3id.org/musow/1645597211-3453195>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "JAAH: Audio-aligned jazz harmony dataset" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -16323,7 +16323,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1639035496-2814538/>
+<https://w3id.org/musow/1639035496-2814538>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Music at MIT Oral History Project" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -16553,7 +16553,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Record" .
 
-<https://w3id.org/musow/1635268063-593748/>
+<https://w3id.org/musow/1635268063-593748>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "O'Neill Cylinder Recordings" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -16606,7 +16606,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "ead" .
 
-<https://w3id.org/musow/1635268063-600716/>
+<https://w3id.org/musow/1635268063-600716>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Conductus: Online catalogue of poetry and musical settings" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -16652,7 +16652,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Joy Division" .
 
-<https://w3id.org/musow/1635268063-591857/>
+<https://w3id.org/musow/1635268063-591857>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Early Nineteenth-Century Opera" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -16662,7 +16662,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-586333/>
+<https://w3id.org/musow/1635268063-586333>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Mills Music Library Digital Collections" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -16781,7 +16781,7 @@
         <https://schema.org/workExample>
                 <https://archive.org/details/greekslavemusica00jones> .
 
-<https://w3id.org/musow/1639037220-3709588/>
+<https://w3id.org/musow/1639037220-3709588>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Pirate archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -16904,7 +16904,7 @@
         <https://schema.org/workExample>
                 <https://www.loc.gov/item/scsm000001/> .
 
-<https://w3id.org/musow/1638798340-997409/>
+<https://w3id.org/musow/1638798340-997409>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "abc notation" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -17123,7 +17123,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "py" .
 
-<https://w3id.org/musow/1635268063-596522/>
+<https://w3id.org/musow/1635268063-596522>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Million Song Dataset" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -17133,7 +17133,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-586406/>
+<https://w3id.org/musow/1635268063-586406>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "American Vernacular Music Manuscripts, ca. 1730-1910 (AVMM)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -17151,7 +17151,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Publisher" .
 
-<https://w3id.org/musow/1635268063-588711/>
+<https://w3id.org/musow/1635268063-588711>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Hofmusik Dresden" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -17199,7 +17199,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "LOD publication" , "lod publication" .
 
-<https://w3id.org/musow/1635268063-580009/>
+<https://w3id.org/musow/1635268063-580009>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "ViFaMusik: Virtual Library of Musicology = Virtuelle Fachbibliothek Musikwissenschaft" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -17387,7 +17387,7 @@
         <https://schema.org/workExample>
                 "https://eastbaypunkda.com/s/east-bay-punk-digital-archive/item/6112" .
 
-<https://w3id.org/musow/1635268063-57941/>
+<https://w3id.org/musow/1635268063-57941>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Digital Scores and Libretti" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -17397,7 +17397,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-595997/>
+<https://w3id.org/musow/1635268063-595997>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Structural Analysis of Large Amounts of Music Information [SALAMI]" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -17429,7 +17429,7 @@
         <https://schema.org/name>       "Henry" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/> .
 
-<https://w3id.org/musow/1639499542-599142/>
+<https://w3id.org/musow/1639499542-599142>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Kern Scores" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -17454,7 +17454,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Chris Appelgren" .
 
-<https://w3id.org/musow/1638796438-4034164/>
+<https://w3id.org/musow/1638796438-4034164>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "AFRICAN AMERICAN JAZZ PRESERVATION SOCIETY OF PITTSBURGH ORAL HISTORY PROJECT" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -17534,7 +17534,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "pirate radio" .
 
-<https://w3id.org/musow/1638962299-301302/>
+<https://w3id.org/musow/1638962299-301302>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "African Music Archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -17547,7 +17547,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1664525122-8075762/>
+<https://w3id.org/musow/1664525122-8075762>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Easter Matin (Ukrainian)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -17608,7 +17608,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "France" .
 
-<https://w3id.org/musow/1635268063-604864/>
+<https://w3id.org/musow/1635268063-604864>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "University of Colorado Digital Sheet Music Collection" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -17618,7 +17618,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1638961360-4878464/>
+<https://w3id.org/musow/1638961360-4878464>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Rutgers Institute of Jazz Studies portal" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -17705,7 +17705,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "realaudio" .
 
-<https://w3id.org/musow/1639161776-8138661/>
+<https://w3id.org/musow/1639161776-8138661>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Digital Fanzine Preservation Society" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -17722,7 +17722,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 ">1M" .
 
-<https://w3id.org/musow/1635268063-599964/>
+<https://w3id.org/musow/1635268063-599964>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Hymns and Carols of Christmas" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -17740,7 +17740,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Privative" .
 
-<https://w3id.org/musow/1635268063-603124/>
+<https://w3id.org/musow/1635268063-603124>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "LilyPond" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -17785,7 +17785,7 @@
         <https://schema.org/workExample>
                 <http://cudl.lib.cam.ac.uk/view/MS-ADD-02764-00002/4> .
 
-<https://w3id.org/musow/1664532167-6878502/>
+<https://w3id.org/musow/1664532167-6878502>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Бог Предвічний (Eternal God Born) Ukrainian Christmas Carol" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -17798,7 +17798,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-599139/>
+<https://w3id.org/musow/1635268063-599139>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "IMSLP Petrucci Music Library" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -17812,7 +17812,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "hardcore punk" .
 
-<https://w3id.org/musow/1635268063-58603/>
+<https://w3id.org/musow/1635268063-58603>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Performance History database of New York Philarmonic" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -17822,7 +17822,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-596594/>
+<https://w3id.org/musow/1635268063-596594>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Beethoven’s Werkstatt" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -17832,7 +17832,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-586478/>
+<https://w3id.org/musow/1635268063-586478>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Bach Digital" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -17963,7 +17963,7 @@
         <https://schema.org/workExample>
                 "https://opac.ub.uni-mainz.de/DB=1/SET=4/TTL=1/SHW?FRST=3" .
 
-<https://w3id.org/musow/1645551746-8065944/>
+<https://w3id.org/musow/1645551746-8065944>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MusicNet dataset" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -18010,7 +18010,7 @@
         <https://schema.org/workExample>
                 "https://uncg.worldcat.org/title/sarabande-d-major/oclc/826865846?referer=list_view" .
 
-<https://w3id.org/musow/1635268063-593289/>
+<https://w3id.org/musow/1635268063-593289>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "e-manuscripta" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -18156,7 +18156,7 @@
         <https://schema.org/workExample>
                 "https://arcmusic.org/catalogs/genres/" .
 
-<https://w3id.org/musow/1635268063-585732/>
+<https://w3id.org/musow/1635268063-585732>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MUSO Ontology" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -18166,7 +18166,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-604023/>
+<https://w3id.org/musow/1635268063-604023>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "ASCAP's ACE Title Search Database" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -18180,7 +18180,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "tiff" .
 
-<https://w3id.org/musow/1635268063-592986/>
+<https://w3id.org/musow/1635268063-592986>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Hof-Musik (Court Music)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -18292,7 +18292,7 @@
         <https://schema.org/workExample>
                 <https://github.com/DDMAL/salami-data-public/blob/master/annotations/10/textfile1.txt> .
 
-<https://w3id.org/musow/1635268063-584906/>
+<https://w3id.org/musow/1635268063-584906>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Edgar Allan Poe Digital Collection" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -18302,7 +18302,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1639496670-0553632/>
+<https://w3id.org/musow/1639496670-0553632>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Jean-Baptiste Lully Collection" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -18319,7 +18319,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Libretto" .
 
-<https://w3id.org/musow/1641118226-9568648/>
+<https://w3id.org/musow/1641118226-9568648>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Smithsonian music" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -18336,7 +18336,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "genre recognition" .
 
-<https://w3id.org/musow/1635268063-578868/>
+<https://w3id.org/musow/1635268063-578868>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Electronic and Virtual Editions" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -18346,7 +18346,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-588856/>
+<https://w3id.org/musow/1635268063-588856>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "International Harp Archives: Scores" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -18435,7 +18435,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Audio Melody Extraction" , "audio melody extraction" .
 
-<https://w3id.org/musow/1635268063-58365/>
+<https://w3id.org/musow/1635268063-58365>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Web Library of Seventeenth-Century Music (WLSCM)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -18461,7 +18461,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Digital edition" .
 
-<https://w3id.org/musow/1635268063-585805/>
+<https://w3id.org/musow/1635268063-585805>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Etree Vocabulary" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -18503,7 +18503,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "iconography" .
 
-<https://w3id.org/musow/1638957259-946052/>
+<https://w3id.org/musow/1638957259-946052>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Genius" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -18516,7 +18516,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1639384927-3863435/>
+<https://w3id.org/musow/1639384927-3863435>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Gracenote " ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -18559,7 +18559,7 @@
         <https://schema.org/name>       "Etree Vocabulary" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/music-information-retrieval> , <https://w3id.org/musow/vocab/music-analysis> , <https://w3id.org/musow/vocab/musicology> .
 
-<https://w3id.org/musow/1639500234-4994435/>
+<https://w3id.org/musow/1639500234-4994435>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Musica Brasilis" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -18584,7 +18584,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Europeana" .
 
-<https://w3id.org/musow/1641119206-6011822/>
+<https://w3id.org/musow/1641119206-6011822>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "DX Archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -18597,7 +18597,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1645712798-6517727/>
+<https://w3id.org/musow/1645712798-6517727>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Louisville Underground Music Archive (LUMA)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -18725,7 +18725,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Betty Carter" .
 
-<https://w3id.org/musow/1635268063-587671/>
+<https://w3id.org/musow/1635268063-587671>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Fiddle Tunes of the Old Frontier: The Henry Reed Collection" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -18807,7 +18807,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "University of Harvard" .
 
-<https://w3id.org/musow/1639215690-2141342/>
+<https://w3id.org/musow/1639215690-2141342>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "ISMIR datasets" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -18860,7 +18860,7 @@
         <https://schema.org/workExample>
                 <http://corago.unibo.it/resource/SPETTACOLI/CMBM14796> .
 
-<https://w3id.org/musow/1635268063-583946/>
+<https://w3id.org/musow/1635268063-583946>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Europeana Sounds" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -18870,7 +18870,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-583206/>
+<https://w3id.org/musow/1635268063-583206>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Carl Philipp Emanuel Bach: The Complete Works" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -19005,7 +19005,7 @@
         <https://schema.org/workExample>
                 <https://iiif.lib.harvard.edu/manifests/view/drs:37935983$15i> .
 
-<https://w3id.org/musow/1645713436-3183298/>
+<https://w3id.org/musow/1645713436-3183298>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "American religious sounds project" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -19022,7 +19022,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "mpeg-a" .
 
-<https://w3id.org/musow/1639162187-8908186/>
+<https://w3id.org/musow/1639162187-8908186>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Southern Punk Archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -19063,7 +19063,7 @@
         <https://schema.org/name>       "Motools" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/music-annotation> , <https://w3id.org/musow/vocab/lod-publication> , <https://w3id.org/musow/vocab/music-information-retrieval> .
 
-<https://w3id.org/musow/1635268063-580081/>
+<https://w3id.org/musow/1635268063-580081>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Music Gifts for the Russian Emperors" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -19109,7 +19109,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "National Institute of Musicology Carlos Vega" .
 
-<https://w3id.org/musow/1645537199-4875615/>
+<https://w3id.org/musow/1645537199-4875615>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Machine-readable Schenkerian analyses" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -19258,7 +19258,7 @@
         <https://schema.org/workExample>
                 "https://genius.com/artists/Abba" .
 
-<https://w3id.org/musow/1638956003-2813141/>
+<https://w3id.org/musow/1638956003-2813141>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "RIPM The Online Archive of Music Periodicals" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -19271,7 +19271,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-589389/>
+<https://w3id.org/musow/1635268063-589389>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Machaut Resources: Manuscripts Online" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -19281,7 +19281,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-585877/>
+<https://w3id.org/musow/1635268063-585877>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Centre for the History and Analysis of Recorded Music" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -19291,7 +19291,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-594427/>
+<https://w3id.org/musow/1635268063-594427>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MusOpen" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -19301,7 +19301,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-58209/>
+<https://w3id.org/musow/1635268063-58209>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "BBC John Peel Sessions" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -19345,7 +19345,7 @@
         <https://schema.org/workExample>
                 <http://www.hausmusik.ch/schnellsuche> .
 
-<https://w3id.org/musow/1635268063-586551/>
+<https://w3id.org/musow/1635268063-586551>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Ballets Russes de Serge Diaghilev at the Library of Congress" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -19434,7 +19434,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Center for Computer Assisted Research in the Humanities (CCARH)" .
 
-<https://w3id.org/musow/1645706845-306798/>
+<https://w3id.org/musow/1645706845-306798>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Classical Archives" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -19488,7 +19488,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Louis Armstrong" .
 
-<https://w3id.org/musow/1635268063-582826/>
+<https://w3id.org/musow/1635268063-582826>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Last.fm Dataset" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -19561,7 +19561,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "html5" .
 
-<https://w3id.org/musow/1635268063-587/>
+<https://w3id.org/musow/1635268063-587>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Civil War Sheet Music" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -19676,7 +19676,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "humdrum" .
 
-<https://w3id.org/musow/1635268063-597933/>
+<https://w3id.org/musow/1635268063-597933>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Studio Ontology" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -19850,7 +19850,7 @@
         <https://schema.org/workExample>
                 <http://en.scorser.com/I/Sheet+music/100097505.html> .
 
-<https://w3id.org/musow/1645709857-5004418/>
+<https://w3id.org/musow/1645709857-5004418>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "LvH - German" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -19863,7 +19863,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1645713223-837309/>
+<https://w3id.org/musow/1645713223-837309>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Live Nirvana" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -19892,7 +19892,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "EFRBRoo" .
 
-<https://w3id.org/musow/1635268063-595024/>
+<https://w3id.org/musow/1635268063-595024>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Henry" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -19935,7 +19935,7 @@
         <https://schema.org/workExample>
                 <http://commons.ptsem.edu/id/50hymnstunesarra00eich> .
 
-<https://w3id.org/musow/1635268063-584757/>
+<https://w3id.org/musow/1635268063-584757>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Digitale Bibliothek: Das Münchener Digitalisierungszentrum" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -20176,7 +20176,7 @@
         <https://schema.org/workExample>
                 "https://www.oxfordmusiconline.com/grovemusic/view/10.1093/gmo/9781561592630.001.0001/omo-9781561592630-e-0000000008?rskey=UNQCgj&result=1" .
 
-<https://w3id.org/musow/1638798713-4743624/>
+<https://w3id.org/musow/1638798713-4743624>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Deep Learning for Music (DL4M)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -20197,7 +20197,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Symbolic" .
 
-<https://w3id.org/musow/1635268063-600266/>
+<https://w3id.org/musow/1635268063-600266>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Fondo de Música Tradicional CSIC-IMF = Traditional Music Holdings" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -20236,7 +20236,7 @@
         <https://schema.org/workExample>
                 "https://www.fondation-langlois.org/html/e/media.php?NumObjet=58240" .
 
-<https://w3id.org/musow/1635268063-590653/>
+<https://w3id.org/musow/1635268063-590653>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Yiddish Sheet Music" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -20272,7 +20272,7 @@
         <https://schema.org/name>       "NINES" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/> .
 
-<https://w3id.org/musow/1635268063-595922/>
+<https://w3id.org/musow/1635268063-595922>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "DoReMus" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -20282,7 +20282,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-603796/>
+<https://w3id.org/musow/1635268063-603796>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "NINES" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -20322,7 +20322,7 @@
         <https://schema.org/workExample>
                 <http://data.discotheka.com/musical_work/piece-Accedens-revolvit-lapidem-Simon-Alexander-Abbott/id-VTch> .
 
-<https://w3id.org/musow/1635268063-582898/>
+<https://w3id.org/musow/1635268063-582898>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "tagtraum genre annotations for the Million Song Dataset" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -20332,7 +20332,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-592617/>
+<https://w3id.org/musow/1635268063-592617>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Musica Sacra" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -20342,7 +20342,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1639035690-2216108/>
+<https://w3id.org/musow/1639035690-2216108>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "National Cultural Audiovisual Archives" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -20427,7 +20427,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Single Interface for Music Score Searching and Analysis project" .
 
-<https://w3id.org/musow/1639495835-5028734/>
+<https://w3id.org/musow/1639495835-5028734>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Early Music Online" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -20444,7 +20444,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Audio Cover Song Identification" , "audio cover song identification" .
 
-<https://w3id.org/musow/1635268063-587889/>
+<https://w3id.org/musow/1635268063-587889>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Sheet Music From Canada's Past" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -20462,7 +20462,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "New Zealand" .
 
-<https://w3id.org/musow/1635268063-583359/>
+<https://w3id.org/musow/1635268063-583359>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Digitale Mozart-Edition = Digital Mozart Edition" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -20499,7 +20499,7 @@
                 "https://fourscoreandmore.org/musoRepo/" ;
         <https://schema.org/name>      "MusoRepo" .
 
-<https://w3id.org/musow/1635268063-579188/>
+<https://w3id.org/musow/1635268063-579188>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Ashford Sheet Music Collection" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -20513,7 +20513,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "cello performance" .
 
-<https://w3id.org/musow/1635268063-603869/>
+<https://w3id.org/musow/1635268063-603869>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Codici Electronici Ecclesiae Coloniensis (CEEC)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -20527,7 +20527,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "1990s" .
 
-<https://w3id.org/musow/1635268063-600037/>
+<https://w3id.org/musow/1635268063-600037>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Hausmusik" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -20537,7 +20537,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-59306/>
+<https://w3id.org/musow/1635268063-59306>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Fux Online" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -20547,7 +20547,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-595096/>
+<https://w3id.org/musow/1635268063-595096>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Echonest Conversion to RDF" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -20557,7 +20557,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1639161045-4407825/>
+<https://w3id.org/musow/1639161045-4407825>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Bob Dylan archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -20605,7 +20605,7 @@
         <https://schema.org/workExample>
                 <http://quod.lib.umich.edu/cgi/b/bib/bib-idx?type=simple&c=relics&sid=5ab64c16d9b33cd12556745d9802cc9a&q1=LAUDE&rgn1=title&cc=relics&view=reslist&sort=Title&page=reslist&start=1&size=10&fmt=long> .
 
-<https://w3id.org/musow/1635268063-585362/>
+<https://w3id.org/musow/1635268063-585362>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Margaret Herrick Library Digital Collections" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -20688,7 +20688,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "~Gb" .
 
-<https://w3id.org/musow/1635268063-60267/>
+<https://w3id.org/musow/1635268063-60267>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Sonic Annotator" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -20698,7 +20698,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-586841/>
+<https://w3id.org/musow/1635268063-586841>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "BYU Brussels Opera and Ballet" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -20708,7 +20708,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-589462/>
+<https://w3id.org/musow/1635268063-589462>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Medieval and Early Modern Manuscripts Collection" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -20795,7 +20795,7 @@
         <https://schema.org/name>       "Music Instrument taxonomies" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/music-annotation> .
 
-<https://w3id.org/musow/1635268063-59012/>
+<https://w3id.org/musow/1635268063-59012>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Schubert Online" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -20805,7 +20805,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-594725/>
+<https://w3id.org/musow/1635268063-594725>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Diskotheca" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -20856,7 +20856,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Timbre" .
 
-<https://w3id.org/musow/1664527234-1931784/>
+<https://w3id.org/musow/1664527234-1931784>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "What Flag is This - Що то за Прапор" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -20900,7 +20900,7 @@
         <https://schema.org/workExample>
                 "https://folkways.si.edu/a-quarter-century-of-smithsonian-folkways/music/playlist/smithsonian" .
 
-<https://w3id.org/musow/1635268063-599373/>
+<https://w3id.org/musow/1635268063-599373>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "SymbTr – Turkish Makam Music Symbolic Data Collection" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -20910,7 +20910,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1641116189-3026085/>
+<https://w3id.org/musow/1641116189-3026085>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Boston Public Library Vynil collection" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -20960,7 +20960,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Track" .
 
-<https://w3id.org/musow/1635268063-590798/>
+<https://w3id.org/musow/1635268063-590798>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "ORFEUS: The Post-Tridentine Music of Silence in the Cloister of S. Bento de Castris, Evora" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -21036,7 +21036,7 @@
         <https://schema.org/workExample>
                 <http://humdrum.org/Humdrum/guide02.html> .
 
-<https://w3id.org/musow/1638952534-525157/>
+<https://w3id.org/musow/1638952534-525157>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Irish Traditional Music Archive (Port collections)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -21049,7 +21049,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1645595889-5140848/>
+<https://w3id.org/musow/1645595889-5140848>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Parser of Jazz chords" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -21103,7 +21103,7 @@
         <https://schema.org/workExample>
                 <http://etree.linkedmusic.org/page/track/DBT2004-11-26.flac16-4> .
 
-<https://w3id.org/musow/1645710713-4868646/>
+<https://w3id.org/musow/1645710713-4868646>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Scores of Scores" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -21120,7 +21120,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "music of Jamaica" .
 
-<https://w3id.org/musow/1635268063-585508/>
+<https://w3id.org/musow/1635268063-585508>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "World Digital Library" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -21166,7 +21166,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Critical Minded" .
 
-<https://w3id.org/musow/1635268063-591641/>
+<https://w3id.org/musow/1635268063-591641>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Sarum Rite" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -21205,7 +21205,7 @@
         <https://schema.org/workExample>
                 <http://www2.bne.es/CANT_web/verFichaIncipitMusical.do?idIncipitMusical=2609&tipo=exacta> .
 
-<https://w3id.org/musow/1635268063-581794/>
+<https://w3id.org/musow/1635268063-581794>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "LinkedBrainz" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -21281,7 +21281,7 @@
                 <http://www.wikidata.org/entity/Q408> , <http://www.wikidata.org/entity/Q212> ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/ethnography> , <https://w3id.org/musow/vocab/performance> , <https://w3id.org/musow/vocab/history> , <https://w3id.org/musow/vocab/iconography> , <https://w3id.org/musow/vocab/theology> , <https://w3id.org/musow/vocab/musicology> .
 
-<https://w3id.org/musow/1645534899-5232813/>
+<https://w3id.org/musow/1645534899-5232813>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Generative Theory of Tonal Music" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -21294,7 +21294,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1641117441-7679298/>
+<https://w3id.org/musow/1641117441-7679298>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Soul Strut Archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -21348,7 +21348,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "listeners" .
 
-<https://w3id.org/musow/1635268063-599446/>
+<https://w3id.org/musow/1635268063-599446>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Visaudio Designs" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -21362,7 +21362,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Dmitri Shostakovich" .
 
-<https://w3id.org/musow/1635268063-598008/>
+<https://w3id.org/musow/1635268063-598008>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "AUFX-Ontology" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -21372,7 +21372,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-601017/>
+<https://w3id.org/musow/1635268063-601017>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "RISM Music Manuscript Inventory" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -21540,7 +21540,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "mei/xml" .
 
-<https://w3id.org/musow/1635268063-583122/>
+<https://w3id.org/musow/1635268063-583122>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Arnold Schönberg Center" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -21647,7 +21647,7 @@
         <https://schema.org/workExample>
                 <http://www.orfeus.pt/livros.php?livro=13#page/27> .
 
-<https://w3id.org/musow/1678368847-6564531/>
+<https://w3id.org/musow/1678368847-6564531>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "ChoCo: the Chord Corpus" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -21727,7 +21727,7 @@
         <https://schema.org/workExample>
                 <http://etree.linkedmusic.org/page/artist/422aecc0-4aac-012f-19e9-00254bd44c28> .
 
-<https://w3id.org/musow/1635268063-598841/>
+<https://w3id.org/musow/1635268063-598841>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "CMME Project: Computerized Mensural Music Editing" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -21737,7 +21737,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-599519/>
+<https://w3id.org/musow/1635268063-599519>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "La mà de guido" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -21854,7 +21854,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "marilenadaquino@polifonia.eu" .
 
-<https://w3id.org/musow/1635268063-597628/>
+<https://w3id.org/musow/1635268063-597628>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "SMuFL" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -21899,7 +21899,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Provides user-friendly search interfaces" .
 
-<https://w3id.org/musow/1639383646-0078893/>
+<https://w3id.org/musow/1639383646-0078893>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Choral Public Domain Library" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -21912,7 +21912,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-579636/>
+<https://w3id.org/musow/1635268063-579636>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "International Guitar Research Archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -22018,7 +22018,7 @@
         <https://schema.org/workExample>
                 <https://www.diamm.ac.uk/sources/587/#/> .
 
-<https://w3id.org/musow/1635268063-580682/>
+<https://w3id.org/musow/1635268063-580682>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Reid Concerts" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -22032,7 +22032,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "finale" .
 
-<https://w3id.org/musow/1635268063-597189/>
+<https://w3id.org/musow/1635268063-597189>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "UNT Music Catalog" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -22084,7 +22084,7 @@
         <https://schema.org/workExample>
                 <http://www.bl.uk/turning-the-pages/?id=38fd72b2-5b98-4fc2-aaae-98e717e8d512&type=book> .
 
-<https://w3id.org/musow/1645714826-766791/>
+<https://w3id.org/musow/1645714826-766791>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Sound archives of the CNRS - Musée de l'Homme" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -22176,7 +22176,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MIDI" .
 
-<https://w3id.org/musow/1635268063-585588/>
+<https://w3id.org/musow/1635268063-585588>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MPEG-A" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -22186,7 +22186,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-592762/>
+<https://w3id.org/musow/1635268063-592762>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Plainchant Sources in Poland" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -22265,7 +22265,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "ORFEUS: The Post-Tridentine Music of Silence in the Cloister of S. Bento de Castris" .
 
-<https://w3id.org/musow/1635268063-595552/>
+<https://w3id.org/musow/1635268063-595552>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Cantus Index" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -22275,7 +22275,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-600484/>
+<https://w3id.org/musow/1635268063-600484>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Cantigas Medievais Galego-Portuguesas" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -22293,7 +22293,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "MIDI Linked Data" .
 
-<https://w3id.org/musow/1635268063-580755/>
+<https://w3id.org/musow/1635268063-580755>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Liuteria Bresciana" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -22376,7 +22376,7 @@
         <https://schema.org/workExample>
                 <http://expositions.nlr.ru/MusicalManuscripts/_Project/page_Manuscripts.php?block=0878801C-EE16-4600-88D8-49F87A0502FD> .
 
-<https://w3id.org/musow/1638974544-1997092/>
+<https://w3id.org/musow/1638974544-1997092>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "AFROMIX" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -22401,7 +22401,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "German National Library" .
 
-<https://w3id.org/musow/1639299278-0244179/>
+<https://w3id.org/musow/1639299278-0244179>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "RollDaBeats" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -22484,7 +22484,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Peachnote Music n-Gram Viewer" .
 
-<https://w3id.org/musow/1645550570-9686573/>
+<https://w3id.org/musow/1645550570-9686573>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "When in Rome" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -22505,7 +22505,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Western world" .
 
-<https://w3id.org/musow/1635268063-583577/>
+<https://w3id.org/musow/1635268063-583577>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Ignaz Pleyel Early Editions" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -22549,7 +22549,7 @@
         <https://schema.org/workExample>
                 <http://ballads.bodleian.ox.ac.uk/search/title/Face%20the%20wall> .
 
-<https://w3id.org/musow/1635268063-578793/>
+<https://w3id.org/musow/1635268063-578793>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Online Resources for Music Scholars" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -22559,7 +22559,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-580828/>
+<https://w3id.org/musow/1635268063-580828>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Music Instrument Museums Online (MIMO)" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -22661,7 +22661,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "opera" .
 
-<https://w3id.org/musow/1639161926-8205845/>
+<https://w3id.org/musow/1639161926-8205845>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Encyclopaedia Metallum" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -22715,7 +22715,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Tulane University" .
 
-<https://w3id.org/musow/1635268063-58483/>
+<https://w3id.org/musow/1635268063-58483>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "DIGMA: Digital Greek Music Archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -22760,7 +22760,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "pdf" .
 
-<https://w3id.org/musow/1635268063-589897/>
+<https://w3id.org/musow/1635268063-589897>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Open Music Library" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -22774,7 +22774,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "music magazine" .
 
-<https://w3id.org/musow/1635268063-602282/>
+<https://w3id.org/musow/1635268063-602282>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "JRP Analysis tools" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -22858,7 +22858,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "bell" .
 
-<https://w3id.org/musow/1645711057-8155167/>
+<https://w3id.org/musow/1645711057-8155167>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "setlist.fm" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -23167,7 +23167,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Mellon Foundation grant" .
 
-<https://w3id.org/musow/1635268063-587307/>
+<https://w3id.org/musow/1635268063-587307>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Digital Image Archive of Medieval Music" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -23207,7 +23207,7 @@
         <https://schema.org/workExample>
                 "http://www.rolldabeats.com/release/33859/subtitles_music/subtitles059" .
 
-<https://w3id.org/musow/1635268063-602355/>
+<https://w3id.org/musow/1635268063-602355>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Augmented Notes" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -23288,7 +23288,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "codicology" .
 
-<https://w3id.org/musow/1635268063-599591/>
+<https://w3id.org/musow/1635268063-599591>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Lusthof der Muziek" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -23302,7 +23302,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Tor Vergata University of Rome" .
 
-<https://w3id.org/musow/1635268063-602053/>
+<https://w3id.org/musow/1635268063-602053>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "WWU Music Score Portal" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -23345,7 +23345,7 @@
         <https://schema.org/name>       "music21" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/music-annotation> .
 
-<https://w3id.org/musow/1635268063-586919/>
+<https://w3id.org/musow/1635268063-586919>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Cambridge Digital Library: Music" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -23355,7 +23355,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1645549823-7963371/>
+<https://w3id.org/musow/1645549823-7963371>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Taking form" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -23408,7 +23408,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Walker Art Center" .
 
-<https://w3id.org/musow/1635268063-58842/>
+<https://w3id.org/musow/1635268063-58842>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Franz Liszt at the Library of Congress" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -23455,7 +23455,7 @@
         <https://schema.org/name>       "Beethoven Piano Sonata with Function Harmony (BPS-FH) dataset" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/symbolic-melodic-similarity> , <https://w3id.org/musow/vocab/music-analysis> .
 
-<https://w3id.org/musow/1635268063-598463/>
+<https://w3id.org/musow/1635268063-598463>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Transforming Musicology" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -23500,7 +23500,7 @@
         <https://schema.org/workExample>
                 <http://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/284152> .
 
-<https://w3id.org/musow/1635268063-594951/>
+<https://w3id.org/musow/1635268063-594951>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "AudioScrobbler Data" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -23595,7 +23595,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "jazz" .
 
-<https://w3id.org/musow/1635268063-590208/>
+<https://w3id.org/musow/1635268063-590208>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Sibley Music Library: Musical Scores" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -23613,7 +23613,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Brandeis University" .
 
-<https://w3id.org/musow/1639384719-6027627/>
+<https://w3id.org/musow/1639384719-6027627>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "ACRCloud" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -23626,7 +23626,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1639496040-2246513/>
+<https://w3id.org/musow/1639496040-2246513>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Frances G. Spencer Collection of American Sheet Music" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -23639,7 +23639,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-599664/>
+<https://w3id.org/musow/1635268063-599664>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Folkoteca Galega" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -23653,7 +23653,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Dave Brubeck" .
 
-<https://w3id.org/musow/1635268063-593823/>
+<https://w3id.org/musow/1635268063-593823>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Player Piano Project, Stanford University" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -23691,7 +23691,7 @@
         <https://schema.org/name>       "tagtraum genre annotations for the Million Song Dataset" ;
         <https://schema.org/specialty>  <https://w3id.org/musow/vocab/genre-recognition> , <https://w3id.org/musow/vocab/music-information-retrieval> .
 
-<https://w3id.org/musow/1639161539-7816718/>
+<https://w3id.org/musow/1639161539-7816718>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "DC Punk Archive" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -23865,7 +23865,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "dance music" .
 
-<https://w3id.org/musow/1635268063-597033/>
+<https://w3id.org/musow/1635268063-597033>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Mozart Libretti – Online Edition" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -23879,7 +23879,7 @@
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "symphonic music" .
 
-<https://w3id.org/musow/1635268063-60305/>
+<https://w3id.org/musow/1635268063-60305>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "DMuse" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -23889,7 +23889,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1635268063-583867/>
+<https://w3id.org/musow/1635268063-583867>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Beethoven Digital" ;
         <http://www.w3.org/ns/prov#generatedAtTime>
@@ -23899,7 +23899,7 @@
         <https://w3id.org/musow/publicationStage>
                 "published" .
 
-<https://w3id.org/musow/1645711895-1029153/>
+<https://w3id.org/musow/1645711895-1029153>
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Kunst der fuge" ;
         <http://www.w3.org/ns/prov#generatedAtTime>

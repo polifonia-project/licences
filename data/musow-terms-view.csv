@@ -1,0 +1,1840 @@
+asset,resource,licenceCode,type,operation
+http://w3id.org/polifonia/licences/51b49dee5ccab082685bb84e09d59685,Lakh MIDI dataset,CC-BY_v4,Can,CommercialUse
+http://w3id.org/polifonia/licences/51b49dee5ccab082685bb84e09d59685,Lakh MIDI dataset,CC-BY_v4,Can,ModifiedWorks
+http://w3id.org/polifonia/licences/51b49dee5ccab082685bb84e09d59685,Lakh MIDI dataset,CC-BY_v4,Can,derive
+http://w3id.org/polifonia/licences/51b49dee5ccab082685bb84e09d59685,Lakh MIDI dataset,CC-BY_v4,Can,present
+http://w3id.org/polifonia/licences/51b49dee5ccab082685bb84e09d59685,Lakh MIDI dataset,CC-BY_v4,Can,modify
+http://w3id.org/polifonia/licences/51b49dee5ccab082685bb84e09d59685,Lakh MIDI dataset,CC-BY_v4,Can,reproduce
+http://w3id.org/polifonia/licences/51b49dee5ccab082685bb84e09d59685,Lakh MIDI dataset,CC-BY_v4,Can,DerivativeWorks
+http://w3id.org/polifonia/licences/51b49dee5ccab082685bb84e09d59685,Lakh MIDI dataset,CC-BY_v4,Can,distribute
+http://w3id.org/polifonia/licences/51b49dee5ccab082685bb84e09d59685,Lakh MIDI dataset,CC-BY_v4,Can,chargeDistributionFee
+http://w3id.org/polifonia/licences/51b49dee5ccab082685bb84e09d59685,Lakh MIDI dataset,CC-BY_v4,Can,display
+http://w3id.org/polifonia/licences/51b49dee5ccab082685bb84e09d59685,Lakh MIDI dataset,CC-BY_v4,Cannot,ChangeLicense
+http://w3id.org/polifonia/licences/51b49dee5ccab082685bb84e09d59685,Lakh MIDI dataset,CC-BY_v4,Cannot,promote
+http://w3id.org/polifonia/licences/51b49dee5ccab082685bb84e09d59685,Lakh MIDI dataset,CC-BY_v4,Must,modificationNotice
+http://w3id.org/polifonia/licences/51b49dee5ccab082685bb84e09d59685,Lakh MIDI dataset,CC-BY_v4,Must,Notice
+http://w3id.org/polifonia/licences/51b49dee5ccab082685bb84e09d59685,Lakh MIDI dataset,CC-BY_v4,Must,Attribution
+http://w3id.org/polifonia/licences/c17b91d1c8c1a5d76cb599f90cb50b34,DBpedia,Apache-2.0,Can,DerivativeWorks
+http://w3id.org/polifonia/licences/c17b91d1c8c1a5d76cb599f90cb50b34,DBpedia,Apache-2.0,Can,CommercialUse
+http://w3id.org/polifonia/licences/c17b91d1c8c1a5d76cb599f90cb50b34,DBpedia,Apache-2.0,Can,ChangeLicense
+http://w3id.org/polifonia/licences/c17b91d1c8c1a5d76cb599f90cb50b34,DBpedia,Apache-2.0,Can,reproduce
+http://w3id.org/polifonia/licences/c17b91d1c8c1a5d76cb599f90cb50b34,DBpedia,Apache-2.0,Can,chargeDistributionFee
+http://w3id.org/polifonia/licences/c17b91d1c8c1a5d76cb599f90cb50b34,DBpedia,Apache-2.0,Can,ModifiedWorks
+http://w3id.org/polifonia/licences/c17b91d1c8c1a5d76cb599f90cb50b34,DBpedia,Apache-2.0,Can,modify
+http://w3id.org/polifonia/licences/c17b91d1c8c1a5d76cb599f90cb50b34,DBpedia,Apache-2.0,Can,present
+http://w3id.org/polifonia/licences/c17b91d1c8c1a5d76cb599f90cb50b34,DBpedia,Apache-2.0,Can,distribute
+http://w3id.org/polifonia/licences/c17b91d1c8c1a5d76cb599f90cb50b34,DBpedia,Apache-2.0,Can,derive
+http://w3id.org/polifonia/licences/c17b91d1c8c1a5d76cb599f90cb50b34,DBpedia,Apache-2.0,Can,display
+http://w3id.org/polifonia/licences/c17b91d1c8c1a5d76cb599f90cb50b34,DBpedia,Apache-2.0,Cannot,promote
+http://w3id.org/polifonia/licences/c17b91d1c8c1a5d76cb599f90cb50b34,DBpedia,Apache-2.0,Must,compliantLicense
+http://w3id.org/polifonia/licences/c17b91d1c8c1a5d76cb599f90cb50b34,DBpedia,Apache-2.0,Must,modificationNotice
+http://w3id.org/polifonia/licences/c17b91d1c8c1a5d76cb599f90cb50b34,DBpedia,Apache-2.0,Must,Attribution
+http://w3id.org/polifonia/licences/c17b91d1c8c1a5d76cb599f90cb50b34,DBpedia,Apache-2.0,Must,Notice
+http://w3id.org/polifonia/licences/65cbc71bea12de8caa4a729006a3ac54,Listening Experience Database,CC-BY-NC-SA_v4,Can,derive
+http://w3id.org/polifonia/licences/65cbc71bea12de8caa4a729006a3ac54,Listening Experience Database,CC-BY-NC-SA_v4,Can,ModifiedWorks
+http://w3id.org/polifonia/licences/65cbc71bea12de8caa4a729006a3ac54,Listening Experience Database,CC-BY-NC-SA_v4,Can,modify
+http://w3id.org/polifonia/licences/65cbc71bea12de8caa4a729006a3ac54,Listening Experience Database,CC-BY-NC-SA_v4,Can,reproduce
+http://w3id.org/polifonia/licences/65cbc71bea12de8caa4a729006a3ac54,Listening Experience Database,CC-BY-NC-SA_v4,Can,display
+http://w3id.org/polifonia/licences/65cbc71bea12de8caa4a729006a3ac54,Listening Experience Database,CC-BY-NC-SA_v4,Can,present
+http://w3id.org/polifonia/licences/65cbc71bea12de8caa4a729006a3ac54,Listening Experience Database,CC-BY-NC-SA_v4,Can,DerivativeWorks
+http://w3id.org/polifonia/licences/65cbc71bea12de8caa4a729006a3ac54,Listening Experience Database,CC-BY-NC-SA_v4,Can,distribute
+http://w3id.org/polifonia/licences/65cbc71bea12de8caa4a729006a3ac54,Listening Experience Database,CC-BY-NC-SA_v4,Cannot,ChangeLicense
+http://w3id.org/polifonia/licences/65cbc71bea12de8caa4a729006a3ac54,Listening Experience Database,CC-BY-NC-SA_v4,Cannot,promote
+http://w3id.org/polifonia/licences/65cbc71bea12de8caa4a729006a3ac54,Listening Experience Database,CC-BY-NC-SA_v4,Cannot,CommercialUse
+http://w3id.org/polifonia/licences/65cbc71bea12de8caa4a729006a3ac54,Listening Experience Database,CC-BY-NC-SA_v4,Must,modificationNotice
+http://w3id.org/polifonia/licences/65cbc71bea12de8caa4a729006a3ac54,Listening Experience Database,CC-BY-NC-SA_v4,Must,Notice
+http://w3id.org/polifonia/licences/65cbc71bea12de8caa4a729006a3ac54,Listening Experience Database,CC-BY-NC-SA_v4,Must,Attribution
+http://w3id.org/polifonia/licences/e1875fc379c063c582658ef6a38414e8,Internet Archive.org,GNU_GPL_v3,Can,reproduce
+http://w3id.org/polifonia/licences/e1875fc379c063c582658ef6a38414e8,Internet Archive.org,GNU_GPL_v3,Can,distribute
+http://w3id.org/polifonia/licences/e1875fc379c063c582658ef6a38414e8,Internet Archive.org,GNU_GPL_v3,Can,display
+http://w3id.org/polifonia/licences/e1875fc379c063c582658ef6a38414e8,Internet Archive.org,GNU_GPL_v3,Can,modify
+http://w3id.org/polifonia/licences/e1875fc379c063c582658ef6a38414e8,Internet Archive.org,GNU_GPL_v3,Can,CommercialUse
+http://w3id.org/polifonia/licences/e1875fc379c063c582658ef6a38414e8,Internet Archive.org,GNU_GPL_v3,Can,present
+http://w3id.org/polifonia/licences/e1875fc379c063c582658ef6a38414e8,Internet Archive.org,GNU_GPL_v3,Can,ModifiedWorks
+http://w3id.org/polifonia/licences/e1875fc379c063c582658ef6a38414e8,Internet Archive.org,GNU_GPL_v3,Can,derive
+http://w3id.org/polifonia/licences/e1875fc379c063c582658ef6a38414e8,Internet Archive.org,GNU_GPL_v3,Can,DerivativeWorks
+http://w3id.org/polifonia/licences/e1875fc379c063c582658ef6a38414e8,Internet Archive.org,GNU_GPL_v3,Cannot,ChangeLicense
+http://w3id.org/polifonia/licences/e1875fc379c063c582658ef6a38414e8,Internet Archive.org,GNU_GPL_v3,Cannot,promote
+http://w3id.org/polifonia/licences/e1875fc379c063c582658ef6a38414e8,Internet Archive.org,GNU_GPL_v3,Must,SourceCode
+http://w3id.org/polifonia/licences/e1875fc379c063c582658ef6a38414e8,Internet Archive.org,GNU_GPL_v3,Must,Notice
+http://w3id.org/polifonia/licences/e1875fc379c063c582658ef6a38414e8,Internet Archive.org,GNU_GPL_v3,Must,Attribution
+http://w3id.org/polifonia/licences/e1875fc379c063c582658ef6a38414e8,Internet Archive.org,GNU_GPL_v3,Must,modificationNotice
+http://w3id.org/polifonia/licences/1b6ddeb64d22500a3bf233c31b3898a2,The Lost Voices project,CC-BY-NC_v4,Can,modify
+http://w3id.org/polifonia/licences/1b6ddeb64d22500a3bf233c31b3898a2,The Lost Voices project,CC-BY-NC_v4,Can,chargeDistributionFee
+http://w3id.org/polifonia/licences/1b6ddeb64d22500a3bf233c31b3898a2,The Lost Voices project,CC-BY-NC_v4,Can,reproduce
+http://w3id.org/polifonia/licences/1b6ddeb64d22500a3bf233c31b3898a2,The Lost Voices project,CC-BY-NC_v4,Can,present
+http://w3id.org/polifonia/licences/1b6ddeb64d22500a3bf233c31b3898a2,The Lost Voices project,CC-BY-NC_v4,Can,display
+http://w3id.org/polifonia/licences/1b6ddeb64d22500a3bf233c31b3898a2,The Lost Voices project,CC-BY-NC_v4,Can,DerivativeWorks
+http://w3id.org/polifonia/licences/1b6ddeb64d22500a3bf233c31b3898a2,The Lost Voices project,CC-BY-NC_v4,Can,ModifiedWorks
+http://w3id.org/polifonia/licences/1b6ddeb64d22500a3bf233c31b3898a2,The Lost Voices project,CC-BY-NC_v4,Can,derive
+http://w3id.org/polifonia/licences/1b6ddeb64d22500a3bf233c31b3898a2,The Lost Voices project,CC-BY-NC_v4,Can,distribute
+http://w3id.org/polifonia/licences/1b6ddeb64d22500a3bf233c31b3898a2,The Lost Voices project,CC-BY-NC_v4,Cannot,CommercialUse
+http://w3id.org/polifonia/licences/1b6ddeb64d22500a3bf233c31b3898a2,The Lost Voices project,CC-BY-NC_v4,Cannot,promote
+http://w3id.org/polifonia/licences/1b6ddeb64d22500a3bf233c31b3898a2,The Lost Voices project,CC-BY-NC_v4,Cannot,ChangeLicense
+http://w3id.org/polifonia/licences/1b6ddeb64d22500a3bf233c31b3898a2,The Lost Voices project,CC-BY-NC_v4,Must,modificationNotice
+http://w3id.org/polifonia/licences/1b6ddeb64d22500a3bf233c31b3898a2,The Lost Voices project,CC-BY-NC_v4,Must,Notice
+http://w3id.org/polifonia/licences/1b6ddeb64d22500a3bf233c31b3898a2,The Lost Voices project,CC-BY-NC_v4,Must,Attribution
+http://w3id.org/polifonia/licences/8414a361d4e69fdcb5f8158b381c5f84,Catalogo Generale dei Beni Culturali,CC-BY-SA_v4,Can,modify
+http://w3id.org/polifonia/licences/8414a361d4e69fdcb5f8158b381c5f84,Catalogo Generale dei Beni Culturali,CC-BY-SA_v4,Can,distribute
+http://w3id.org/polifonia/licences/8414a361d4e69fdcb5f8158b381c5f84,Catalogo Generale dei Beni Culturali,CC-BY-SA_v4,Can,ModifiedWorks
+http://w3id.org/polifonia/licences/8414a361d4e69fdcb5f8158b381c5f84,Catalogo Generale dei Beni Culturali,CC-BY-SA_v4,Can,derive
+http://w3id.org/polifonia/licences/8414a361d4e69fdcb5f8158b381c5f84,Catalogo Generale dei Beni Culturali,CC-BY-SA_v4,Can,DerivativeWorks
+http://w3id.org/polifonia/licences/8414a361d4e69fdcb5f8158b381c5f84,Catalogo Generale dei Beni Culturali,CC-BY-SA_v4,Can,CommercialUse
+http://w3id.org/polifonia/licences/8414a361d4e69fdcb5f8158b381c5f84,Catalogo Generale dei Beni Culturali,CC-BY-SA_v4,Can,present
+http://w3id.org/polifonia/licences/8414a361d4e69fdcb5f8158b381c5f84,Catalogo Generale dei Beni Culturali,CC-BY-SA_v4,Can,reproduce
+http://w3id.org/polifonia/licences/8414a361d4e69fdcb5f8158b381c5f84,Catalogo Generale dei Beni Culturali,CC-BY-SA_v4,Can,display
+http://w3id.org/polifonia/licences/8414a361d4e69fdcb5f8158b381c5f84,Catalogo Generale dei Beni Culturali,CC-BY-SA_v4,Cannot,ChangeLicense
+http://w3id.org/polifonia/licences/8414a361d4e69fdcb5f8158b381c5f84,Catalogo Generale dei Beni Culturali,CC-BY-SA_v4,Cannot,promote
+http://w3id.org/polifonia/licences/8414a361d4e69fdcb5f8158b381c5f84,Catalogo Generale dei Beni Culturali,CC-BY-SA_v4,Must,Attribution
+http://w3id.org/polifonia/licences/8414a361d4e69fdcb5f8158b381c5f84,Catalogo Generale dei Beni Culturali,CC-BY-SA_v4,Must,modificationNotice
+http://w3id.org/polifonia/licences/8414a361d4e69fdcb5f8158b381c5f84,Catalogo Generale dei Beni Culturali,CC-BY-SA_v4,Must,Notice
+http://w3id.org/polifonia/licences/dfad9f1ea57adec7ba93c021deeed03a,Common Thesaurus for Audiovisual Archives,CC-BY_v4,Can,CommercialUse
+http://w3id.org/polifonia/licences/dfad9f1ea57adec7ba93c021deeed03a,Common Thesaurus for Audiovisual Archives,CC-BY_v4,Can,ModifiedWorks
+http://w3id.org/polifonia/licences/dfad9f1ea57adec7ba93c021deeed03a,Common Thesaurus for Audiovisual Archives,CC-BY_v4,Can,derive
+http://w3id.org/polifonia/licences/dfad9f1ea57adec7ba93c021deeed03a,Common Thesaurus for Audiovisual Archives,CC-BY_v4,Can,present
+http://w3id.org/polifonia/licences/dfad9f1ea57adec7ba93c021deeed03a,Common Thesaurus for Audiovisual Archives,CC-BY_v4,Can,modify
+http://w3id.org/polifonia/licences/dfad9f1ea57adec7ba93c021deeed03a,Common Thesaurus for Audiovisual Archives,CC-BY_v4,Can,reproduce
+http://w3id.org/polifonia/licences/dfad9f1ea57adec7ba93c021deeed03a,Common Thesaurus for Audiovisual Archives,CC-BY_v4,Can,DerivativeWorks
+http://w3id.org/polifonia/licences/dfad9f1ea57adec7ba93c021deeed03a,Common Thesaurus for Audiovisual Archives,CC-BY_v4,Can,distribute
+http://w3id.org/polifonia/licences/dfad9f1ea57adec7ba93c021deeed03a,Common Thesaurus for Audiovisual Archives,CC-BY_v4,Can,chargeDistributionFee
+http://w3id.org/polifonia/licences/dfad9f1ea57adec7ba93c021deeed03a,Common Thesaurus for Audiovisual Archives,CC-BY_v4,Can,display
+http://w3id.org/polifonia/licences/dfad9f1ea57adec7ba93c021deeed03a,Common Thesaurus for Audiovisual Archives,CC-BY_v4,Cannot,ChangeLicense
+http://w3id.org/polifonia/licences/dfad9f1ea57adec7ba93c021deeed03a,Common Thesaurus for Audiovisual Archives,CC-BY_v4,Cannot,promote
+http://w3id.org/polifonia/licences/dfad9f1ea57adec7ba93c021deeed03a,Common Thesaurus for Audiovisual Archives,CC-BY_v4,Must,modificationNotice
+http://w3id.org/polifonia/licences/dfad9f1ea57adec7ba93c021deeed03a,Common Thesaurus for Audiovisual Archives,CC-BY_v4,Must,Notice
+http://w3id.org/polifonia/licences/dfad9f1ea57adec7ba93c021deeed03a,Common Thesaurus for Audiovisual Archives,CC-BY_v4,Must,Attribution
+http://w3id.org/polifonia/licences/56a6ef116330db452e6d00bb99f60909,MIDI-LD,Cc010Universal,Can,present
+http://w3id.org/polifonia/licences/56a6ef116330db452e6d00bb99f60909,MIDI-LD,Cc010Universal,Can,distribute
+http://w3id.org/polifonia/licences/56a6ef116330db452e6d00bb99f60909,MIDI-LD,Cc010Universal,Can,DerivativeWorks
+http://w3id.org/polifonia/licences/56a6ef116330db452e6d00bb99f60909,MIDI-LD,Cc010Universal,Can,chargeDistributionFee
+http://w3id.org/polifonia/licences/56a6ef116330db452e6d00bb99f60909,MIDI-LD,Cc010Universal,Can,modify
+http://w3id.org/polifonia/licences/56a6ef116330db452e6d00bb99f60909,MIDI-LD,Cc010Universal,Can,ModifiedWorks
+http://w3id.org/polifonia/licences/56a6ef116330db452e6d00bb99f60909,MIDI-LD,Cc010Universal,Can,derive
+http://w3id.org/polifonia/licences/56a6ef116330db452e6d00bb99f60909,MIDI-LD,Cc010Universal,Can,ChangeLicense
+http://w3id.org/polifonia/licences/56a6ef116330db452e6d00bb99f60909,MIDI-LD,Cc010Universal,Can,display
+http://w3id.org/polifonia/licences/56a6ef116330db452e6d00bb99f60909,MIDI-LD,Cc010Universal,Can,CommercialUse
+http://w3id.org/polifonia/licences/56a6ef116330db452e6d00bb99f60909,MIDI-LD,Cc010Universal,Can,reproduce
+http://w3id.org/polifonia/licences/56a6ef116330db452e6d00bb99f60909,MIDI-LD,Cc010Universal,Cannot,promote
+http://w3id.org/polifonia/licences/dce788ef721dbb8b746b183021ff4d5b,CRIM (European side),GNU_GPL_v3,Can,reproduce
+http://w3id.org/polifonia/licences/dce788ef721dbb8b746b183021ff4d5b,CRIM (European side),GNU_GPL_v3,Can,distribute
+http://w3id.org/polifonia/licences/dce788ef721dbb8b746b183021ff4d5b,CRIM (European side),GNU_GPL_v3,Can,display
+http://w3id.org/polifonia/licences/dce788ef721dbb8b746b183021ff4d5b,CRIM (European side),GNU_GPL_v3,Can,modify
+http://w3id.org/polifonia/licences/dce788ef721dbb8b746b183021ff4d5b,CRIM (European side),GNU_GPL_v3,Can,CommercialUse
+http://w3id.org/polifonia/licences/dce788ef721dbb8b746b183021ff4d5b,CRIM (European side),GNU_GPL_v3,Can,present
+http://w3id.org/polifonia/licences/dce788ef721dbb8b746b183021ff4d5b,CRIM (European side),GNU_GPL_v3,Can,ModifiedWorks
+http://w3id.org/polifonia/licences/dce788ef721dbb8b746b183021ff4d5b,CRIM (European side),GNU_GPL_v3,Can,derive
+http://w3id.org/polifonia/licences/dce788ef721dbb8b746b183021ff4d5b,CRIM (European side),GNU_GPL_v3,Can,DerivativeWorks
+http://w3id.org/polifonia/licences/dce788ef721dbb8b746b183021ff4d5b,CRIM (European side),GNU_GPL_v3,Cannot,ChangeLicense
+http://w3id.org/polifonia/licences/dce788ef721dbb8b746b183021ff4d5b,CRIM (European side),GNU_GPL_v3,Cannot,promote
+http://w3id.org/polifonia/licences/dce788ef721dbb8b746b183021ff4d5b,CRIM (European side),GNU_GPL_v3,Must,SourceCode
+http://w3id.org/polifonia/licences/dce788ef721dbb8b746b183021ff4d5b,CRIM (European side),GNU_GPL_v3,Must,Notice
+http://w3id.org/polifonia/licences/dce788ef721dbb8b746b183021ff4d5b,CRIM (European side),GNU_GPL_v3,Must,Attribution
+http://w3id.org/polifonia/licences/dce788ef721dbb8b746b183021ff4d5b,CRIM (European side),GNU_GPL_v3,Must,modificationNotice
+http://w3id.org/polifonia/licences/b6be2be069196525c72604617b272213,Neuma digital library,CC-BY-SA_v4,Can,modify
+http://w3id.org/polifonia/licences/b6be2be069196525c72604617b272213,Neuma digital library,CC-BY-SA_v4,Can,distribute
+http://w3id.org/polifonia/licences/b6be2be069196525c72604617b272213,Neuma digital library,CC-BY-SA_v4,Can,ModifiedWorks
+http://w3id.org/polifonia/licences/b6be2be069196525c72604617b272213,Neuma digital library,CC-BY-SA_v4,Can,derive
+http://w3id.org/polifonia/licences/b6be2be069196525c72604617b272213,Neuma digital library,CC-BY-SA_v4,Can,DerivativeWorks
+http://w3id.org/polifonia/licences/b6be2be069196525c72604617b272213,Neuma digital library,CC-BY-SA_v4,Can,CommercialUse
+http://w3id.org/polifonia/licences/b6be2be069196525c72604617b272213,Neuma digital library,CC-BY-SA_v4,Can,present
+http://w3id.org/polifonia/licences/b6be2be069196525c72604617b272213,Neuma digital library,CC-BY-SA_v4,Can,reproduce
+http://w3id.org/polifonia/licences/b6be2be069196525c72604617b272213,Neuma digital library,CC-BY-SA_v4,Can,display
+http://w3id.org/polifonia/licences/b6be2be069196525c72604617b272213,Neuma digital library,CC-BY-SA_v4,Cannot,ChangeLicense
+http://w3id.org/polifonia/licences/b6be2be069196525c72604617b272213,Neuma digital library,CC-BY-SA_v4,Cannot,promote
+http://w3id.org/polifonia/licences/b6be2be069196525c72604617b272213,Neuma digital library,CC-BY-SA_v4,Must,Attribution
+http://w3id.org/polifonia/licences/b6be2be069196525c72604617b272213,Neuma digital library,CC-BY-SA_v4,Must,modificationNotice
+http://w3id.org/polifonia/licences/b6be2be069196525c72604617b272213,Neuma digital library,CC-BY-SA_v4,Must,Notice
+http://w3id.org/polifonia/licences/315c2804cc6d214d939accc9fa454510,Josquin project,CC-BY-SA_v4,Can,modify
+http://w3id.org/polifonia/licences/315c2804cc6d214d939accc9fa454510,Josquin project,CC-BY-SA_v4,Can,distribute
+http://w3id.org/polifonia/licences/315c2804cc6d214d939accc9fa454510,Josquin project,CC-BY-SA_v4,Can,ModifiedWorks
+http://w3id.org/polifonia/licences/315c2804cc6d214d939accc9fa454510,Josquin project,CC-BY-SA_v4,Can,derive
+http://w3id.org/polifonia/licences/315c2804cc6d214d939accc9fa454510,Josquin project,CC-BY-SA_v4,Can,DerivativeWorks
+http://w3id.org/polifonia/licences/315c2804cc6d214d939accc9fa454510,Josquin project,CC-BY-SA_v4,Can,CommercialUse
+http://w3id.org/polifonia/licences/315c2804cc6d214d939accc9fa454510,Josquin project,CC-BY-SA_v4,Can,present
+http://w3id.org/polifonia/licences/315c2804cc6d214d939accc9fa454510,Josquin project,CC-BY-SA_v4,Can,reproduce
+http://w3id.org/polifonia/licences/315c2804cc6d214d939accc9fa454510,Josquin project,CC-BY-SA_v4,Can,display
+http://w3id.org/polifonia/licences/315c2804cc6d214d939accc9fa454510,Josquin project,CC-BY-SA_v4,Cannot,ChangeLicense
+http://w3id.org/polifonia/licences/315c2804cc6d214d939accc9fa454510,Josquin project,CC-BY-SA_v4,Cannot,promote
+http://w3id.org/polifonia/licences/315c2804cc6d214d939accc9fa454510,Josquin project,CC-BY-SA_v4,Must,Attribution
+http://w3id.org/polifonia/licences/315c2804cc6d214d939accc9fa454510,Josquin project,CC-BY-SA_v4,Must,modificationNotice
+http://w3id.org/polifonia/licences/315c2804cc6d214d939accc9fa454510,Josquin project,CC-BY-SA_v4,Must,Notice
+http://w3id.org/polifonia/licences/f96aa862d6716c49ca3874d8a2698e79,Gesualdo online,GNU_GPL_v3,Can,reproduce
+http://w3id.org/polifonia/licences/f96aa862d6716c49ca3874d8a2698e79,Gesualdo online,GNU_GPL_v3,Can,distribute
+http://w3id.org/polifonia/licences/f96aa862d6716c49ca3874d8a2698e79,Gesualdo online,GNU_GPL_v3,Can,display
+http://w3id.org/polifonia/licences/f96aa862d6716c49ca3874d8a2698e79,Gesualdo online,GNU_GPL_v3,Can,modify
+http://w3id.org/polifonia/licences/f96aa862d6716c49ca3874d8a2698e79,Gesualdo online,GNU_GPL_v3,Can,CommercialUse
+http://w3id.org/polifonia/licences/f96aa862d6716c49ca3874d8a2698e79,Gesualdo online,GNU_GPL_v3,Can,present
+http://w3id.org/polifonia/licences/f96aa862d6716c49ca3874d8a2698e79,Gesualdo online,GNU_GPL_v3,Can,ModifiedWorks
+http://w3id.org/polifonia/licences/f96aa862d6716c49ca3874d8a2698e79,Gesualdo online,GNU_GPL_v3,Can,derive
+http://w3id.org/polifonia/licences/f96aa862d6716c49ca3874d8a2698e79,Gesualdo online,GNU_GPL_v3,Can,DerivativeWorks
+http://w3id.org/polifonia/licences/f96aa862d6716c49ca3874d8a2698e79,Gesualdo online,GNU_GPL_v3,Cannot,ChangeLicense
+http://w3id.org/polifonia/licences/f96aa862d6716c49ca3874d8a2698e79,Gesualdo online,GNU_GPL_v3,Cannot,promote
+http://w3id.org/polifonia/licences/f96aa862d6716c49ca3874d8a2698e79,Gesualdo online,GNU_GPL_v3,Must,SourceCode
+http://w3id.org/polifonia/licences/f96aa862d6716c49ca3874d8a2698e79,Gesualdo online,GNU_GPL_v3,Must,Notice
+http://w3id.org/polifonia/licences/f96aa862d6716c49ca3874d8a2698e79,Gesualdo online,GNU_GPL_v3,Must,Attribution
+http://w3id.org/polifonia/licences/f96aa862d6716c49ca3874d8a2698e79,Gesualdo online,GNU_GPL_v3,Must,modificationNotice
+http://w3id.org/polifonia/licences/4151d3d86c4c150bf845b56dc5bc371b,Dutch Song Database,CC-BY-NC-SA_v4,Can,derive
+http://w3id.org/polifonia/licences/4151d3d86c4c150bf845b56dc5bc371b,Dutch Song Database,CC-BY-NC-SA_v4,Can,ModifiedWorks
+http://w3id.org/polifonia/licences/4151d3d86c4c150bf845b56dc5bc371b,Dutch Song Database,CC-BY-NC-SA_v4,Can,modify
+http://w3id.org/polifonia/licences/4151d3d86c4c150bf845b56dc5bc371b,Dutch Song Database,CC-BY-NC-SA_v4,Can,reproduce
+http://w3id.org/polifonia/licences/4151d3d86c4c150bf845b56dc5bc371b,Dutch Song Database,CC-BY-NC-SA_v4,Can,display
+http://w3id.org/polifonia/licences/4151d3d86c4c150bf845b56dc5bc371b,Dutch Song Database,CC-BY-NC-SA_v4,Can,present
+http://w3id.org/polifonia/licences/4151d3d86c4c150bf845b56dc5bc371b,Dutch Song Database,CC-BY-NC-SA_v4,Can,DerivativeWorks
+http://w3id.org/polifonia/licences/4151d3d86c4c150bf845b56dc5bc371b,Dutch Song Database,CC-BY-NC-SA_v4,Can,distribute
+http://w3id.org/polifonia/licences/4151d3d86c4c150bf845b56dc5bc371b,Dutch Song Database,CC-BY-NC-SA_v4,Cannot,ChangeLicense
+http://w3id.org/polifonia/licences/4151d3d86c4c150bf845b56dc5bc371b,Dutch Song Database,CC-BY-NC-SA_v4,Cannot,promote
+http://w3id.org/polifonia/licences/4151d3d86c4c150bf845b56dc5bc371b,Dutch Song Database,CC-BY-NC-SA_v4,Cannot,CommercialUse
+http://w3id.org/polifonia/licences/4151d3d86c4c150bf845b56dc5bc371b,Dutch Song Database,CC-BY-NC-SA_v4,Must,modificationNotice
+http://w3id.org/polifonia/licences/4151d3d86c4c150bf845b56dc5bc371b,Dutch Song Database,CC-BY-NC-SA_v4,Must,Notice
+http://w3id.org/polifonia/licences/4151d3d86c4c150bf845b56dc5bc371b,Dutch Song Database,CC-BY-NC-SA_v4,Must,Attribution
+http://w3id.org/polifonia/licences/9755043f10c1148c97ca24b3a40419d2,CRIM (American side),CC-BY-NC_v4,Can,modify
+http://w3id.org/polifonia/licences/9755043f10c1148c97ca24b3a40419d2,CRIM (American side),CC-BY-NC_v4,Can,chargeDistributionFee
+http://w3id.org/polifonia/licences/9755043f10c1148c97ca24b3a40419d2,CRIM (American side),CC-BY-NC_v4,Can,reproduce
+http://w3id.org/polifonia/licences/9755043f10c1148c97ca24b3a40419d2,CRIM (American side),CC-BY-NC_v4,Can,present
+http://w3id.org/polifonia/licences/9755043f10c1148c97ca24b3a40419d2,CRIM (American side),CC-BY-NC_v4,Can,display
+http://w3id.org/polifonia/licences/9755043f10c1148c97ca24b3a40419d2,CRIM (American side),CC-BY-NC_v4,Can,DerivativeWorks
+http://w3id.org/polifonia/licences/9755043f10c1148c97ca24b3a40419d2,CRIM (American side),CC-BY-NC_v4,Can,ModifiedWorks
+http://w3id.org/polifonia/licences/9755043f10c1148c97ca24b3a40419d2,CRIM (American side),CC-BY-NC_v4,Can,derive
+http://w3id.org/polifonia/licences/9755043f10c1148c97ca24b3a40419d2,CRIM (American side),CC-BY-NC_v4,Can,distribute
+http://w3id.org/polifonia/licences/9755043f10c1148c97ca24b3a40419d2,CRIM (American side),CC-BY-NC_v4,Cannot,CommercialUse
+http://w3id.org/polifonia/licences/9755043f10c1148c97ca24b3a40419d2,CRIM (American side),CC-BY-NC_v4,Cannot,promote
+http://w3id.org/polifonia/licences/9755043f10c1148c97ca24b3a40419d2,CRIM (American side),CC-BY-NC_v4,Cannot,ChangeLicense
+http://w3id.org/polifonia/licences/9755043f10c1148c97ca24b3a40419d2,CRIM (American side),CC-BY-NC_v4,Must,modificationNotice
+http://w3id.org/polifonia/licences/9755043f10c1148c97ca24b3a40419d2,CRIM (American side),CC-BY-NC_v4,Must,Notice
+http://w3id.org/polifonia/licences/9755043f10c1148c97ca24b3a40419d2,CRIM (American side),CC-BY-NC_v4,Must,Attribution
+http://w3id.org/polifonia/licences/0ae4fda3b3d812d0bfb42ff4b6ae8407,MusicBrainz,Cc010Universal,Can,present
+http://w3id.org/polifonia/licences/0ae4fda3b3d812d0bfb42ff4b6ae8407,MusicBrainz,Cc010Universal,Can,distribute
+http://w3id.org/polifonia/licences/0ae4fda3b3d812d0bfb42ff4b6ae8407,MusicBrainz,Cc010Universal,Can,DerivativeWorks
+http://w3id.org/polifonia/licences/0ae4fda3b3d812d0bfb42ff4b6ae8407,MusicBrainz,Cc010Universal,Can,chargeDistributionFee
+http://w3id.org/polifonia/licences/0ae4fda3b3d812d0bfb42ff4b6ae8407,MusicBrainz,Cc010Universal,Can,modify
+http://w3id.org/polifonia/licences/0ae4fda3b3d812d0bfb42ff4b6ae8407,MusicBrainz,Cc010Universal,Can,ModifiedWorks
+http://w3id.org/polifonia/licences/0ae4fda3b3d812d0bfb42ff4b6ae8407,MusicBrainz,Cc010Universal,Can,derive
+http://w3id.org/polifonia/licences/0ae4fda3b3d812d0bfb42ff4b6ae8407,MusicBrainz,Cc010Universal,Can,ChangeLicense
+http://w3id.org/polifonia/licences/0ae4fda3b3d812d0bfb42ff4b6ae8407,MusicBrainz,Cc010Universal,Can,display
+http://w3id.org/polifonia/licences/0ae4fda3b3d812d0bfb42ff4b6ae8407,MusicBrainz,Cc010Universal,Can,CommercialUse
+http://w3id.org/polifonia/licences/0ae4fda3b3d812d0bfb42ff4b6ae8407,MusicBrainz,Cc010Universal,Can,reproduce
+http://w3id.org/polifonia/licences/0ae4fda3b3d812d0bfb42ff4b6ae8407,MusicBrainz,Cc010Universal,Cannot,promote
+http://w3id.org/polifonia/licences/9c677286866aad38f8e9b660f5411814,Wikipedia,CC-BY-SA_v4,Can,modify
+http://w3id.org/polifonia/licences/9c677286866aad38f8e9b660f5411814,Wikipedia,CC-BY-SA_v4,Can,distribute
+http://w3id.org/polifonia/licences/9c677286866aad38f8e9b660f5411814,Wikipedia,CC-BY-SA_v4,Can,ModifiedWorks
+http://w3id.org/polifonia/licences/9c677286866aad38f8e9b660f5411814,Wikipedia,CC-BY-SA_v4,Can,derive
+http://w3id.org/polifonia/licences/9c677286866aad38f8e9b660f5411814,Wikipedia,CC-BY-SA_v4,Can,DerivativeWorks
+http://w3id.org/polifonia/licences/9c677286866aad38f8e9b660f5411814,Wikipedia,CC-BY-SA_v4,Can,CommercialUse
+http://w3id.org/polifonia/licences/9c677286866aad38f8e9b660f5411814,Wikipedia,CC-BY-SA_v4,Can,present
+http://w3id.org/polifonia/licences/9c677286866aad38f8e9b660f5411814,Wikipedia,CC-BY-SA_v4,Can,reproduce
+http://w3id.org/polifonia/licences/9c677286866aad38f8e9b660f5411814,Wikipedia,CC-BY-SA_v4,Can,display
+http://w3id.org/polifonia/licences/9c677286866aad38f8e9b660f5411814,Wikipedia,CC-BY-SA_v4,Cannot,ChangeLicense
+http://w3id.org/polifonia/licences/9c677286866aad38f8e9b660f5411814,Wikipedia,CC-BY-SA_v4,Cannot,promote
+http://w3id.org/polifonia/licences/9c677286866aad38f8e9b660f5411814,Wikipedia,CC-BY-SA_v4,Must,Attribution
+http://w3id.org/polifonia/licences/9c677286866aad38f8e9b660f5411814,Wikipedia,CC-BY-SA_v4,Must,modificationNotice
+http://w3id.org/polifonia/licences/9c677286866aad38f8e9b660f5411814,Wikipedia,CC-BY-SA_v4,Must,Notice
+https://w3id.org/musow/1635268063-587147,Codices Electronici Sangallenses = Digital Abbey Library of St. Gallen,CC-BY-NC_v4,Can,modify
+https://w3id.org/musow/1635268063-587147,Codices Electronici Sangallenses = Digital Abbey Library of St. Gallen,CC-BY-NC_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-587147,Codices Electronici Sangallenses = Digital Abbey Library of St. Gallen,CC-BY-NC_v4,Can,reproduce
+https://w3id.org/musow/1635268063-587147,Codices Electronici Sangallenses = Digital Abbey Library of St. Gallen,CC-BY-NC_v4,Can,present
+https://w3id.org/musow/1635268063-587147,Codices Electronici Sangallenses = Digital Abbey Library of St. Gallen,CC-BY-NC_v4,Can,display
+https://w3id.org/musow/1635268063-587147,Codices Electronici Sangallenses = Digital Abbey Library of St. Gallen,CC-BY-NC_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-587147,Codices Electronici Sangallenses = Digital Abbey Library of St. Gallen,CC-BY-NC_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-587147,Codices Electronici Sangallenses = Digital Abbey Library of St. Gallen,CC-BY-NC_v4,Can,derive
+https://w3id.org/musow/1635268063-587147,Codices Electronici Sangallenses = Digital Abbey Library of St. Gallen,CC-BY-NC_v4,Can,distribute
+https://w3id.org/musow/1635268063-587147,Codices Electronici Sangallenses = Digital Abbey Library of St. Gallen,CC-BY-NC_v4,Cannot,CommercialUse
+https://w3id.org/musow/1635268063-587147,Codices Electronici Sangallenses = Digital Abbey Library of St. Gallen,CC-BY-NC_v4,Cannot,promote
+https://w3id.org/musow/1635268063-587147,Codices Electronici Sangallenses = Digital Abbey Library of St. Gallen,CC-BY-NC_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-587147,Codices Electronici Sangallenses = Digital Abbey Library of St. Gallen,CC-BY-NC_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-587147,Codices Electronici Sangallenses = Digital Abbey Library of St. Gallen,CC-BY-NC_v4,Must,Notice
+https://w3id.org/musow/1635268063-587147,Codices Electronici Sangallenses = Digital Abbey Library of St. Gallen,CC-BY-NC_v4,Must,Attribution
+https://w3id.org/musow/1645710713-4868646,Scores of Scores,Cc010Universal,Can,present
+https://w3id.org/musow/1645710713-4868646,Scores of Scores,Cc010Universal,Can,distribute
+https://w3id.org/musow/1645710713-4868646,Scores of Scores,Cc010Universal,Can,DerivativeWorks
+https://w3id.org/musow/1645710713-4868646,Scores of Scores,Cc010Universal,Can,chargeDistributionFee
+https://w3id.org/musow/1645710713-4868646,Scores of Scores,Cc010Universal,Can,modify
+https://w3id.org/musow/1645710713-4868646,Scores of Scores,Cc010Universal,Can,ModifiedWorks
+https://w3id.org/musow/1645710713-4868646,Scores of Scores,Cc010Universal,Can,derive
+https://w3id.org/musow/1645710713-4868646,Scores of Scores,Cc010Universal,Can,ChangeLicense
+https://w3id.org/musow/1645710713-4868646,Scores of Scores,Cc010Universal,Can,display
+https://w3id.org/musow/1645710713-4868646,Scores of Scores,Cc010Universal,Can,CommercialUse
+https://w3id.org/musow/1645710713-4868646,Scores of Scores,Cc010Universal,Can,reproduce
+https://w3id.org/musow/1645710713-4868646,Scores of Scores,Cc010Universal,Cannot,promote
+https://w3id.org/musow/1638950648-024772,Josquin project,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638950648-024772,Josquin project,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638950648-024772,Josquin project,CC-BY_v4,Can,derive
+https://w3id.org/musow/1638950648-024772,Josquin project,CC-BY_v4,Can,present
+https://w3id.org/musow/1638950648-024772,Josquin project,CC-BY_v4,Can,modify
+https://w3id.org/musow/1638950648-024772,Josquin project,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638950648-024772,Josquin project,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638950648-024772,Josquin project,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638950648-024772,Josquin project,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638950648-024772,Josquin project,CC-BY_v4,Can,display
+https://w3id.org/musow/1638950648-024772,Josquin project,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638950648-024772,Josquin project,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638950648-024772,Josquin project,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638950648-024772,Josquin project,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638950648-024772,Josquin project,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1638796258-0588534,Awesome MIDI sources,Cc010Universal,Can,present
+https://w3id.org/musow/1638796258-0588534,Awesome MIDI sources,Cc010Universal,Can,distribute
+https://w3id.org/musow/1638796258-0588534,Awesome MIDI sources,Cc010Universal,Can,DerivativeWorks
+https://w3id.org/musow/1638796258-0588534,Awesome MIDI sources,Cc010Universal,Can,chargeDistributionFee
+https://w3id.org/musow/1638796258-0588534,Awesome MIDI sources,Cc010Universal,Can,modify
+https://w3id.org/musow/1638796258-0588534,Awesome MIDI sources,Cc010Universal,Can,ModifiedWorks
+https://w3id.org/musow/1638796258-0588534,Awesome MIDI sources,Cc010Universal,Can,derive
+https://w3id.org/musow/1638796258-0588534,Awesome MIDI sources,Cc010Universal,Can,ChangeLicense
+https://w3id.org/musow/1638796258-0588534,Awesome MIDI sources,Cc010Universal,Can,display
+https://w3id.org/musow/1638796258-0588534,Awesome MIDI sources,Cc010Universal,Can,CommercialUse
+https://w3id.org/musow/1638796258-0588534,Awesome MIDI sources,Cc010Universal,Can,reproduce
+https://w3id.org/musow/1638796258-0588534,Awesome MIDI sources,Cc010Universal,Cannot,promote
+https://w3id.org/musow/1638796882-8190558,Music Brainz,Cc010Universal,Can,present
+https://w3id.org/musow/1638796882-8190558,Music Brainz,Cc010Universal,Can,distribute
+https://w3id.org/musow/1638796882-8190558,Music Brainz,Cc010Universal,Can,DerivativeWorks
+https://w3id.org/musow/1638796882-8190558,Music Brainz,Cc010Universal,Can,chargeDistributionFee
+https://w3id.org/musow/1638796882-8190558,Music Brainz,Cc010Universal,Can,modify
+https://w3id.org/musow/1638796882-8190558,Music Brainz,Cc010Universal,Can,ModifiedWorks
+https://w3id.org/musow/1638796882-8190558,Music Brainz,Cc010Universal,Can,derive
+https://w3id.org/musow/1638796882-8190558,Music Brainz,Cc010Universal,Can,ChangeLicense
+https://w3id.org/musow/1638796882-8190558,Music Brainz,Cc010Universal,Can,display
+https://w3id.org/musow/1638796882-8190558,Music Brainz,Cc010Universal,Can,CommercialUse
+https://w3id.org/musow/1638796882-8190558,Music Brainz,Cc010Universal,Can,reproduce
+https://w3id.org/musow/1638796882-8190558,Music Brainz,Cc010Universal,Cannot,promote
+https://w3id.org/musow/1635268063-585362,Margaret Herrick Library Digital Collections,Cc010Universal,Can,present
+https://w3id.org/musow/1635268063-585362,Margaret Herrick Library Digital Collections,Cc010Universal,Can,distribute
+https://w3id.org/musow/1635268063-585362,Margaret Herrick Library Digital Collections,Cc010Universal,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-585362,Margaret Herrick Library Digital Collections,Cc010Universal,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-585362,Margaret Herrick Library Digital Collections,Cc010Universal,Can,modify
+https://w3id.org/musow/1635268063-585362,Margaret Herrick Library Digital Collections,Cc010Universal,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-585362,Margaret Herrick Library Digital Collections,Cc010Universal,Can,derive
+https://w3id.org/musow/1635268063-585362,Margaret Herrick Library Digital Collections,Cc010Universal,Can,ChangeLicense
+https://w3id.org/musow/1635268063-585362,Margaret Herrick Library Digital Collections,Cc010Universal,Can,display
+https://w3id.org/musow/1635268063-585362,Margaret Herrick Library Digital Collections,Cc010Universal,Can,CommercialUse
+https://w3id.org/musow/1635268063-585362,Margaret Herrick Library Digital Collections,Cc010Universal,Can,reproduce
+https://w3id.org/musow/1635268063-585362,Margaret Herrick Library Digital Collections,Cc010Universal,Cannot,promote
+https://w3id.org/musow/1638980945-7790356,Irish pirate radio archive,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638980945-7790356,Irish pirate radio archive,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638980945-7790356,Irish pirate radio archive,CC-BY_v4,Can,derive
+https://w3id.org/musow/1638980945-7790356,Irish pirate radio archive,CC-BY_v4,Can,present
+https://w3id.org/musow/1638980945-7790356,Irish pirate radio archive,CC-BY_v4,Can,modify
+https://w3id.org/musow/1638980945-7790356,Irish pirate radio archive,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638980945-7790356,Irish pirate radio archive,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638980945-7790356,Irish pirate radio archive,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638980945-7790356,Irish pirate radio archive,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638980945-7790356,Irish pirate radio archive,CC-BY_v4,Can,display
+https://w3id.org/musow/1638980945-7790356,Irish pirate radio archive,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638980945-7790356,Irish pirate radio archive,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638980945-7790356,Irish pirate radio archive,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638980945-7790356,Irish pirate radio archive,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638980945-7790356,Irish pirate radio archive,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1638961593-482965,Smithsonian Jazz Oral History Program,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638961593-482965,Smithsonian Jazz Oral History Program,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638961593-482965,Smithsonian Jazz Oral History Program,CC-BY_v4,Can,derive
+https://w3id.org/musow/1638961593-482965,Smithsonian Jazz Oral History Program,CC-BY_v4,Can,present
+https://w3id.org/musow/1638961593-482965,Smithsonian Jazz Oral History Program,CC-BY_v4,Can,modify
+https://w3id.org/musow/1638961593-482965,Smithsonian Jazz Oral History Program,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638961593-482965,Smithsonian Jazz Oral History Program,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638961593-482965,Smithsonian Jazz Oral History Program,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638961593-482965,Smithsonian Jazz Oral History Program,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638961593-482965,Smithsonian Jazz Oral History Program,CC-BY_v4,Can,display
+https://w3id.org/musow/1638961593-482965,Smithsonian Jazz Oral History Program,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638961593-482965,Smithsonian Jazz Oral History Program,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638961593-482965,Smithsonian Jazz Oral History Program,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638961593-482965,Smithsonian Jazz Oral History Program,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638961593-482965,Smithsonian Jazz Oral History Program,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1635268063-589462,Medieval and Early Modern Manuscripts Collection,Cc010Universal,Can,present
+https://w3id.org/musow/1635268063-589462,Medieval and Early Modern Manuscripts Collection,Cc010Universal,Can,distribute
+https://w3id.org/musow/1635268063-589462,Medieval and Early Modern Manuscripts Collection,Cc010Universal,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-589462,Medieval and Early Modern Manuscripts Collection,Cc010Universal,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-589462,Medieval and Early Modern Manuscripts Collection,Cc010Universal,Can,modify
+https://w3id.org/musow/1635268063-589462,Medieval and Early Modern Manuscripts Collection,Cc010Universal,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-589462,Medieval and Early Modern Manuscripts Collection,Cc010Universal,Can,derive
+https://w3id.org/musow/1635268063-589462,Medieval and Early Modern Manuscripts Collection,Cc010Universal,Can,ChangeLicense
+https://w3id.org/musow/1635268063-589462,Medieval and Early Modern Manuscripts Collection,Cc010Universal,Can,display
+https://w3id.org/musow/1635268063-589462,Medieval and Early Modern Manuscripts Collection,Cc010Universal,Can,CommercialUse
+https://w3id.org/musow/1635268063-589462,Medieval and Early Modern Manuscripts Collection,Cc010Universal,Can,reproduce
+https://w3id.org/musow/1635268063-589462,Medieval and Early Modern Manuscripts Collection,Cc010Universal,Cannot,promote
+https://w3id.org/musow/1638957259-946052,Genius,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638957259-946052,Genius,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638957259-946052,Genius,CC-BY_v4,Can,derive
+https://w3id.org/musow/1638957259-946052,Genius,CC-BY_v4,Can,present
+https://w3id.org/musow/1638957259-946052,Genius,CC-BY_v4,Can,modify
+https://w3id.org/musow/1638957259-946052,Genius,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638957259-946052,Genius,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638957259-946052,Genius,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638957259-946052,Genius,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638957259-946052,Genius,CC-BY_v4,Can,display
+https://w3id.org/musow/1638957259-946052,Genius,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638957259-946052,Genius,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638957259-946052,Genius,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638957259-946052,Genius,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638957259-946052,Genius,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1635268063-596231,Reference Annotations dataset,CC-BY-NC-SA_v4,Can,derive
+https://w3id.org/musow/1635268063-596231,Reference Annotations dataset,CC-BY-NC-SA_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-596231,Reference Annotations dataset,CC-BY-NC-SA_v4,Can,modify
+https://w3id.org/musow/1635268063-596231,Reference Annotations dataset,CC-BY-NC-SA_v4,Can,reproduce
+https://w3id.org/musow/1635268063-596231,Reference Annotations dataset,CC-BY-NC-SA_v4,Can,display
+https://w3id.org/musow/1635268063-596231,Reference Annotations dataset,CC-BY-NC-SA_v4,Can,present
+https://w3id.org/musow/1635268063-596231,Reference Annotations dataset,CC-BY-NC-SA_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-596231,Reference Annotations dataset,CC-BY-NC-SA_v4,Can,distribute
+https://w3id.org/musow/1635268063-596231,Reference Annotations dataset,CC-BY-NC-SA_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-596231,Reference Annotations dataset,CC-BY-NC-SA_v4,Cannot,promote
+https://w3id.org/musow/1635268063-596231,Reference Annotations dataset,CC-BY-NC-SA_v4,Cannot,CommercialUse
+https://w3id.org/musow/1635268063-596231,Reference Annotations dataset,CC-BY-NC-SA_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-596231,Reference Annotations dataset,CC-BY-NC-SA_v4,Must,Notice
+https://w3id.org/musow/1635268063-596231,Reference Annotations dataset,CC-BY-NC-SA_v4,Must,Attribution
+https://w3id.org/musow/1635268063-598008,AUFX-Ontology,CC-BY-SA_v4,Can,modify
+https://w3id.org/musow/1635268063-598008,AUFX-Ontology,CC-BY-SA_v4,Can,distribute
+https://w3id.org/musow/1635268063-598008,AUFX-Ontology,CC-BY-SA_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-598008,AUFX-Ontology,CC-BY-SA_v4,Can,derive
+https://w3id.org/musow/1635268063-598008,AUFX-Ontology,CC-BY-SA_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-598008,AUFX-Ontology,CC-BY-SA_v4,Can,CommercialUse
+https://w3id.org/musow/1635268063-598008,AUFX-Ontology,CC-BY-SA_v4,Can,present
+https://w3id.org/musow/1635268063-598008,AUFX-Ontology,CC-BY-SA_v4,Can,reproduce
+https://w3id.org/musow/1635268063-598008,AUFX-Ontology,CC-BY-SA_v4,Can,display
+https://w3id.org/musow/1635268063-598008,AUFX-Ontology,CC-BY-SA_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-598008,AUFX-Ontology,CC-BY-SA_v4,Cannot,promote
+https://w3id.org/musow/1635268063-598008,AUFX-Ontology,CC-BY-SA_v4,Must,Attribution
+https://w3id.org/musow/1635268063-598008,AUFX-Ontology,CC-BY-SA_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-598008,AUFX-Ontology,CC-BY-SA_v4,Must,Notice
+https://w3id.org/musow/1635268063-593215,GWV - Graupner-Werke-Verzeichnis (Thematic Catalogue of the Works of Christoph Graupner),CC-BY-NC-SA_v4,Can,derive
+https://w3id.org/musow/1635268063-593215,GWV - Graupner-Werke-Verzeichnis (Thematic Catalogue of the Works of Christoph Graupner),CC-BY-NC-SA_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-593215,GWV - Graupner-Werke-Verzeichnis (Thematic Catalogue of the Works of Christoph Graupner),CC-BY-NC-SA_v4,Can,modify
+https://w3id.org/musow/1635268063-593215,GWV - Graupner-Werke-Verzeichnis (Thematic Catalogue of the Works of Christoph Graupner),CC-BY-NC-SA_v4,Can,reproduce
+https://w3id.org/musow/1635268063-593215,GWV - Graupner-Werke-Verzeichnis (Thematic Catalogue of the Works of Christoph Graupner),CC-BY-NC-SA_v4,Can,display
+https://w3id.org/musow/1635268063-593215,GWV - Graupner-Werke-Verzeichnis (Thematic Catalogue of the Works of Christoph Graupner),CC-BY-NC-SA_v4,Can,present
+https://w3id.org/musow/1635268063-593215,GWV - Graupner-Werke-Verzeichnis (Thematic Catalogue of the Works of Christoph Graupner),CC-BY-NC-SA_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-593215,GWV - Graupner-Werke-Verzeichnis (Thematic Catalogue of the Works of Christoph Graupner),CC-BY-NC-SA_v4,Can,distribute
+https://w3id.org/musow/1635268063-593215,GWV - Graupner-Werke-Verzeichnis (Thematic Catalogue of the Works of Christoph Graupner),CC-BY-NC-SA_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-593215,GWV - Graupner-Werke-Verzeichnis (Thematic Catalogue of the Works of Christoph Graupner),CC-BY-NC-SA_v4,Cannot,promote
+https://w3id.org/musow/1635268063-593215,GWV - Graupner-Werke-Verzeichnis (Thematic Catalogue of the Works of Christoph Graupner),CC-BY-NC-SA_v4,Cannot,CommercialUse
+https://w3id.org/musow/1635268063-593215,GWV - Graupner-Werke-Verzeichnis (Thematic Catalogue of the Works of Christoph Graupner),CC-BY-NC-SA_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-593215,GWV - Graupner-Werke-Verzeichnis (Thematic Catalogue of the Works of Christoph Graupner),CC-BY-NC-SA_v4,Must,Notice
+https://w3id.org/musow/1635268063-593215,GWV - Graupner-Werke-Verzeichnis (Thematic Catalogue of the Works of Christoph Graupner),CC-BY-NC-SA_v4,Must,Attribution
+https://w3id.org/musow/1638976114-1832004,German Music Archive,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638976114-1832004,German Music Archive,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638976114-1832004,German Music Archive,CC-BY_v4,Can,derive
+https://w3id.org/musow/1638976114-1832004,German Music Archive,CC-BY_v4,Can,present
+https://w3id.org/musow/1638976114-1832004,German Music Archive,CC-BY_v4,Can,modify
+https://w3id.org/musow/1638976114-1832004,German Music Archive,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638976114-1832004,German Music Archive,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638976114-1832004,German Music Archive,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638976114-1832004,German Music Archive,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638976114-1832004,German Music Archive,CC-BY_v4,Can,display
+https://w3id.org/musow/1638976114-1832004,German Music Archive,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638976114-1832004,German Music Archive,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638976114-1832004,German Music Archive,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638976114-1832004,German Music Archive,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638976114-1832004,German Music Archive,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1639035923-917963,Maurice Levy Oral History of Music in Pittsburgh Collection (OHMP),CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1639035923-917963,Maurice Levy Oral History of Music in Pittsburgh Collection (OHMP),CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1639035923-917963,Maurice Levy Oral History of Music in Pittsburgh Collection (OHMP),CC-BY_v4,Can,derive
+https://w3id.org/musow/1639035923-917963,Maurice Levy Oral History of Music in Pittsburgh Collection (OHMP),CC-BY_v4,Can,present
+https://w3id.org/musow/1639035923-917963,Maurice Levy Oral History of Music in Pittsburgh Collection (OHMP),CC-BY_v4,Can,modify
+https://w3id.org/musow/1639035923-917963,Maurice Levy Oral History of Music in Pittsburgh Collection (OHMP),CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1639035923-917963,Maurice Levy Oral History of Music in Pittsburgh Collection (OHMP),CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1639035923-917963,Maurice Levy Oral History of Music in Pittsburgh Collection (OHMP),CC-BY_v4,Can,distribute
+https://w3id.org/musow/1639035923-917963,Maurice Levy Oral History of Music in Pittsburgh Collection (OHMP),CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1639035923-917963,Maurice Levy Oral History of Music in Pittsburgh Collection (OHMP),CC-BY_v4,Can,display
+https://w3id.org/musow/1639035923-917963,Maurice Levy Oral History of Music in Pittsburgh Collection (OHMP),CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1639035923-917963,Maurice Levy Oral History of Music in Pittsburgh Collection (OHMP),CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1639035923-917963,Maurice Levy Oral History of Music in Pittsburgh Collection (OHMP),CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1639035923-917963,Maurice Levy Oral History of Music in Pittsburgh Collection (OHMP),CC-BY_v4,Must,Notice
+https://w3id.org/musow/1639035923-917963,Maurice Levy Oral History of Music in Pittsburgh Collection (OHMP),CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1635268063-596449,CALMA Dataset,Cc010Universal,Can,present
+https://w3id.org/musow/1635268063-596449,CALMA Dataset,Cc010Universal,Can,distribute
+https://w3id.org/musow/1635268063-596449,CALMA Dataset,Cc010Universal,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-596449,CALMA Dataset,Cc010Universal,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-596449,CALMA Dataset,Cc010Universal,Can,modify
+https://w3id.org/musow/1635268063-596449,CALMA Dataset,Cc010Universal,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-596449,CALMA Dataset,Cc010Universal,Can,derive
+https://w3id.org/musow/1635268063-596449,CALMA Dataset,Cc010Universal,Can,ChangeLicense
+https://w3id.org/musow/1635268063-596449,CALMA Dataset,Cc010Universal,Can,display
+https://w3id.org/musow/1635268063-596449,CALMA Dataset,Cc010Universal,Can,CommercialUse
+https://w3id.org/musow/1635268063-596449,CALMA Dataset,Cc010Universal,Can,reproduce
+https://w3id.org/musow/1635268063-596449,CALMA Dataset,Cc010Universal,Cannot,promote
+https://w3id.org/musow/1645537199-4875615,Machine-readable Schenkerian analyses,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1645537199-4875615,Machine-readable Schenkerian analyses,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1645537199-4875615,Machine-readable Schenkerian analyses,CC-BY_v4,Can,derive
+https://w3id.org/musow/1645537199-4875615,Machine-readable Schenkerian analyses,CC-BY_v4,Can,present
+https://w3id.org/musow/1645537199-4875615,Machine-readable Schenkerian analyses,CC-BY_v4,Can,modify
+https://w3id.org/musow/1645537199-4875615,Machine-readable Schenkerian analyses,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1645537199-4875615,Machine-readable Schenkerian analyses,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1645537199-4875615,Machine-readable Schenkerian analyses,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1645537199-4875615,Machine-readable Schenkerian analyses,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1645537199-4875615,Machine-readable Schenkerian analyses,CC-BY_v4,Can,display
+https://w3id.org/musow/1645537199-4875615,Machine-readable Schenkerian analyses,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1645537199-4875615,Machine-readable Schenkerian analyses,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1645537199-4875615,Machine-readable Schenkerian analyses,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1645537199-4875615,Machine-readable Schenkerian analyses,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1645537199-4875615,Machine-readable Schenkerian analyses,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1635268063-601682,SAWA,GNU_GPL_v3,Can,reproduce
+https://w3id.org/musow/1635268063-601682,SAWA,GNU_GPL_v3,Can,distribute
+https://w3id.org/musow/1635268063-601682,SAWA,GNU_GPL_v3,Can,display
+https://w3id.org/musow/1635268063-601682,SAWA,GNU_GPL_v3,Can,modify
+https://w3id.org/musow/1635268063-601682,SAWA,GNU_GPL_v3,Can,CommercialUse
+https://w3id.org/musow/1635268063-601682,SAWA,GNU_GPL_v3,Can,present
+https://w3id.org/musow/1635268063-601682,SAWA,GNU_GPL_v3,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-601682,SAWA,GNU_GPL_v3,Can,derive
+https://w3id.org/musow/1635268063-601682,SAWA,GNU_GPL_v3,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-601682,SAWA,GNU_GPL_v3,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-601682,SAWA,GNU_GPL_v3,Cannot,promote
+https://w3id.org/musow/1635268063-601682,SAWA,GNU_GPL_v3,Must,SourceCode
+https://w3id.org/musow/1635268063-601682,SAWA,GNU_GPL_v3,Must,Notice
+https://w3id.org/musow/1635268063-601682,SAWA,GNU_GPL_v3,Must,Attribution
+https://w3id.org/musow/1635268063-601682,SAWA,GNU_GPL_v3,Must,modificationNotice
+https://w3id.org/musow/1635268063-59043,Templeton Digital Collections,Cc010Universal,Can,present
+https://w3id.org/musow/1635268063-59043,Templeton Digital Collections,Cc010Universal,Can,distribute
+https://w3id.org/musow/1635268063-59043,Templeton Digital Collections,Cc010Universal,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-59043,Templeton Digital Collections,Cc010Universal,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-59043,Templeton Digital Collections,Cc010Universal,Can,modify
+https://w3id.org/musow/1635268063-59043,Templeton Digital Collections,Cc010Universal,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-59043,Templeton Digital Collections,Cc010Universal,Can,derive
+https://w3id.org/musow/1635268063-59043,Templeton Digital Collections,Cc010Universal,Can,ChangeLicense
+https://w3id.org/musow/1635268063-59043,Templeton Digital Collections,Cc010Universal,Can,display
+https://w3id.org/musow/1635268063-59043,Templeton Digital Collections,Cc010Universal,Can,CommercialUse
+https://w3id.org/musow/1635268063-59043,Templeton Digital Collections,Cc010Universal,Can,reproduce
+https://w3id.org/musow/1635268063-59043,Templeton Digital Collections,Cc010Universal,Cannot,promote
+https://w3id.org/musow/1638974765-663959,Audio Culture,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638974765-663959,Audio Culture,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638974765-663959,Audio Culture,CC-BY_v4,Can,derive
+https://w3id.org/musow/1638974765-663959,Audio Culture,CC-BY_v4,Can,present
+https://w3id.org/musow/1638974765-663959,Audio Culture,CC-BY_v4,Can,modify
+https://w3id.org/musow/1638974765-663959,Audio Culture,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638974765-663959,Audio Culture,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638974765-663959,Audio Culture,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638974765-663959,Audio Culture,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638974765-663959,Audio Culture,CC-BY_v4,Can,display
+https://w3id.org/musow/1638974765-663959,Audio Culture,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638974765-663959,Audio Culture,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638974765-663959,Audio Culture,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638974765-663959,Audio Culture,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638974765-663959,Audio Culture,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1645597211-3453195,JAAH: Audio-aligned jazz harmony dataset,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1645597211-3453195,JAAH: Audio-aligned jazz harmony dataset,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1645597211-3453195,JAAH: Audio-aligned jazz harmony dataset,CC-BY_v4,Can,derive
+https://w3id.org/musow/1645597211-3453195,JAAH: Audio-aligned jazz harmony dataset,CC-BY_v4,Can,present
+https://w3id.org/musow/1645597211-3453195,JAAH: Audio-aligned jazz harmony dataset,CC-BY_v4,Can,modify
+https://w3id.org/musow/1645597211-3453195,JAAH: Audio-aligned jazz harmony dataset,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1645597211-3453195,JAAH: Audio-aligned jazz harmony dataset,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1645597211-3453195,JAAH: Audio-aligned jazz harmony dataset,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1645597211-3453195,JAAH: Audio-aligned jazz harmony dataset,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1645597211-3453195,JAAH: Audio-aligned jazz harmony dataset,CC-BY_v4,Can,display
+https://w3id.org/musow/1645597211-3453195,JAAH: Audio-aligned jazz harmony dataset,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1645597211-3453195,JAAH: Audio-aligned jazz harmony dataset,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1645597211-3453195,JAAH: Audio-aligned jazz harmony dataset,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1645597211-3453195,JAAH: Audio-aligned jazz harmony dataset,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1645597211-3453195,JAAH: Audio-aligned jazz harmony dataset,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1635268063-582538,MusicNet,Cc010Universal,Can,present
+https://w3id.org/musow/1635268063-582538,MusicNet,Cc010Universal,Can,distribute
+https://w3id.org/musow/1635268063-582538,MusicNet,Cc010Universal,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-582538,MusicNet,Cc010Universal,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-582538,MusicNet,Cc010Universal,Can,modify
+https://w3id.org/musow/1635268063-582538,MusicNet,Cc010Universal,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-582538,MusicNet,Cc010Universal,Can,derive
+https://w3id.org/musow/1635268063-582538,MusicNet,Cc010Universal,Can,ChangeLicense
+https://w3id.org/musow/1635268063-582538,MusicNet,Cc010Universal,Can,display
+https://w3id.org/musow/1635268063-582538,MusicNet,Cc010Universal,Can,CommercialUse
+https://w3id.org/musow/1635268063-582538,MusicNet,Cc010Universal,Can,reproduce
+https://w3id.org/musow/1635268063-582538,MusicNet,Cc010Universal,Cannot,promote
+https://w3id.org/musow/1638974935-6715455,BBC Archive collections,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638974935-6715455,BBC Archive collections,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638974935-6715455,BBC Archive collections,CC-BY_v4,Can,derive
+https://w3id.org/musow/1638974935-6715455,BBC Archive collections,CC-BY_v4,Can,present
+https://w3id.org/musow/1638974935-6715455,BBC Archive collections,CC-BY_v4,Can,modify
+https://w3id.org/musow/1638974935-6715455,BBC Archive collections,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638974935-6715455,BBC Archive collections,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638974935-6715455,BBC Archive collections,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638974935-6715455,BBC Archive collections,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638974935-6715455,BBC Archive collections,CC-BY_v4,Can,display
+https://w3id.org/musow/1638974935-6715455,BBC Archive collections,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638974935-6715455,BBC Archive collections,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638974935-6715455,BBC Archive collections,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638974935-6715455,BBC Archive collections,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638974935-6715455,BBC Archive collections,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1645598903-145555,A Corpus Study of Rock Music,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1645598903-145555,A Corpus Study of Rock Music,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1645598903-145555,A Corpus Study of Rock Music,CC-BY_v4,Can,derive
+https://w3id.org/musow/1645598903-145555,A Corpus Study of Rock Music,CC-BY_v4,Can,present
+https://w3id.org/musow/1645598903-145555,A Corpus Study of Rock Music,CC-BY_v4,Can,modify
+https://w3id.org/musow/1645598903-145555,A Corpus Study of Rock Music,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1645598903-145555,A Corpus Study of Rock Music,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1645598903-145555,A Corpus Study of Rock Music,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1645598903-145555,A Corpus Study of Rock Music,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1645598903-145555,A Corpus Study of Rock Music,CC-BY_v4,Can,display
+https://w3id.org/musow/1645598903-145555,A Corpus Study of Rock Music,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1645598903-145555,A Corpus Study of Rock Music,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1645598903-145555,A Corpus Study of Rock Music,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1645598903-145555,A Corpus Study of Rock Music,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1645598903-145555,A Corpus Study of Rock Music,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1635268063-599739,Open Music Score,GnuFreeDocumentationLicense,Can,derive
+https://w3id.org/musow/1635268063-599739,Open Music Score,GnuFreeDocumentationLicense,Can,present
+https://w3id.org/musow/1635268063-599739,Open Music Score,GnuFreeDocumentationLicense,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-599739,Open Music Score,GnuFreeDocumentationLicense,Can,display
+https://w3id.org/musow/1635268063-599739,Open Music Score,GnuFreeDocumentationLicense,Can,modify
+https://w3id.org/musow/1635268063-599739,Open Music Score,GnuFreeDocumentationLicense,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-599739,Open Music Score,GnuFreeDocumentationLicense,Can,reproduce
+https://w3id.org/musow/1635268063-599739,Open Music Score,GnuFreeDocumentationLicense,Can,distribute
+https://w3id.org/musow/1635268063-599739,Open Music Score,GnuFreeDocumentationLicense,Can,CommercialUse
+https://w3id.org/musow/1635268063-599739,Open Music Score,GnuFreeDocumentationLicense,Cannot,chargeDistributionFee
+https://w3id.org/musow/1635268063-599739,Open Music Score,GnuFreeDocumentationLicense,Cannot,promote
+https://w3id.org/musow/1635268063-599739,Open Music Score,GnuFreeDocumentationLicense,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-599739,Open Music Score,GnuFreeDocumentationLicense,Must,modificationNotice
+https://w3id.org/musow/1635268063-599739,Open Music Score,GnuFreeDocumentationLicense,Must,SourceCode
+https://w3id.org/musow/1635268063-599739,Open Music Score,GnuFreeDocumentationLicense,Must,Notice
+https://w3id.org/musow/1635268063-599739,Open Music Score,GnuFreeDocumentationLicense,Must,Attribution
+https://w3id.org/musow/1635268063-599739,Open Music Score,GnuFreeDocumentationLicense,Must,source
+https://w3id.org/musow/1635268063-587454,e-codices: Virtual Manuscript Library of Switzerland,CC-BY-NC_v4,Can,modify
+https://w3id.org/musow/1635268063-587454,e-codices: Virtual Manuscript Library of Switzerland,CC-BY-NC_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-587454,e-codices: Virtual Manuscript Library of Switzerland,CC-BY-NC_v4,Can,reproduce
+https://w3id.org/musow/1635268063-587454,e-codices: Virtual Manuscript Library of Switzerland,CC-BY-NC_v4,Can,present
+https://w3id.org/musow/1635268063-587454,e-codices: Virtual Manuscript Library of Switzerland,CC-BY-NC_v4,Can,display
+https://w3id.org/musow/1635268063-587454,e-codices: Virtual Manuscript Library of Switzerland,CC-BY-NC_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-587454,e-codices: Virtual Manuscript Library of Switzerland,CC-BY-NC_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-587454,e-codices: Virtual Manuscript Library of Switzerland,CC-BY-NC_v4,Can,derive
+https://w3id.org/musow/1635268063-587454,e-codices: Virtual Manuscript Library of Switzerland,CC-BY-NC_v4,Can,distribute
+https://w3id.org/musow/1635268063-587454,e-codices: Virtual Manuscript Library of Switzerland,CC-BY-NC_v4,Cannot,CommercialUse
+https://w3id.org/musow/1635268063-587454,e-codices: Virtual Manuscript Library of Switzerland,CC-BY-NC_v4,Cannot,promote
+https://w3id.org/musow/1635268063-587454,e-codices: Virtual Manuscript Library of Switzerland,CC-BY-NC_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-587454,e-codices: Virtual Manuscript Library of Switzerland,CC-BY-NC_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-587454,e-codices: Virtual Manuscript Library of Switzerland,CC-BY-NC_v4,Must,Notice
+https://w3id.org/musow/1635268063-587454,e-codices: Virtual Manuscript Library of Switzerland,CC-BY-NC_v4,Must,Attribution
+https://w3id.org/musow/1638955648-063725,Grove Music Online,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638955648-063725,Grove Music Online,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638955648-063725,Grove Music Online,CC-BY_v4,Can,derive
+https://w3id.org/musow/1638955648-063725,Grove Music Online,CC-BY_v4,Can,present
+https://w3id.org/musow/1638955648-063725,Grove Music Online,CC-BY_v4,Can,modify
+https://w3id.org/musow/1638955648-063725,Grove Music Online,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638955648-063725,Grove Music Online,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638955648-063725,Grove Music Online,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638955648-063725,Grove Music Online,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638955648-063725,Grove Music Online,CC-BY_v4,Can,display
+https://w3id.org/musow/1638955648-063725,Grove Music Online,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638955648-063725,Grove Music Online,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638955648-063725,Grove Music Online,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638955648-063725,Grove Music Online,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638955648-063725,Grove Music Online,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1635268063-581944,Jamendo,CC-BY-NC-SA_v4,Can,derive
+https://w3id.org/musow/1635268063-581944,Jamendo,CC-BY-NC-SA_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-581944,Jamendo,CC-BY-NC-SA_v4,Can,modify
+https://w3id.org/musow/1635268063-581944,Jamendo,CC-BY-NC-SA_v4,Can,reproduce
+https://w3id.org/musow/1635268063-581944,Jamendo,CC-BY-NC-SA_v4,Can,display
+https://w3id.org/musow/1635268063-581944,Jamendo,CC-BY-NC-SA_v4,Can,present
+https://w3id.org/musow/1635268063-581944,Jamendo,CC-BY-NC-SA_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-581944,Jamendo,CC-BY-NC-SA_v4,Can,distribute
+https://w3id.org/musow/1635268063-581944,Jamendo,CC-BY-NC-SA_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-581944,Jamendo,CC-BY-NC-SA_v4,Cannot,promote
+https://w3id.org/musow/1635268063-581944,Jamendo,CC-BY-NC-SA_v4,Cannot,CommercialUse
+https://w3id.org/musow/1635268063-581944,Jamendo,CC-BY-NC-SA_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-581944,Jamendo,CC-BY-NC-SA_v4,Must,Notice
+https://w3id.org/musow/1635268063-581944,Jamendo,CC-BY-NC-SA_v4,Must,Attribution
+https://w3id.org/musow/1635268063-595997,Structural Analysis of Large Amounts of Music Information [SALAMI],Cc010Universal,Can,present
+https://w3id.org/musow/1635268063-595997,Structural Analysis of Large Amounts of Music Information [SALAMI],Cc010Universal,Can,distribute
+https://w3id.org/musow/1635268063-595997,Structural Analysis of Large Amounts of Music Information [SALAMI],Cc010Universal,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-595997,Structural Analysis of Large Amounts of Music Information [SALAMI],Cc010Universal,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-595997,Structural Analysis of Large Amounts of Music Information [SALAMI],Cc010Universal,Can,modify
+https://w3id.org/musow/1635268063-595997,Structural Analysis of Large Amounts of Music Information [SALAMI],Cc010Universal,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-595997,Structural Analysis of Large Amounts of Music Information [SALAMI],Cc010Universal,Can,derive
+https://w3id.org/musow/1635268063-595997,Structural Analysis of Large Amounts of Music Information [SALAMI],Cc010Universal,Can,ChangeLicense
+https://w3id.org/musow/1635268063-595997,Structural Analysis of Large Amounts of Music Information [SALAMI],Cc010Universal,Can,display
+https://w3id.org/musow/1635268063-595997,Structural Analysis of Large Amounts of Music Information [SALAMI],Cc010Universal,Can,CommercialUse
+https://w3id.org/musow/1635268063-595997,Structural Analysis of Large Amounts of Music Information [SALAMI],Cc010Universal,Can,reproduce
+https://w3id.org/musow/1635268063-595997,Structural Analysis of Large Amounts of Music Information [SALAMI],Cc010Universal,Cannot,promote
+https://w3id.org/musow/1635268063-596146,Metrical structure annotations dataset,CC-BY-NC-SA_v4,Can,derive
+https://w3id.org/musow/1635268063-596146,Metrical structure annotations dataset,CC-BY-NC-SA_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-596146,Metrical structure annotations dataset,CC-BY-NC-SA_v4,Can,modify
+https://w3id.org/musow/1635268063-596146,Metrical structure annotations dataset,CC-BY-NC-SA_v4,Can,reproduce
+https://w3id.org/musow/1635268063-596146,Metrical structure annotations dataset,CC-BY-NC-SA_v4,Can,display
+https://w3id.org/musow/1635268063-596146,Metrical structure annotations dataset,CC-BY-NC-SA_v4,Can,present
+https://w3id.org/musow/1635268063-596146,Metrical structure annotations dataset,CC-BY-NC-SA_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-596146,Metrical structure annotations dataset,CC-BY-NC-SA_v4,Can,distribute
+https://w3id.org/musow/1635268063-596146,Metrical structure annotations dataset,CC-BY-NC-SA_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-596146,Metrical structure annotations dataset,CC-BY-NC-SA_v4,Cannot,promote
+https://w3id.org/musow/1635268063-596146,Metrical structure annotations dataset,CC-BY-NC-SA_v4,Cannot,CommercialUse
+https://w3id.org/musow/1635268063-596146,Metrical structure annotations dataset,CC-BY-NC-SA_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-596146,Metrical structure annotations dataset,CC-BY-NC-SA_v4,Must,Notice
+https://w3id.org/musow/1635268063-596146,Metrical structure annotations dataset,CC-BY-NC-SA_v4,Must,Attribution
+https://w3id.org/musow/1645534417-0452876,ABC - The Annotated Beethoven Corpus,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1645534417-0452876,ABC - The Annotated Beethoven Corpus,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1645534417-0452876,ABC - The Annotated Beethoven Corpus,CC-BY_v4,Can,derive
+https://w3id.org/musow/1645534417-0452876,ABC - The Annotated Beethoven Corpus,CC-BY_v4,Can,present
+https://w3id.org/musow/1645534417-0452876,ABC - The Annotated Beethoven Corpus,CC-BY_v4,Can,modify
+https://w3id.org/musow/1645534417-0452876,ABC - The Annotated Beethoven Corpus,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1645534417-0452876,ABC - The Annotated Beethoven Corpus,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1645534417-0452876,ABC - The Annotated Beethoven Corpus,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1645534417-0452876,ABC - The Annotated Beethoven Corpus,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1645534417-0452876,ABC - The Annotated Beethoven Corpus,CC-BY_v4,Can,display
+https://w3id.org/musow/1645534417-0452876,ABC - The Annotated Beethoven Corpus,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1645534417-0452876,ABC - The Annotated Beethoven Corpus,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1645534417-0452876,ABC - The Annotated Beethoven Corpus,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1645534417-0452876,ABC - The Annotated Beethoven Corpus,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1645534417-0452876,ABC - The Annotated Beethoven Corpus,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1638976909-9197845,National Institute of Musicology Carlos Vega,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638976909-9197845,National Institute of Musicology Carlos Vega,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638976909-9197845,National Institute of Musicology Carlos Vega,CC-BY_v4,Can,derive
+https://w3id.org/musow/1638976909-9197845,National Institute of Musicology Carlos Vega,CC-BY_v4,Can,present
+https://w3id.org/musow/1638976909-9197845,National Institute of Musicology Carlos Vega,CC-BY_v4,Can,modify
+https://w3id.org/musow/1638976909-9197845,National Institute of Musicology Carlos Vega,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638976909-9197845,National Institute of Musicology Carlos Vega,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638976909-9197845,National Institute of Musicology Carlos Vega,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638976909-9197845,National Institute of Musicology Carlos Vega,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638976909-9197845,National Institute of Musicology Carlos Vega,CC-BY_v4,Can,display
+https://w3id.org/musow/1638976909-9197845,National Institute of Musicology Carlos Vega,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638976909-9197845,National Institute of Musicology Carlos Vega,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638976909-9197845,National Institute of Musicology Carlos Vega,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638976909-9197845,National Institute of Musicology Carlos Vega,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638976909-9197845,National Institute of Musicology Carlos Vega,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1638798021-51573,Gemeenschappelijke Thesaurus voor Audiovisuele Archieven,Cc010Universal,Can,present
+https://w3id.org/musow/1638798021-51573,Gemeenschappelijke Thesaurus voor Audiovisuele Archieven,Cc010Universal,Can,distribute
+https://w3id.org/musow/1638798021-51573,Gemeenschappelijke Thesaurus voor Audiovisuele Archieven,Cc010Universal,Can,DerivativeWorks
+https://w3id.org/musow/1638798021-51573,Gemeenschappelijke Thesaurus voor Audiovisuele Archieven,Cc010Universal,Can,chargeDistributionFee
+https://w3id.org/musow/1638798021-51573,Gemeenschappelijke Thesaurus voor Audiovisuele Archieven,Cc010Universal,Can,modify
+https://w3id.org/musow/1638798021-51573,Gemeenschappelijke Thesaurus voor Audiovisuele Archieven,Cc010Universal,Can,ModifiedWorks
+https://w3id.org/musow/1638798021-51573,Gemeenschappelijke Thesaurus voor Audiovisuele Archieven,Cc010Universal,Can,derive
+https://w3id.org/musow/1638798021-51573,Gemeenschappelijke Thesaurus voor Audiovisuele Archieven,Cc010Universal,Can,ChangeLicense
+https://w3id.org/musow/1638798021-51573,Gemeenschappelijke Thesaurus voor Audiovisuele Archieven,Cc010Universal,Can,display
+https://w3id.org/musow/1638798021-51573,Gemeenschappelijke Thesaurus voor Audiovisuele Archieven,Cc010Universal,Can,CommercialUse
+https://w3id.org/musow/1638798021-51573,Gemeenschappelijke Thesaurus voor Audiovisuele Archieven,Cc010Universal,Can,reproduce
+https://w3id.org/musow/1638798021-51573,Gemeenschappelijke Thesaurus voor Audiovisuele Archieven,Cc010Universal,Cannot,promote
+https://w3id.org/musow/1635268063-592986,Hof-Musik (Court Music),CC-BY-SA_v4,Can,modify
+https://w3id.org/musow/1635268063-592986,Hof-Musik (Court Music),CC-BY-SA_v4,Can,distribute
+https://w3id.org/musow/1635268063-592986,Hof-Musik (Court Music),CC-BY-SA_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-592986,Hof-Musik (Court Music),CC-BY-SA_v4,Can,derive
+https://w3id.org/musow/1635268063-592986,Hof-Musik (Court Music),CC-BY-SA_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-592986,Hof-Musik (Court Music),CC-BY-SA_v4,Can,CommercialUse
+https://w3id.org/musow/1635268063-592986,Hof-Musik (Court Music),CC-BY-SA_v4,Can,present
+https://w3id.org/musow/1635268063-592986,Hof-Musik (Court Music),CC-BY-SA_v4,Can,reproduce
+https://w3id.org/musow/1635268063-592986,Hof-Musik (Court Music),CC-BY-SA_v4,Can,display
+https://w3id.org/musow/1635268063-592986,Hof-Musik (Court Music),CC-BY-SA_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-592986,Hof-Musik (Court Music),CC-BY-SA_v4,Cannot,promote
+https://w3id.org/musow/1635268063-592986,Hof-Musik (Court Music),CC-BY-SA_v4,Must,Attribution
+https://w3id.org/musow/1635268063-592986,Hof-Musik (Court Music),CC-BY-SA_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-592986,Hof-Musik (Court Music),CC-BY-SA_v4,Must,Notice
+https://w3id.org/musow/1638976409-095411,Global music archive,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638976409-095411,Global music archive,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638976409-095411,Global music archive,CC-BY_v4,Can,derive
+https://w3id.org/musow/1638976409-095411,Global music archive,CC-BY_v4,Can,present
+https://w3id.org/musow/1638976409-095411,Global music archive,CC-BY_v4,Can,modify
+https://w3id.org/musow/1638976409-095411,Global music archive,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638976409-095411,Global music archive,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638976409-095411,Global music archive,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638976409-095411,Global music archive,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638976409-095411,Global music archive,CC-BY_v4,Can,display
+https://w3id.org/musow/1638976409-095411,Global music archive,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638976409-095411,Global music archive,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638976409-095411,Global music archive,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638976409-095411,Global music archive,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638976409-095411,Global music archive,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1638950247-3949933,Listening Experience Database,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638950247-3949933,Listening Experience Database,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638950247-3949933,Listening Experience Database,CC-BY_v4,Can,derive
+https://w3id.org/musow/1638950247-3949933,Listening Experience Database,CC-BY_v4,Can,present
+https://w3id.org/musow/1638950247-3949933,Listening Experience Database,CC-BY_v4,Can,modify
+https://w3id.org/musow/1638950247-3949933,Listening Experience Database,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638950247-3949933,Listening Experience Database,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638950247-3949933,Listening Experience Database,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638950247-3949933,Listening Experience Database,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638950247-3949933,Listening Experience Database,CC-BY_v4,Can,display
+https://w3id.org/musow/1638950247-3949933,Listening Experience Database,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638950247-3949933,Listening Experience Database,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638950247-3949933,Listening Experience Database,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638950247-3949933,Listening Experience Database,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638950247-3949933,Listening Experience Database,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1639298571-9893827,Jaxsta,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1639298571-9893827,Jaxsta,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1639298571-9893827,Jaxsta,CC-BY_v4,Can,derive
+https://w3id.org/musow/1639298571-9893827,Jaxsta,CC-BY_v4,Can,present
+https://w3id.org/musow/1639298571-9893827,Jaxsta,CC-BY_v4,Can,modify
+https://w3id.org/musow/1639298571-9893827,Jaxsta,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1639298571-9893827,Jaxsta,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1639298571-9893827,Jaxsta,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1639298571-9893827,Jaxsta,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1639298571-9893827,Jaxsta,CC-BY_v4,Can,display
+https://w3id.org/musow/1639298571-9893827,Jaxsta,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1639298571-9893827,Jaxsta,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1639298571-9893827,Jaxsta,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1639298571-9893827,Jaxsta,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1639298571-9893827,Jaxsta,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1635268063-585805,Etree Vocabulary,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1635268063-585805,Etree Vocabulary,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-585805,Etree Vocabulary,CC-BY_v4,Can,derive
+https://w3id.org/musow/1635268063-585805,Etree Vocabulary,CC-BY_v4,Can,present
+https://w3id.org/musow/1635268063-585805,Etree Vocabulary,CC-BY_v4,Can,modify
+https://w3id.org/musow/1635268063-585805,Etree Vocabulary,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1635268063-585805,Etree Vocabulary,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-585805,Etree Vocabulary,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1635268063-585805,Etree Vocabulary,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-585805,Etree Vocabulary,CC-BY_v4,Can,display
+https://w3id.org/musow/1635268063-585805,Etree Vocabulary,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-585805,Etree Vocabulary,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1635268063-585805,Etree Vocabulary,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-585805,Etree Vocabulary,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1635268063-585805,Etree Vocabulary,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1635268063-585434,Theological Commons,CC-BY-NC_v4,Can,modify
+https://w3id.org/musow/1635268063-585434,Theological Commons,CC-BY-NC_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-585434,Theological Commons,CC-BY-NC_v4,Can,reproduce
+https://w3id.org/musow/1635268063-585434,Theological Commons,CC-BY-NC_v4,Can,present
+https://w3id.org/musow/1635268063-585434,Theological Commons,CC-BY-NC_v4,Can,display
+https://w3id.org/musow/1635268063-585434,Theological Commons,CC-BY-NC_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-585434,Theological Commons,CC-BY-NC_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-585434,Theological Commons,CC-BY-NC_v4,Can,derive
+https://w3id.org/musow/1635268063-585434,Theological Commons,CC-BY-NC_v4,Can,distribute
+https://w3id.org/musow/1635268063-585434,Theological Commons,CC-BY-NC_v4,Cannot,CommercialUse
+https://w3id.org/musow/1635268063-585434,Theological Commons,CC-BY-NC_v4,Cannot,promote
+https://w3id.org/musow/1635268063-585434,Theological Commons,CC-BY-NC_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-585434,Theological Commons,CC-BY-NC_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-585434,Theological Commons,CC-BY-NC_v4,Must,Notice
+https://w3id.org/musow/1635268063-585434,Theological Commons,CC-BY-NC_v4,Must,Attribution
+https://w3id.org/musow/1635268063-598545,Motools,Cc010Universal,Can,present
+https://w3id.org/musow/1635268063-598545,Motools,Cc010Universal,Can,distribute
+https://w3id.org/musow/1635268063-598545,Motools,Cc010Universal,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-598545,Motools,Cc010Universal,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-598545,Motools,Cc010Universal,Can,modify
+https://w3id.org/musow/1635268063-598545,Motools,Cc010Universal,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-598545,Motools,Cc010Universal,Can,derive
+https://w3id.org/musow/1635268063-598545,Motools,Cc010Universal,Can,ChangeLicense
+https://w3id.org/musow/1635268063-598545,Motools,Cc010Universal,Can,display
+https://w3id.org/musow/1635268063-598545,Motools,Cc010Universal,Can,CommercialUse
+https://w3id.org/musow/1635268063-598545,Motools,Cc010Universal,Can,reproduce
+https://w3id.org/musow/1635268063-598545,Motools,Cc010Universal,Cannot,promote
+https://w3id.org/musow/1638960552-5043755,Oral history archives at Columbia University,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638960552-5043755,Oral history archives at Columbia University,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638960552-5043755,Oral history archives at Columbia University,CC-BY_v4,Can,derive
+https://w3id.org/musow/1638960552-5043755,Oral history archives at Columbia University,CC-BY_v4,Can,present
+https://w3id.org/musow/1638960552-5043755,Oral history archives at Columbia University,CC-BY_v4,Can,modify
+https://w3id.org/musow/1638960552-5043755,Oral history archives at Columbia University,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638960552-5043755,Oral history archives at Columbia University,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638960552-5043755,Oral history archives at Columbia University,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638960552-5043755,Oral history archives at Columbia University,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638960552-5043755,Oral history archives at Columbia University,CC-BY_v4,Can,display
+https://w3id.org/musow/1638960552-5043755,Oral history archives at Columbia University,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638960552-5043755,Oral history archives at Columbia University,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638960552-5043755,Oral history archives at Columbia University,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638960552-5043755,Oral history archives at Columbia University,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638960552-5043755,Oral history archives at Columbia University,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1638797326-4737487,BRUBECK ORAL HISTORY PROJECT,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638797326-4737487,BRUBECK ORAL HISTORY PROJECT,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638797326-4737487,BRUBECK ORAL HISTORY PROJECT,CC-BY_v4,Can,derive
+https://w3id.org/musow/1638797326-4737487,BRUBECK ORAL HISTORY PROJECT,CC-BY_v4,Can,present
+https://w3id.org/musow/1638797326-4737487,BRUBECK ORAL HISTORY PROJECT,CC-BY_v4,Can,modify
+https://w3id.org/musow/1638797326-4737487,BRUBECK ORAL HISTORY PROJECT,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638797326-4737487,BRUBECK ORAL HISTORY PROJECT,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638797326-4737487,BRUBECK ORAL HISTORY PROJECT,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638797326-4737487,BRUBECK ORAL HISTORY PROJECT,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638797326-4737487,BRUBECK ORAL HISTORY PROJECT,CC-BY_v4,Can,display
+https://w3id.org/musow/1638797326-4737487,BRUBECK ORAL HISTORY PROJECT,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638797326-4737487,BRUBECK ORAL HISTORY PROJECT,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638797326-4737487,BRUBECK ORAL HISTORY PROJECT,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638797326-4737487,BRUBECK ORAL HISTORY PROJECT,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638797326-4737487,BRUBECK ORAL HISTORY PROJECT,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1635268063-591268,Swedish Musical Heritage,Cc010Universal,Can,present
+https://w3id.org/musow/1635268063-591268,Swedish Musical Heritage,Cc010Universal,Can,distribute
+https://w3id.org/musow/1635268063-591268,Swedish Musical Heritage,Cc010Universal,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-591268,Swedish Musical Heritage,Cc010Universal,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-591268,Swedish Musical Heritage,Cc010Universal,Can,modify
+https://w3id.org/musow/1635268063-591268,Swedish Musical Heritage,Cc010Universal,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-591268,Swedish Musical Heritage,Cc010Universal,Can,derive
+https://w3id.org/musow/1635268063-591268,Swedish Musical Heritage,Cc010Universal,Can,ChangeLicense
+https://w3id.org/musow/1635268063-591268,Swedish Musical Heritage,Cc010Universal,Can,display
+https://w3id.org/musow/1635268063-591268,Swedish Musical Heritage,Cc010Universal,Can,CommercialUse
+https://w3id.org/musow/1635268063-591268,Swedish Musical Heritage,Cc010Universal,Can,reproduce
+https://w3id.org/musow/1635268063-591268,Swedish Musical Heritage,Cc010Universal,Cannot,promote
+https://w3id.org/musow/1635268063-58172,Singing Dataset,CC-BY-NC-SA_v4,Can,derive
+https://w3id.org/musow/1635268063-58172,Singing Dataset,CC-BY-NC-SA_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-58172,Singing Dataset,CC-BY-NC-SA_v4,Can,modify
+https://w3id.org/musow/1635268063-58172,Singing Dataset,CC-BY-NC-SA_v4,Can,reproduce
+https://w3id.org/musow/1635268063-58172,Singing Dataset,CC-BY-NC-SA_v4,Can,display
+https://w3id.org/musow/1635268063-58172,Singing Dataset,CC-BY-NC-SA_v4,Can,present
+https://w3id.org/musow/1635268063-58172,Singing Dataset,CC-BY-NC-SA_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-58172,Singing Dataset,CC-BY-NC-SA_v4,Can,distribute
+https://w3id.org/musow/1635268063-58172,Singing Dataset,CC-BY-NC-SA_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-58172,Singing Dataset,CC-BY-NC-SA_v4,Cannot,promote
+https://w3id.org/musow/1635268063-58172,Singing Dataset,CC-BY-NC-SA_v4,Cannot,CommercialUse
+https://w3id.org/musow/1635268063-58172,Singing Dataset,CC-BY-NC-SA_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-58172,Singing Dataset,CC-BY-NC-SA_v4,Must,Notice
+https://w3id.org/musow/1635268063-58172,Singing Dataset,CC-BY-NC-SA_v4,Must,Attribution
+https://w3id.org/musow/1635268063-59824,CALMA Vocabulary,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1635268063-59824,CALMA Vocabulary,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-59824,CALMA Vocabulary,CC-BY_v4,Can,derive
+https://w3id.org/musow/1635268063-59824,CALMA Vocabulary,CC-BY_v4,Can,present
+https://w3id.org/musow/1635268063-59824,CALMA Vocabulary,CC-BY_v4,Can,modify
+https://w3id.org/musow/1635268063-59824,CALMA Vocabulary,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1635268063-59824,CALMA Vocabulary,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-59824,CALMA Vocabulary,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1635268063-59824,CALMA Vocabulary,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-59824,CALMA Vocabulary,CC-BY_v4,Can,display
+https://w3id.org/musow/1635268063-59824,CALMA Vocabulary,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-59824,CALMA Vocabulary,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1635268063-59824,CALMA Vocabulary,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-59824,CALMA Vocabulary,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1635268063-59824,CALMA Vocabulary,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1638797019-2646148,Tonality Ontology,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638797019-2646148,Tonality Ontology,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638797019-2646148,Tonality Ontology,CC-BY_v4,Can,derive
+https://w3id.org/musow/1638797019-2646148,Tonality Ontology,CC-BY_v4,Can,present
+https://w3id.org/musow/1638797019-2646148,Tonality Ontology,CC-BY_v4,Can,modify
+https://w3id.org/musow/1638797019-2646148,Tonality Ontology,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638797019-2646148,Tonality Ontology,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638797019-2646148,Tonality Ontology,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638797019-2646148,Tonality Ontology,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638797019-2646148,Tonality Ontology,CC-BY_v4,Can,display
+https://w3id.org/musow/1638797019-2646148,Tonality Ontology,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638797019-2646148,Tonality Ontology,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638797019-2646148,Tonality Ontology,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638797019-2646148,Tonality Ontology,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638797019-2646148,Tonality Ontology,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1635268063-60418,Schumann-Autographen,Cc010Universal,Can,present
+https://w3id.org/musow/1635268063-60418,Schumann-Autographen,Cc010Universal,Can,distribute
+https://w3id.org/musow/1635268063-60418,Schumann-Autographen,Cc010Universal,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-60418,Schumann-Autographen,Cc010Universal,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-60418,Schumann-Autographen,Cc010Universal,Can,modify
+https://w3id.org/musow/1635268063-60418,Schumann-Autographen,Cc010Universal,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-60418,Schumann-Autographen,Cc010Universal,Can,derive
+https://w3id.org/musow/1635268063-60418,Schumann-Autographen,Cc010Universal,Can,ChangeLicense
+https://w3id.org/musow/1635268063-60418,Schumann-Autographen,Cc010Universal,Can,display
+https://w3id.org/musow/1635268063-60418,Schumann-Autographen,Cc010Universal,Can,CommercialUse
+https://w3id.org/musow/1635268063-60418,Schumann-Autographen,Cc010Universal,Can,reproduce
+https://w3id.org/musow/1635268063-60418,Schumann-Autographen,Cc010Universal,Cannot,promote
+https://w3id.org/musow/1638952203-7180405,Campanologia,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638952203-7180405,Campanologia,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638952203-7180405,Campanologia,CC-BY_v4,Can,derive
+https://w3id.org/musow/1638952203-7180405,Campanologia,CC-BY_v4,Can,present
+https://w3id.org/musow/1638952203-7180405,Campanologia,CC-BY_v4,Can,modify
+https://w3id.org/musow/1638952203-7180405,Campanologia,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638952203-7180405,Campanologia,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638952203-7180405,Campanologia,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638952203-7180405,Campanologia,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638952203-7180405,Campanologia,CC-BY_v4,Can,display
+https://w3id.org/musow/1638952203-7180405,Campanologia,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638952203-7180405,Campanologia,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638952203-7180405,Campanologia,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638952203-7180405,Campanologia,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638952203-7180405,Campanologia,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1635268063-60161,VexFlow,MIT,Can,reproduce
+https://w3id.org/musow/1635268063-60161,VexFlow,MIT,Can,distribute
+https://w3id.org/musow/1635268063-60161,VexFlow,MIT,Can,display
+https://w3id.org/musow/1635268063-60161,VexFlow,MIT,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-60161,VexFlow,MIT,Can,modify
+https://w3id.org/musow/1635268063-60161,VexFlow,MIT,Can,CommercialUse
+https://w3id.org/musow/1635268063-60161,VexFlow,MIT,Can,present
+https://w3id.org/musow/1635268063-60161,VexFlow,MIT,Can,derive
+https://w3id.org/musow/1635268063-60161,VexFlow,MIT,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-60161,VexFlow,MIT,Must,Notice
+https://w3id.org/musow/1635268063-60161,VexFlow,MIT,Must,Attribution
+https://w3id.org/musow/1635268063-60161,VexFlow,MIT,Must,modificationNotice
+https://w3id.org/musow/1635268063-590208,Sibley Music Library: Musical Scores,Cc010Universal,Can,present
+https://w3id.org/musow/1635268063-590208,Sibley Music Library: Musical Scores,Cc010Universal,Can,distribute
+https://w3id.org/musow/1635268063-590208,Sibley Music Library: Musical Scores,Cc010Universal,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-590208,Sibley Music Library: Musical Scores,Cc010Universal,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-590208,Sibley Music Library: Musical Scores,Cc010Universal,Can,modify
+https://w3id.org/musow/1635268063-590208,Sibley Music Library: Musical Scores,Cc010Universal,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-590208,Sibley Music Library: Musical Scores,Cc010Universal,Can,derive
+https://w3id.org/musow/1635268063-590208,Sibley Music Library: Musical Scores,Cc010Universal,Can,ChangeLicense
+https://w3id.org/musow/1635268063-590208,Sibley Music Library: Musical Scores,Cc010Universal,Can,display
+https://w3id.org/musow/1635268063-590208,Sibley Music Library: Musical Scores,Cc010Universal,Can,CommercialUse
+https://w3id.org/musow/1635268063-590208,Sibley Music Library: Musical Scores,Cc010Universal,Can,reproduce
+https://w3id.org/musow/1635268063-590208,Sibley Music Library: Musical Scores,Cc010Universal,Cannot,promote
+https://w3id.org/musow/1639383646-0078893,Choral Public Domain Library,GNU_GPL_v3,Can,reproduce
+https://w3id.org/musow/1639383646-0078893,Choral Public Domain Library,GNU_GPL_v3,Can,distribute
+https://w3id.org/musow/1639383646-0078893,Choral Public Domain Library,GNU_GPL_v3,Can,display
+https://w3id.org/musow/1639383646-0078893,Choral Public Domain Library,GNU_GPL_v3,Can,modify
+https://w3id.org/musow/1639383646-0078893,Choral Public Domain Library,GNU_GPL_v3,Can,CommercialUse
+https://w3id.org/musow/1639383646-0078893,Choral Public Domain Library,GNU_GPL_v3,Can,present
+https://w3id.org/musow/1639383646-0078893,Choral Public Domain Library,GNU_GPL_v3,Can,ModifiedWorks
+https://w3id.org/musow/1639383646-0078893,Choral Public Domain Library,GNU_GPL_v3,Can,derive
+https://w3id.org/musow/1639383646-0078893,Choral Public Domain Library,GNU_GPL_v3,Can,DerivativeWorks
+https://w3id.org/musow/1639383646-0078893,Choral Public Domain Library,GNU_GPL_v3,Cannot,ChangeLicense
+https://w3id.org/musow/1639383646-0078893,Choral Public Domain Library,GNU_GPL_v3,Cannot,promote
+https://w3id.org/musow/1639383646-0078893,Choral Public Domain Library,GNU_GPL_v3,Must,SourceCode
+https://w3id.org/musow/1639383646-0078893,Choral Public Domain Library,GNU_GPL_v3,Must,Notice
+https://w3id.org/musow/1639383646-0078893,Choral Public Domain Library,GNU_GPL_v3,Must,Attribution
+https://w3id.org/musow/1639383646-0078893,Choral Public Domain Library,GNU_GPL_v3,Must,modificationNotice
+https://w3id.org/musow/1635268063-603124,LilyPond,GNU_GPL_v3,Can,reproduce
+https://w3id.org/musow/1635268063-603124,LilyPond,GNU_GPL_v3,Can,distribute
+https://w3id.org/musow/1635268063-603124,LilyPond,GNU_GPL_v3,Can,display
+https://w3id.org/musow/1635268063-603124,LilyPond,GNU_GPL_v3,Can,modify
+https://w3id.org/musow/1635268063-603124,LilyPond,GNU_GPL_v3,Can,CommercialUse
+https://w3id.org/musow/1635268063-603124,LilyPond,GNU_GPL_v3,Can,present
+https://w3id.org/musow/1635268063-603124,LilyPond,GNU_GPL_v3,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-603124,LilyPond,GNU_GPL_v3,Can,derive
+https://w3id.org/musow/1635268063-603124,LilyPond,GNU_GPL_v3,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-603124,LilyPond,GNU_GPL_v3,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-603124,LilyPond,GNU_GPL_v3,Cannot,promote
+https://w3id.org/musow/1635268063-603124,LilyPond,GNU_GPL_v3,Must,SourceCode
+https://w3id.org/musow/1635268063-603124,LilyPond,GNU_GPL_v3,Must,Notice
+https://w3id.org/musow/1635268063-603124,LilyPond,GNU_GPL_v3,Must,Attribution
+https://w3id.org/musow/1635268063-603124,LilyPond,GNU_GPL_v3,Must,modificationNotice
+https://w3id.org/musow/1635268063-598919,ChoralWiki,Cc010Universal,Can,present
+https://w3id.org/musow/1635268063-598919,ChoralWiki,Cc010Universal,Can,distribute
+https://w3id.org/musow/1635268063-598919,ChoralWiki,Cc010Universal,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-598919,ChoralWiki,Cc010Universal,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-598919,ChoralWiki,Cc010Universal,Can,modify
+https://w3id.org/musow/1635268063-598919,ChoralWiki,Cc010Universal,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-598919,ChoralWiki,Cc010Universal,Can,derive
+https://w3id.org/musow/1635268063-598919,ChoralWiki,Cc010Universal,Can,ChangeLicense
+https://w3id.org/musow/1635268063-598919,ChoralWiki,Cc010Universal,Can,display
+https://w3id.org/musow/1635268063-598919,ChoralWiki,Cc010Universal,Can,CommercialUse
+https://w3id.org/musow/1635268063-598919,ChoralWiki,Cc010Universal,Can,reproduce
+https://w3id.org/musow/1635268063-598919,ChoralWiki,Cc010Universal,Cannot,promote
+https://w3id.org/musow/1635268063-58209,BBC John Peel Sessions,CC-BY-NC-SA_v4,Can,derive
+https://w3id.org/musow/1635268063-58209,BBC John Peel Sessions,CC-BY-NC-SA_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-58209,BBC John Peel Sessions,CC-BY-NC-SA_v4,Can,modify
+https://w3id.org/musow/1635268063-58209,BBC John Peel Sessions,CC-BY-NC-SA_v4,Can,reproduce
+https://w3id.org/musow/1635268063-58209,BBC John Peel Sessions,CC-BY-NC-SA_v4,Can,display
+https://w3id.org/musow/1635268063-58209,BBC John Peel Sessions,CC-BY-NC-SA_v4,Can,present
+https://w3id.org/musow/1635268063-58209,BBC John Peel Sessions,CC-BY-NC-SA_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-58209,BBC John Peel Sessions,CC-BY-NC-SA_v4,Can,distribute
+https://w3id.org/musow/1635268063-58209,BBC John Peel Sessions,CC-BY-NC-SA_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-58209,BBC John Peel Sessions,CC-BY-NC-SA_v4,Cannot,promote
+https://w3id.org/musow/1635268063-58209,BBC John Peel Sessions,CC-BY-NC-SA_v4,Cannot,CommercialUse
+https://w3id.org/musow/1635268063-58209,BBC John Peel Sessions,CC-BY-NC-SA_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-58209,BBC John Peel Sessions,CC-BY-NC-SA_v4,Must,Notice
+https://w3id.org/musow/1635268063-58209,BBC John Peel Sessions,CC-BY-NC-SA_v4,Must,Attribution
+https://w3id.org/musow/1635268063-585732,MUSO Ontology,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1635268063-585732,MUSO Ontology,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-585732,MUSO Ontology,CC-BY_v4,Can,derive
+https://w3id.org/musow/1635268063-585732,MUSO Ontology,CC-BY_v4,Can,present
+https://w3id.org/musow/1635268063-585732,MUSO Ontology,CC-BY_v4,Can,modify
+https://w3id.org/musow/1635268063-585732,MUSO Ontology,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1635268063-585732,MUSO Ontology,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-585732,MUSO Ontology,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1635268063-585732,MUSO Ontology,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-585732,MUSO Ontology,CC-BY_v4,Can,display
+https://w3id.org/musow/1635268063-585732,MUSO Ontology,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-585732,MUSO Ontology,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1635268063-585732,MUSO Ontology,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-585732,MUSO Ontology,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1635268063-585732,MUSO Ontology,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1639035496-2814538,Music at MIT Oral History Project,CC-BY-NC_v4,Can,modify
+https://w3id.org/musow/1639035496-2814538,Music at MIT Oral History Project,CC-BY-NC_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1639035496-2814538,Music at MIT Oral History Project,CC-BY-NC_v4,Can,reproduce
+https://w3id.org/musow/1639035496-2814538,Music at MIT Oral History Project,CC-BY-NC_v4,Can,present
+https://w3id.org/musow/1639035496-2814538,Music at MIT Oral History Project,CC-BY-NC_v4,Can,display
+https://w3id.org/musow/1639035496-2814538,Music at MIT Oral History Project,CC-BY-NC_v4,Can,DerivativeWorks
+https://w3id.org/musow/1639035496-2814538,Music at MIT Oral History Project,CC-BY-NC_v4,Can,ModifiedWorks
+https://w3id.org/musow/1639035496-2814538,Music at MIT Oral History Project,CC-BY-NC_v4,Can,derive
+https://w3id.org/musow/1639035496-2814538,Music at MIT Oral History Project,CC-BY-NC_v4,Can,distribute
+https://w3id.org/musow/1639035496-2814538,Music at MIT Oral History Project,CC-BY-NC_v4,Cannot,CommercialUse
+https://w3id.org/musow/1639035496-2814538,Music at MIT Oral History Project,CC-BY-NC_v4,Cannot,promote
+https://w3id.org/musow/1639035496-2814538,Music at MIT Oral History Project,CC-BY-NC_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1639035496-2814538,Music at MIT Oral History Project,CC-BY-NC_v4,Must,modificationNotice
+https://w3id.org/musow/1639035496-2814538,Music at MIT Oral History Project,CC-BY-NC_v4,Must,Notice
+https://w3id.org/musow/1639035496-2814538,Music at MIT Oral History Project,CC-BY-NC_v4,Must,Attribution
+https://w3id.org/musow/1638797833-2683523,Similarity Ontology,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638797833-2683523,Similarity Ontology,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638797833-2683523,Similarity Ontology,CC-BY_v4,Can,derive
+https://w3id.org/musow/1638797833-2683523,Similarity Ontology,CC-BY_v4,Can,present
+https://w3id.org/musow/1638797833-2683523,Similarity Ontology,CC-BY_v4,Can,modify
+https://w3id.org/musow/1638797833-2683523,Similarity Ontology,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638797833-2683523,Similarity Ontology,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638797833-2683523,Similarity Ontology,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638797833-2683523,Similarity Ontology,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638797833-2683523,Similarity Ontology,CC-BY_v4,Can,display
+https://w3id.org/musow/1638797833-2683523,Similarity Ontology,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638797833-2683523,Similarity Ontology,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638797833-2683523,Similarity Ontology,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638797833-2683523,Similarity Ontology,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638797833-2683523,Similarity Ontology,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1639215690-2141342,ISMIR datasets,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1639215690-2141342,ISMIR datasets,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1639215690-2141342,ISMIR datasets,CC-BY_v4,Can,derive
+https://w3id.org/musow/1639215690-2141342,ISMIR datasets,CC-BY_v4,Can,present
+https://w3id.org/musow/1639215690-2141342,ISMIR datasets,CC-BY_v4,Can,modify
+https://w3id.org/musow/1639215690-2141342,ISMIR datasets,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1639215690-2141342,ISMIR datasets,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1639215690-2141342,ISMIR datasets,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1639215690-2141342,ISMIR datasets,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1639215690-2141342,ISMIR datasets,CC-BY_v4,Can,display
+https://w3id.org/musow/1639215690-2141342,ISMIR datasets,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1639215690-2141342,ISMIR datasets,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1639215690-2141342,ISMIR datasets,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1639215690-2141342,ISMIR datasets,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1639215690-2141342,ISMIR datasets,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1638798713-4743624,Deep Learning for Music (DL4M),MIT,Can,reproduce
+https://w3id.org/musow/1638798713-4743624,Deep Learning for Music (DL4M),MIT,Can,distribute
+https://w3id.org/musow/1638798713-4743624,Deep Learning for Music (DL4M),MIT,Can,display
+https://w3id.org/musow/1638798713-4743624,Deep Learning for Music (DL4M),MIT,Can,ModifiedWorks
+https://w3id.org/musow/1638798713-4743624,Deep Learning for Music (DL4M),MIT,Can,modify
+https://w3id.org/musow/1638798713-4743624,Deep Learning for Music (DL4M),MIT,Can,CommercialUse
+https://w3id.org/musow/1638798713-4743624,Deep Learning for Music (DL4M),MIT,Can,present
+https://w3id.org/musow/1638798713-4743624,Deep Learning for Music (DL4M),MIT,Can,derive
+https://w3id.org/musow/1638798713-4743624,Deep Learning for Music (DL4M),MIT,Can,DerivativeWorks
+https://w3id.org/musow/1638798713-4743624,Deep Learning for Music (DL4M),MIT,Must,Notice
+https://w3id.org/musow/1638798713-4743624,Deep Learning for Music (DL4M),MIT,Must,Attribution
+https://w3id.org/musow/1638798713-4743624,Deep Learning for Music (DL4M),MIT,Must,modificationNotice
+https://w3id.org/musow/1635268063-601172,Mutopia Project,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1635268063-601172,Mutopia Project,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-601172,Mutopia Project,CC-BY_v4,Can,derive
+https://w3id.org/musow/1635268063-601172,Mutopia Project,CC-BY_v4,Can,present
+https://w3id.org/musow/1635268063-601172,Mutopia Project,CC-BY_v4,Can,modify
+https://w3id.org/musow/1635268063-601172,Mutopia Project,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1635268063-601172,Mutopia Project,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-601172,Mutopia Project,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1635268063-601172,Mutopia Project,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-601172,Mutopia Project,CC-BY_v4,Can,display
+https://w3id.org/musow/1635268063-601172,Mutopia Project,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-601172,Mutopia Project,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1635268063-601172,Mutopia Project,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-601172,Mutopia Project,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1635268063-601172,Mutopia Project,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1636560578-1976395,Muziekschatten,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1636560578-1976395,Muziekschatten,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1636560578-1976395,Muziekschatten,CC-BY_v4,Can,derive
+https://w3id.org/musow/1636560578-1976395,Muziekschatten,CC-BY_v4,Can,present
+https://w3id.org/musow/1636560578-1976395,Muziekschatten,CC-BY_v4,Can,modify
+https://w3id.org/musow/1636560578-1976395,Muziekschatten,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1636560578-1976395,Muziekschatten,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1636560578-1976395,Muziekschatten,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1636560578-1976395,Muziekschatten,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1636560578-1976395,Muziekschatten,CC-BY_v4,Can,display
+https://w3id.org/musow/1636560578-1976395,Muziekschatten,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1636560578-1976395,Muziekschatten,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1636560578-1976395,Muziekschatten,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1636560578-1976395,Muziekschatten,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1636560578-1976395,Muziekschatten,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1635268063-584906,The Edgar Allan Poe Digital Collection,Cc010Universal,Can,present
+https://w3id.org/musow/1635268063-584906,The Edgar Allan Poe Digital Collection,Cc010Universal,Can,distribute
+https://w3id.org/musow/1635268063-584906,The Edgar Allan Poe Digital Collection,Cc010Universal,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-584906,The Edgar Allan Poe Digital Collection,Cc010Universal,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-584906,The Edgar Allan Poe Digital Collection,Cc010Universal,Can,modify
+https://w3id.org/musow/1635268063-584906,The Edgar Allan Poe Digital Collection,Cc010Universal,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-584906,The Edgar Allan Poe Digital Collection,Cc010Universal,Can,derive
+https://w3id.org/musow/1635268063-584906,The Edgar Allan Poe Digital Collection,Cc010Universal,Can,ChangeLicense
+https://w3id.org/musow/1635268063-584906,The Edgar Allan Poe Digital Collection,Cc010Universal,Can,display
+https://w3id.org/musow/1635268063-584906,The Edgar Allan Poe Digital Collection,Cc010Universal,Can,CommercialUse
+https://w3id.org/musow/1635268063-584906,The Edgar Allan Poe Digital Collection,Cc010Universal,Can,reproduce
+https://w3id.org/musow/1635268063-584906,The Edgar Allan Poe Digital Collection,Cc010Universal,Cannot,promote
+https://w3id.org/musow/1635268063-595771,Cantus Manuscript Database,CC-BY-NC-SA_v4,Can,derive
+https://w3id.org/musow/1635268063-595771,Cantus Manuscript Database,CC-BY-NC-SA_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-595771,Cantus Manuscript Database,CC-BY-NC-SA_v4,Can,modify
+https://w3id.org/musow/1635268063-595771,Cantus Manuscript Database,CC-BY-NC-SA_v4,Can,reproduce
+https://w3id.org/musow/1635268063-595771,Cantus Manuscript Database,CC-BY-NC-SA_v4,Can,display
+https://w3id.org/musow/1635268063-595771,Cantus Manuscript Database,CC-BY-NC-SA_v4,Can,present
+https://w3id.org/musow/1635268063-595771,Cantus Manuscript Database,CC-BY-NC-SA_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-595771,Cantus Manuscript Database,CC-BY-NC-SA_v4,Can,distribute
+https://w3id.org/musow/1635268063-595771,Cantus Manuscript Database,CC-BY-NC-SA_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-595771,Cantus Manuscript Database,CC-BY-NC-SA_v4,Cannot,promote
+https://w3id.org/musow/1635268063-595771,Cantus Manuscript Database,CC-BY-NC-SA_v4,Cannot,CommercialUse
+https://w3id.org/musow/1635268063-595771,Cantus Manuscript Database,CC-BY-NC-SA_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-595771,Cantus Manuscript Database,CC-BY-NC-SA_v4,Must,Notice
+https://w3id.org/musow/1635268063-595771,Cantus Manuscript Database,CC-BY-NC-SA_v4,Must,Attribution
+https://w3id.org/musow/1635268063-597033,Mozart Libretti – Online Edition,CC-BY-NC-SA_v4,Can,derive
+https://w3id.org/musow/1635268063-597033,Mozart Libretti – Online Edition,CC-BY-NC-SA_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-597033,Mozart Libretti – Online Edition,CC-BY-NC-SA_v4,Can,modify
+https://w3id.org/musow/1635268063-597033,Mozart Libretti – Online Edition,CC-BY-NC-SA_v4,Can,reproduce
+https://w3id.org/musow/1635268063-597033,Mozart Libretti – Online Edition,CC-BY-NC-SA_v4,Can,display
+https://w3id.org/musow/1635268063-597033,Mozart Libretti – Online Edition,CC-BY-NC-SA_v4,Can,present
+https://w3id.org/musow/1635268063-597033,Mozart Libretti – Online Edition,CC-BY-NC-SA_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-597033,Mozart Libretti – Online Edition,CC-BY-NC-SA_v4,Can,distribute
+https://w3id.org/musow/1635268063-597033,Mozart Libretti – Online Edition,CC-BY-NC-SA_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-597033,Mozart Libretti – Online Edition,CC-BY-NC-SA_v4,Cannot,promote
+https://w3id.org/musow/1635268063-597033,Mozart Libretti – Online Edition,CC-BY-NC-SA_v4,Cannot,CommercialUse
+https://w3id.org/musow/1635268063-597033,Mozart Libretti – Online Edition,CC-BY-NC-SA_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-597033,Mozart Libretti – Online Edition,CC-BY-NC-SA_v4,Must,Notice
+https://w3id.org/musow/1635268063-597033,Mozart Libretti – Online Edition,CC-BY-NC-SA_v4,Must,Attribution
+https://w3id.org/musow/1638962299-301302,African Music Archive,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638962299-301302,African Music Archive,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638962299-301302,African Music Archive,CC-BY_v4,Can,derive
+https://w3id.org/musow/1638962299-301302,African Music Archive,CC-BY_v4,Can,present
+https://w3id.org/musow/1638962299-301302,African Music Archive,CC-BY_v4,Can,modify
+https://w3id.org/musow/1638962299-301302,African Music Archive,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638962299-301302,African Music Archive,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638962299-301302,African Music Archive,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638962299-301302,African Music Archive,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638962299-301302,African Music Archive,CC-BY_v4,Can,display
+https://w3id.org/musow/1638962299-301302,African Music Archive,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638962299-301302,African Music Archive,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638962299-301302,African Music Archive,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638962299-301302,African Music Archive,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638962299-301302,African Music Archive,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1635268063-596738,Lost Voices: The Chansons of Nicolas du Chemin,CC-BY-NC_v4,Can,modify
+https://w3id.org/musow/1635268063-596738,Lost Voices: The Chansons of Nicolas du Chemin,CC-BY-NC_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-596738,Lost Voices: The Chansons of Nicolas du Chemin,CC-BY-NC_v4,Can,reproduce
+https://w3id.org/musow/1635268063-596738,Lost Voices: The Chansons of Nicolas du Chemin,CC-BY-NC_v4,Can,present
+https://w3id.org/musow/1635268063-596738,Lost Voices: The Chansons of Nicolas du Chemin,CC-BY-NC_v4,Can,display
+https://w3id.org/musow/1635268063-596738,Lost Voices: The Chansons of Nicolas du Chemin,CC-BY-NC_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-596738,Lost Voices: The Chansons of Nicolas du Chemin,CC-BY-NC_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-596738,Lost Voices: The Chansons of Nicolas du Chemin,CC-BY-NC_v4,Can,derive
+https://w3id.org/musow/1635268063-596738,Lost Voices: The Chansons of Nicolas du Chemin,CC-BY-NC_v4,Can,distribute
+https://w3id.org/musow/1635268063-596738,Lost Voices: The Chansons of Nicolas du Chemin,CC-BY-NC_v4,Cannot,CommercialUse
+https://w3id.org/musow/1635268063-596738,Lost Voices: The Chansons of Nicolas du Chemin,CC-BY-NC_v4,Cannot,promote
+https://w3id.org/musow/1635268063-596738,Lost Voices: The Chansons of Nicolas du Chemin,CC-BY-NC_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-596738,Lost Voices: The Chansons of Nicolas du Chemin,CC-BY-NC_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-596738,Lost Voices: The Chansons of Nicolas du Chemin,CC-BY-NC_v4,Must,Notice
+https://w3id.org/musow/1635268063-596738,Lost Voices: The Chansons of Nicolas du Chemin,CC-BY-NC_v4,Must,Attribution
+https://w3id.org/musow/1635268063-596377,Etree Dataset,Cc010Universal,Can,present
+https://w3id.org/musow/1635268063-596377,Etree Dataset,Cc010Universal,Can,distribute
+https://w3id.org/musow/1635268063-596377,Etree Dataset,Cc010Universal,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-596377,Etree Dataset,Cc010Universal,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-596377,Etree Dataset,Cc010Universal,Can,modify
+https://w3id.org/musow/1635268063-596377,Etree Dataset,Cc010Universal,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-596377,Etree Dataset,Cc010Universal,Can,derive
+https://w3id.org/musow/1635268063-596377,Etree Dataset,Cc010Universal,Can,ChangeLicense
+https://w3id.org/musow/1635268063-596377,Etree Dataset,Cc010Universal,Can,display
+https://w3id.org/musow/1635268063-596377,Etree Dataset,Cc010Universal,Can,CommercialUse
+https://w3id.org/musow/1635268063-596377,Etree Dataset,Cc010Universal,Can,reproduce
+https://w3id.org/musow/1635268063-596377,Etree Dataset,Cc010Universal,Cannot,promote
+https://w3id.org/musow/1635268063-584252,English Broadside Ballad Archive,CC-BY-NC_v4,Can,modify
+https://w3id.org/musow/1635268063-584252,English Broadside Ballad Archive,CC-BY-NC_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-584252,English Broadside Ballad Archive,CC-BY-NC_v4,Can,reproduce
+https://w3id.org/musow/1635268063-584252,English Broadside Ballad Archive,CC-BY-NC_v4,Can,present
+https://w3id.org/musow/1635268063-584252,English Broadside Ballad Archive,CC-BY-NC_v4,Can,display
+https://w3id.org/musow/1635268063-584252,English Broadside Ballad Archive,CC-BY-NC_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-584252,English Broadside Ballad Archive,CC-BY-NC_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-584252,English Broadside Ballad Archive,CC-BY-NC_v4,Can,derive
+https://w3id.org/musow/1635268063-584252,English Broadside Ballad Archive,CC-BY-NC_v4,Can,distribute
+https://w3id.org/musow/1635268063-584252,English Broadside Ballad Archive,CC-BY-NC_v4,Cannot,CommercialUse
+https://w3id.org/musow/1635268063-584252,English Broadside Ballad Archive,CC-BY-NC_v4,Cannot,promote
+https://w3id.org/musow/1635268063-584252,English Broadside Ballad Archive,CC-BY-NC_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-584252,English Broadside Ballad Archive,CC-BY-NC_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-584252,English Broadside Ballad Archive,CC-BY-NC_v4,Must,Notice
+https://w3id.org/musow/1635268063-584252,English Broadside Ballad Archive,CC-BY-NC_v4,Must,Attribution
+https://w3id.org/musow/1635268063-582017,Magnatune,CC-BY-NC-SA_v4,Can,derive
+https://w3id.org/musow/1635268063-582017,Magnatune,CC-BY-NC-SA_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-582017,Magnatune,CC-BY-NC-SA_v4,Can,modify
+https://w3id.org/musow/1635268063-582017,Magnatune,CC-BY-NC-SA_v4,Can,reproduce
+https://w3id.org/musow/1635268063-582017,Magnatune,CC-BY-NC-SA_v4,Can,display
+https://w3id.org/musow/1635268063-582017,Magnatune,CC-BY-NC-SA_v4,Can,present
+https://w3id.org/musow/1635268063-582017,Magnatune,CC-BY-NC-SA_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-582017,Magnatune,CC-BY-NC-SA_v4,Can,distribute
+https://w3id.org/musow/1635268063-582017,Magnatune,CC-BY-NC-SA_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-582017,Magnatune,CC-BY-NC-SA_v4,Cannot,promote
+https://w3id.org/musow/1635268063-582017,Magnatune,CC-BY-NC-SA_v4,Cannot,CommercialUse
+https://w3id.org/musow/1635268063-582017,Magnatune,CC-BY-NC-SA_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-582017,Magnatune,CC-BY-NC-SA_v4,Must,Notice
+https://w3id.org/musow/1635268063-582017,Magnatune,CC-BY-NC-SA_v4,Must,Attribution
+https://w3id.org/musow/1638975485-0080729,Colorado Music Experience,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638975485-0080729,Colorado Music Experience,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638975485-0080729,Colorado Music Experience,CC-BY_v4,Can,derive
+https://w3id.org/musow/1638975485-0080729,Colorado Music Experience,CC-BY_v4,Can,present
+https://w3id.org/musow/1638975485-0080729,Colorado Music Experience,CC-BY_v4,Can,modify
+https://w3id.org/musow/1638975485-0080729,Colorado Music Experience,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638975485-0080729,Colorado Music Experience,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638975485-0080729,Colorado Music Experience,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638975485-0080729,Colorado Music Experience,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638975485-0080729,Colorado Music Experience,CC-BY_v4,Can,display
+https://w3id.org/musow/1638975485-0080729,Colorado Music Experience,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638975485-0080729,Colorado Music Experience,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638975485-0080729,Colorado Music Experience,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638975485-0080729,Colorado Music Experience,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638975485-0080729,Colorado Music Experience,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1635268063-588711,Hofmusik Dresden,CC-BY-SA_v4,Can,modify
+https://w3id.org/musow/1635268063-588711,Hofmusik Dresden,CC-BY-SA_v4,Can,distribute
+https://w3id.org/musow/1635268063-588711,Hofmusik Dresden,CC-BY-SA_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-588711,Hofmusik Dresden,CC-BY-SA_v4,Can,derive
+https://w3id.org/musow/1635268063-588711,Hofmusik Dresden,CC-BY-SA_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-588711,Hofmusik Dresden,CC-BY-SA_v4,Can,CommercialUse
+https://w3id.org/musow/1635268063-588711,Hofmusik Dresden,CC-BY-SA_v4,Can,present
+https://w3id.org/musow/1635268063-588711,Hofmusik Dresden,CC-BY-SA_v4,Can,reproduce
+https://w3id.org/musow/1635268063-588711,Hofmusik Dresden,CC-BY-SA_v4,Can,display
+https://w3id.org/musow/1635268063-588711,Hofmusik Dresden,CC-BY-SA_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-588711,Hofmusik Dresden,CC-BY-SA_v4,Cannot,promote
+https://w3id.org/musow/1635268063-588711,Hofmusik Dresden,CC-BY-SA_v4,Must,Attribution
+https://w3id.org/musow/1635268063-588711,Hofmusik Dresden,CC-BY-SA_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-588711,Hofmusik Dresden,CC-BY-SA_v4,Must,Notice
+https://w3id.org/musow/1638975705-6394398,Detroit Sound Conservancy,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638975705-6394398,Detroit Sound Conservancy,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638975705-6394398,Detroit Sound Conservancy,CC-BY_v4,Can,derive
+https://w3id.org/musow/1638975705-6394398,Detroit Sound Conservancy,CC-BY_v4,Can,present
+https://w3id.org/musow/1638975705-6394398,Detroit Sound Conservancy,CC-BY_v4,Can,modify
+https://w3id.org/musow/1638975705-6394398,Detroit Sound Conservancy,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638975705-6394398,Detroit Sound Conservancy,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638975705-6394398,Detroit Sound Conservancy,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638975705-6394398,Detroit Sound Conservancy,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638975705-6394398,Detroit Sound Conservancy,CC-BY_v4,Can,display
+https://w3id.org/musow/1638975705-6394398,Detroit Sound Conservancy,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638975705-6394398,Detroit Sound Conservancy,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638975705-6394398,Detroit Sound Conservancy,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638975705-6394398,Detroit Sound Conservancy,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638975705-6394398,Detroit Sound Conservancy,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1638975270-2578552,Berklee College of Music Archives,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638975270-2578552,Berklee College of Music Archives,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638975270-2578552,Berklee College of Music Archives,CC-BY_v4,Can,derive
+https://w3id.org/musow/1638975270-2578552,Berklee College of Music Archives,CC-BY_v4,Can,present
+https://w3id.org/musow/1638975270-2578552,Berklee College of Music Archives,CC-BY_v4,Can,modify
+https://w3id.org/musow/1638975270-2578552,Berklee College of Music Archives,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638975270-2578552,Berklee College of Music Archives,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638975270-2578552,Berklee College of Music Archives,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638975270-2578552,Berklee College of Music Archives,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638975270-2578552,Berklee College of Music Archives,CC-BY_v4,Can,display
+https://w3id.org/musow/1638975270-2578552,Berklee College of Music Archives,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638975270-2578552,Berklee College of Music Archives,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638975270-2578552,Berklee College of Music Archives,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638975270-2578552,Berklee College of Music Archives,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638975270-2578552,Berklee College of Music Archives,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1639383381-676601,Sound Credit,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1639383381-676601,Sound Credit,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1639383381-676601,Sound Credit,CC-BY_v4,Can,derive
+https://w3id.org/musow/1639383381-676601,Sound Credit,CC-BY_v4,Can,present
+https://w3id.org/musow/1639383381-676601,Sound Credit,CC-BY_v4,Can,modify
+https://w3id.org/musow/1639383381-676601,Sound Credit,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1639383381-676601,Sound Credit,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1639383381-676601,Sound Credit,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1639383381-676601,Sound Credit,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1639383381-676601,Sound Credit,CC-BY_v4,Can,display
+https://w3id.org/musow/1639383381-676601,Sound Credit,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1639383381-676601,Sound Credit,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1639383381-676601,Sound Credit,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1639383381-676601,Sound Credit,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1639383381-676601,Sound Credit,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1635268063-58603,Performance History database of New York Philarmonic,Cc010Universal,Can,present
+https://w3id.org/musow/1635268063-58603,Performance History database of New York Philarmonic,Cc010Universal,Can,distribute
+https://w3id.org/musow/1635268063-58603,Performance History database of New York Philarmonic,Cc010Universal,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-58603,Performance History database of New York Philarmonic,Cc010Universal,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-58603,Performance History database of New York Philarmonic,Cc010Universal,Can,modify
+https://w3id.org/musow/1635268063-58603,Performance History database of New York Philarmonic,Cc010Universal,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-58603,Performance History database of New York Philarmonic,Cc010Universal,Can,derive
+https://w3id.org/musow/1635268063-58603,Performance History database of New York Philarmonic,Cc010Universal,Can,ChangeLicense
+https://w3id.org/musow/1635268063-58603,Performance History database of New York Philarmonic,Cc010Universal,Can,display
+https://w3id.org/musow/1635268063-58603,Performance History database of New York Philarmonic,Cc010Universal,Can,CommercialUse
+https://w3id.org/musow/1635268063-58603,Performance History database of New York Philarmonic,Cc010Universal,Can,reproduce
+https://w3id.org/musow/1635268063-58603,Performance History database of New York Philarmonic,Cc010Universal,Cannot,promote
+https://w3id.org/musow/1639035224-1500654,Manchester Digital Music Archive,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1639035224-1500654,Manchester Digital Music Archive,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1639035224-1500654,Manchester Digital Music Archive,CC-BY_v4,Can,derive
+https://w3id.org/musow/1639035224-1500654,Manchester Digital Music Archive,CC-BY_v4,Can,present
+https://w3id.org/musow/1639035224-1500654,Manchester Digital Music Archive,CC-BY_v4,Can,modify
+https://w3id.org/musow/1639035224-1500654,Manchester Digital Music Archive,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1639035224-1500654,Manchester Digital Music Archive,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1639035224-1500654,Manchester Digital Music Archive,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1639035224-1500654,Manchester Digital Music Archive,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1639035224-1500654,Manchester Digital Music Archive,CC-BY_v4,Can,display
+https://w3id.org/musow/1639035224-1500654,Manchester Digital Music Archive,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1639035224-1500654,Manchester Digital Music Archive,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1639035224-1500654,Manchester Digital Music Archive,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1639035224-1500654,Manchester Digital Music Archive,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1639035224-1500654,Manchester Digital Music Archive,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1635268063-596069,Metric Modulations Dataset,CC-BY-NC-SA_v4,Can,derive
+https://w3id.org/musow/1635268063-596069,Metric Modulations Dataset,CC-BY-NC-SA_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-596069,Metric Modulations Dataset,CC-BY-NC-SA_v4,Can,modify
+https://w3id.org/musow/1635268063-596069,Metric Modulations Dataset,CC-BY-NC-SA_v4,Can,reproduce
+https://w3id.org/musow/1635268063-596069,Metric Modulations Dataset,CC-BY-NC-SA_v4,Can,display
+https://w3id.org/musow/1635268063-596069,Metric Modulations Dataset,CC-BY-NC-SA_v4,Can,present
+https://w3id.org/musow/1635268063-596069,Metric Modulations Dataset,CC-BY-NC-SA_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-596069,Metric Modulations Dataset,CC-BY-NC-SA_v4,Can,distribute
+https://w3id.org/musow/1635268063-596069,Metric Modulations Dataset,CC-BY-NC-SA_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-596069,Metric Modulations Dataset,CC-BY-NC-SA_v4,Cannot,promote
+https://w3id.org/musow/1635268063-596069,Metric Modulations Dataset,CC-BY-NC-SA_v4,Cannot,CommercialUse
+https://w3id.org/musow/1635268063-596069,Metric Modulations Dataset,CC-BY-NC-SA_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-596069,Metric Modulations Dataset,CC-BY-NC-SA_v4,Must,Notice
+https://w3id.org/musow/1635268063-596069,Metric Modulations Dataset,CC-BY-NC-SA_v4,Must,Attribution
+https://w3id.org/musow/1635268063-588034,List of Public Domain Music,Cc010Universal,Can,present
+https://w3id.org/musow/1635268063-588034,List of Public Domain Music,Cc010Universal,Can,distribute
+https://w3id.org/musow/1635268063-588034,List of Public Domain Music,Cc010Universal,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-588034,List of Public Domain Music,Cc010Universal,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-588034,List of Public Domain Music,Cc010Universal,Can,modify
+https://w3id.org/musow/1635268063-588034,List of Public Domain Music,Cc010Universal,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-588034,List of Public Domain Music,Cc010Universal,Can,derive
+https://w3id.org/musow/1635268063-588034,List of Public Domain Music,Cc010Universal,Can,ChangeLicense
+https://w3id.org/musow/1635268063-588034,List of Public Domain Music,Cc010Universal,Can,display
+https://w3id.org/musow/1635268063-588034,List of Public Domain Music,Cc010Universal,Can,CommercialUse
+https://w3id.org/musow/1635268063-588034,List of Public Domain Music,Cc010Universal,Can,reproduce
+https://w3id.org/musow/1635268063-588034,List of Public Domain Music,Cc010Universal,Cannot,promote
+https://w3id.org/musow/1635268063-589975,The Oregon Music Collection,Cc010Universal,Can,present
+https://w3id.org/musow/1635268063-589975,The Oregon Music Collection,Cc010Universal,Can,distribute
+https://w3id.org/musow/1635268063-589975,The Oregon Music Collection,Cc010Universal,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-589975,The Oregon Music Collection,Cc010Universal,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-589975,The Oregon Music Collection,Cc010Universal,Can,modify
+https://w3id.org/musow/1635268063-589975,The Oregon Music Collection,Cc010Universal,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-589975,The Oregon Music Collection,Cc010Universal,Can,derive
+https://w3id.org/musow/1635268063-589975,The Oregon Music Collection,Cc010Universal,Can,ChangeLicense
+https://w3id.org/musow/1635268063-589975,The Oregon Music Collection,Cc010Universal,Can,display
+https://w3id.org/musow/1635268063-589975,The Oregon Music Collection,Cc010Universal,Can,CommercialUse
+https://w3id.org/musow/1635268063-589975,The Oregon Music Collection,Cc010Universal,Can,reproduce
+https://w3id.org/musow/1635268063-589975,The Oregon Music Collection,Cc010Universal,Cannot,promote
+https://w3id.org/musow/1635268063-60267,Sonic Annotator,GNU_GPL_v3,Can,reproduce
+https://w3id.org/musow/1635268063-60267,Sonic Annotator,GNU_GPL_v3,Can,distribute
+https://w3id.org/musow/1635268063-60267,Sonic Annotator,GNU_GPL_v3,Can,display
+https://w3id.org/musow/1635268063-60267,Sonic Annotator,GNU_GPL_v3,Can,modify
+https://w3id.org/musow/1635268063-60267,Sonic Annotator,GNU_GPL_v3,Can,CommercialUse
+https://w3id.org/musow/1635268063-60267,Sonic Annotator,GNU_GPL_v3,Can,present
+https://w3id.org/musow/1635268063-60267,Sonic Annotator,GNU_GPL_v3,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-60267,Sonic Annotator,GNU_GPL_v3,Can,derive
+https://w3id.org/musow/1635268063-60267,Sonic Annotator,GNU_GPL_v3,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-60267,Sonic Annotator,GNU_GPL_v3,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-60267,Sonic Annotator,GNU_GPL_v3,Cannot,promote
+https://w3id.org/musow/1635268063-60267,Sonic Annotator,GNU_GPL_v3,Must,SourceCode
+https://w3id.org/musow/1635268063-60267,Sonic Annotator,GNU_GPL_v3,Must,Notice
+https://w3id.org/musow/1635268063-60267,Sonic Annotator,GNU_GPL_v3,Must,Attribution
+https://w3id.org/musow/1635268063-60267,Sonic Annotator,GNU_GPL_v3,Must,modificationNotice
+https://w3id.org/musow/1638952534-525157,Irish Traditional Music Archive (Port collections),CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638952534-525157,Irish Traditional Music Archive (Port collections),CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638952534-525157,Irish Traditional Music Archive (Port collections),CC-BY_v4,Can,derive
+https://w3id.org/musow/1638952534-525157,Irish Traditional Music Archive (Port collections),CC-BY_v4,Can,present
+https://w3id.org/musow/1638952534-525157,Irish Traditional Music Archive (Port collections),CC-BY_v4,Can,modify
+https://w3id.org/musow/1638952534-525157,Irish Traditional Music Archive (Port collections),CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638952534-525157,Irish Traditional Music Archive (Port collections),CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638952534-525157,Irish Traditional Music Archive (Port collections),CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638952534-525157,Irish Traditional Music Archive (Port collections),CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638952534-525157,Irish Traditional Music Archive (Port collections),CC-BY_v4,Can,display
+https://w3id.org/musow/1638952534-525157,Irish Traditional Music Archive (Port collections),CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638952534-525157,Irish Traditional Music Archive (Port collections),CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638952534-525157,Irish Traditional Music Archive (Port collections),CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638952534-525157,Irish Traditional Music Archive (Port collections),CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638952534-525157,Irish Traditional Music Archive (Port collections),CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1635268063-602746,Tony,GNU_GPL_v3,Can,reproduce
+https://w3id.org/musow/1635268063-602746,Tony,GNU_GPL_v3,Can,distribute
+https://w3id.org/musow/1635268063-602746,Tony,GNU_GPL_v3,Can,display
+https://w3id.org/musow/1635268063-602746,Tony,GNU_GPL_v3,Can,modify
+https://w3id.org/musow/1635268063-602746,Tony,GNU_GPL_v3,Can,CommercialUse
+https://w3id.org/musow/1635268063-602746,Tony,GNU_GPL_v3,Can,present
+https://w3id.org/musow/1635268063-602746,Tony,GNU_GPL_v3,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-602746,Tony,GNU_GPL_v3,Can,derive
+https://w3id.org/musow/1635268063-602746,Tony,GNU_GPL_v3,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-602746,Tony,GNU_GPL_v3,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-602746,Tony,GNU_GPL_v3,Cannot,promote
+https://w3id.org/musow/1635268063-602746,Tony,GNU_GPL_v3,Must,SourceCode
+https://w3id.org/musow/1635268063-602746,Tony,GNU_GPL_v3,Must,Notice
+https://w3id.org/musow/1635268063-602746,Tony,GNU_GPL_v3,Must,Attribution
+https://w3id.org/musow/1635268063-602746,Tony,GNU_GPL_v3,Must,modificationNotice
+https://w3id.org/musow/1635268063-583359,Digitale Mozart-Edition = Digital Mozart Edition,CC-BY-NC-SA_v4,Can,derive
+https://w3id.org/musow/1635268063-583359,Digitale Mozart-Edition = Digital Mozart Edition,CC-BY-NC-SA_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-583359,Digitale Mozart-Edition = Digital Mozart Edition,CC-BY-NC-SA_v4,Can,modify
+https://w3id.org/musow/1635268063-583359,Digitale Mozart-Edition = Digital Mozart Edition,CC-BY-NC-SA_v4,Can,reproduce
+https://w3id.org/musow/1635268063-583359,Digitale Mozart-Edition = Digital Mozart Edition,CC-BY-NC-SA_v4,Can,display
+https://w3id.org/musow/1635268063-583359,Digitale Mozart-Edition = Digital Mozart Edition,CC-BY-NC-SA_v4,Can,present
+https://w3id.org/musow/1635268063-583359,Digitale Mozart-Edition = Digital Mozart Edition,CC-BY-NC-SA_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-583359,Digitale Mozart-Edition = Digital Mozart Edition,CC-BY-NC-SA_v4,Can,distribute
+https://w3id.org/musow/1635268063-583359,Digitale Mozart-Edition = Digital Mozart Edition,CC-BY-NC-SA_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-583359,Digitale Mozart-Edition = Digital Mozart Edition,CC-BY-NC-SA_v4,Cannot,promote
+https://w3id.org/musow/1635268063-583359,Digitale Mozart-Edition = Digital Mozart Edition,CC-BY-NC-SA_v4,Cannot,CommercialUse
+https://w3id.org/musow/1635268063-583359,Digitale Mozart-Edition = Digital Mozart Edition,CC-BY-NC-SA_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-583359,Digitale Mozart-Edition = Digital Mozart Edition,CC-BY-NC-SA_v4,Must,Notice
+https://w3id.org/musow/1635268063-583359,Digitale Mozart-Edition = Digital Mozart Edition,CC-BY-NC-SA_v4,Must,Attribution
+https://w3id.org/musow/1635268063-598165,MusicXML Ontology,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1635268063-598165,MusicXML Ontology,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-598165,MusicXML Ontology,CC-BY_v4,Can,derive
+https://w3id.org/musow/1635268063-598165,MusicXML Ontology,CC-BY_v4,Can,present
+https://w3id.org/musow/1635268063-598165,MusicXML Ontology,CC-BY_v4,Can,modify
+https://w3id.org/musow/1635268063-598165,MusicXML Ontology,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1635268063-598165,MusicXML Ontology,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-598165,MusicXML Ontology,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1635268063-598165,MusicXML Ontology,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-598165,MusicXML Ontology,CC-BY_v4,Can,display
+https://w3id.org/musow/1635268063-598165,MusicXML Ontology,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-598165,MusicXML Ontology,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1635268063-598165,MusicXML Ontology,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-598165,MusicXML Ontology,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1635268063-598165,MusicXML Ontology,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1635268063-579029,Documenting Teresa Carreño,CC-BY-NC_v4,Can,modify
+https://w3id.org/musow/1635268063-579029,Documenting Teresa Carreño,CC-BY-NC_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-579029,Documenting Teresa Carreño,CC-BY-NC_v4,Can,reproduce
+https://w3id.org/musow/1635268063-579029,Documenting Teresa Carreño,CC-BY-NC_v4,Can,present
+https://w3id.org/musow/1635268063-579029,Documenting Teresa Carreño,CC-BY-NC_v4,Can,display
+https://w3id.org/musow/1635268063-579029,Documenting Teresa Carreño,CC-BY-NC_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-579029,Documenting Teresa Carreño,CC-BY-NC_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-579029,Documenting Teresa Carreño,CC-BY-NC_v4,Can,derive
+https://w3id.org/musow/1635268063-579029,Documenting Teresa Carreño,CC-BY-NC_v4,Can,distribute
+https://w3id.org/musow/1635268063-579029,Documenting Teresa Carreño,CC-BY-NC_v4,Cannot,CommercialUse
+https://w3id.org/musow/1635268063-579029,Documenting Teresa Carreño,CC-BY-NC_v4,Cannot,promote
+https://w3id.org/musow/1635268063-579029,Documenting Teresa Carreño,CC-BY-NC_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-579029,Documenting Teresa Carreño,CC-BY-NC_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-579029,Documenting Teresa Carreño,CC-BY-NC_v4,Must,Notice
+https://w3id.org/musow/1635268063-579029,Documenting Teresa Carreño,CC-BY-NC_v4,Must,Attribution
+https://w3id.org/musow/1666725248-9482715,East Bay Punk Digital Archive,CC-BY-NC_v4,Can,modify
+https://w3id.org/musow/1666725248-9482715,East Bay Punk Digital Archive,CC-BY-NC_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1666725248-9482715,East Bay Punk Digital Archive,CC-BY-NC_v4,Can,reproduce
+https://w3id.org/musow/1666725248-9482715,East Bay Punk Digital Archive,CC-BY-NC_v4,Can,present
+https://w3id.org/musow/1666725248-9482715,East Bay Punk Digital Archive,CC-BY-NC_v4,Can,display
+https://w3id.org/musow/1666725248-9482715,East Bay Punk Digital Archive,CC-BY-NC_v4,Can,DerivativeWorks
+https://w3id.org/musow/1666725248-9482715,East Bay Punk Digital Archive,CC-BY-NC_v4,Can,ModifiedWorks
+https://w3id.org/musow/1666725248-9482715,East Bay Punk Digital Archive,CC-BY-NC_v4,Can,derive
+https://w3id.org/musow/1666725248-9482715,East Bay Punk Digital Archive,CC-BY-NC_v4,Can,distribute
+https://w3id.org/musow/1666725248-9482715,East Bay Punk Digital Archive,CC-BY-NC_v4,Cannot,CommercialUse
+https://w3id.org/musow/1666725248-9482715,East Bay Punk Digital Archive,CC-BY-NC_v4,Cannot,promote
+https://w3id.org/musow/1666725248-9482715,East Bay Punk Digital Archive,CC-BY-NC_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1666725248-9482715,East Bay Punk Digital Archive,CC-BY-NC_v4,Must,modificationNotice
+https://w3id.org/musow/1666725248-9482715,East Bay Punk Digital Archive,CC-BY-NC_v4,Must,Notice
+https://w3id.org/musow/1666725248-9482715,East Bay Punk Digital Archive,CC-BY-NC_v4,Must,Attribution
+https://w3id.org/musow/1635268063-600338,Medieval Music Database,Cc010Universal,Can,present
+https://w3id.org/musow/1635268063-600338,Medieval Music Database,Cc010Universal,Can,distribute
+https://w3id.org/musow/1635268063-600338,Medieval Music Database,Cc010Universal,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-600338,Medieval Music Database,Cc010Universal,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-600338,Medieval Music Database,Cc010Universal,Can,modify
+https://w3id.org/musow/1635268063-600338,Medieval Music Database,Cc010Universal,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-600338,Medieval Music Database,Cc010Universal,Can,derive
+https://w3id.org/musow/1635268063-600338,Medieval Music Database,Cc010Universal,Can,ChangeLicense
+https://w3id.org/musow/1635268063-600338,Medieval Music Database,Cc010Universal,Can,display
+https://w3id.org/musow/1635268063-600338,Medieval Music Database,Cc010Universal,Can,CommercialUse
+https://w3id.org/musow/1635268063-600338,Medieval Music Database,Cc010Universal,Can,reproduce
+https://w3id.org/musow/1635268063-600338,Medieval Music Database,Cc010Universal,Cannot,promote
+https://w3id.org/musow/1635268063-603579,Lakh dataset,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1635268063-603579,Lakh dataset,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-603579,Lakh dataset,CC-BY_v4,Can,derive
+https://w3id.org/musow/1635268063-603579,Lakh dataset,CC-BY_v4,Can,present
+https://w3id.org/musow/1635268063-603579,Lakh dataset,CC-BY_v4,Can,modify
+https://w3id.org/musow/1635268063-603579,Lakh dataset,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1635268063-603579,Lakh dataset,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-603579,Lakh dataset,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1635268063-603579,Lakh dataset,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-603579,Lakh dataset,CC-BY_v4,Can,display
+https://w3id.org/musow/1635268063-603579,Lakh dataset,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-603579,Lakh dataset,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1635268063-603579,Lakh dataset,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-603579,Lakh dataset,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1635268063-603579,Lakh dataset,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1635268063-589608,Music at the National Library of Scotland,CC-BY-NC-SA_v4,Can,derive
+https://w3id.org/musow/1635268063-589608,Music at the National Library of Scotland,CC-BY-NC-SA_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-589608,Music at the National Library of Scotland,CC-BY-NC-SA_v4,Can,modify
+https://w3id.org/musow/1635268063-589608,Music at the National Library of Scotland,CC-BY-NC-SA_v4,Can,reproduce
+https://w3id.org/musow/1635268063-589608,Music at the National Library of Scotland,CC-BY-NC-SA_v4,Can,display
+https://w3id.org/musow/1635268063-589608,Music at the National Library of Scotland,CC-BY-NC-SA_v4,Can,present
+https://w3id.org/musow/1635268063-589608,Music at the National Library of Scotland,CC-BY-NC-SA_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-589608,Music at the National Library of Scotland,CC-BY-NC-SA_v4,Can,distribute
+https://w3id.org/musow/1635268063-589608,Music at the National Library of Scotland,CC-BY-NC-SA_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-589608,Music at the National Library of Scotland,CC-BY-NC-SA_v4,Cannot,promote
+https://w3id.org/musow/1635268063-589608,Music at the National Library of Scotland,CC-BY-NC-SA_v4,Cannot,CommercialUse
+https://w3id.org/musow/1635268063-589608,Music at the National Library of Scotland,CC-BY-NC-SA_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-589608,Music at the National Library of Scotland,CC-BY-NC-SA_v4,Must,Notice
+https://w3id.org/musow/1635268063-589608,Music at the National Library of Scotland,CC-BY-NC-SA_v4,Must,Attribution
+https://w3id.org/musow/1635268063-586478,Bach Digital,CC-BY-NC_v4,Can,modify
+https://w3id.org/musow/1635268063-586478,Bach Digital,CC-BY-NC_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-586478,Bach Digital,CC-BY-NC_v4,Can,reproduce
+https://w3id.org/musow/1635268063-586478,Bach Digital,CC-BY-NC_v4,Can,present
+https://w3id.org/musow/1635268063-586478,Bach Digital,CC-BY-NC_v4,Can,display
+https://w3id.org/musow/1635268063-586478,Bach Digital,CC-BY-NC_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-586478,Bach Digital,CC-BY-NC_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-586478,Bach Digital,CC-BY-NC_v4,Can,derive
+https://w3id.org/musow/1635268063-586478,Bach Digital,CC-BY-NC_v4,Can,distribute
+https://w3id.org/musow/1635268063-586478,Bach Digital,CC-BY-NC_v4,Cannot,CommercialUse
+https://w3id.org/musow/1635268063-586478,Bach Digital,CC-BY-NC_v4,Cannot,promote
+https://w3id.org/musow/1635268063-586478,Bach Digital,CC-BY-NC_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-586478,Bach Digital,CC-BY-NC_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-586478,Bach Digital,CC-BY-NC_v4,Must,Notice
+https://w3id.org/musow/1635268063-586478,Bach Digital,CC-BY-NC_v4,Must,Attribution
+https://w3id.org/musow/1638976241-4442387,Gladys Palmera collection,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638976241-4442387,Gladys Palmera collection,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638976241-4442387,Gladys Palmera collection,CC-BY_v4,Can,derive
+https://w3id.org/musow/1638976241-4442387,Gladys Palmera collection,CC-BY_v4,Can,present
+https://w3id.org/musow/1638976241-4442387,Gladys Palmera collection,CC-BY_v4,Can,modify
+https://w3id.org/musow/1638976241-4442387,Gladys Palmera collection,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638976241-4442387,Gladys Palmera collection,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638976241-4442387,Gladys Palmera collection,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638976241-4442387,Gladys Palmera collection,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638976241-4442387,Gladys Palmera collection,CC-BY_v4,Can,display
+https://w3id.org/musow/1638976241-4442387,Gladys Palmera collection,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638976241-4442387,Gladys Palmera collection,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638976241-4442387,Gladys Palmera collection,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638976241-4442387,Gladys Palmera collection,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638976241-4442387,Gladys Palmera collection,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1638961726-9823408,John Coltrane Memorial Black Music Archive,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638961726-9823408,John Coltrane Memorial Black Music Archive,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638961726-9823408,John Coltrane Memorial Black Music Archive,CC-BY_v4,Can,derive
+https://w3id.org/musow/1638961726-9823408,John Coltrane Memorial Black Music Archive,CC-BY_v4,Can,present
+https://w3id.org/musow/1638961726-9823408,John Coltrane Memorial Black Music Archive,CC-BY_v4,Can,modify
+https://w3id.org/musow/1638961726-9823408,John Coltrane Memorial Black Music Archive,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638961726-9823408,John Coltrane Memorial Black Music Archive,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638961726-9823408,John Coltrane Memorial Black Music Archive,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638961726-9823408,John Coltrane Memorial Black Music Archive,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638961726-9823408,John Coltrane Memorial Black Music Archive,CC-BY_v4,Can,display
+https://w3id.org/musow/1638961726-9823408,John Coltrane Memorial Black Music Archive,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638961726-9823408,John Coltrane Memorial Black Music Archive,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638961726-9823408,John Coltrane Memorial Black Music Archive,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638961726-9823408,John Coltrane Memorial Black Music Archive,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638961726-9823408,John Coltrane Memorial Black Music Archive,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1638959420-625252,SongFacts,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638959420-625252,SongFacts,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638959420-625252,SongFacts,CC-BY_v4,Can,derive
+https://w3id.org/musow/1638959420-625252,SongFacts,CC-BY_v4,Can,present
+https://w3id.org/musow/1638959420-625252,SongFacts,CC-BY_v4,Can,modify
+https://w3id.org/musow/1638959420-625252,SongFacts,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638959420-625252,SongFacts,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638959420-625252,SongFacts,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638959420-625252,SongFacts,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638959420-625252,SongFacts,CC-BY_v4,Can,display
+https://w3id.org/musow/1638959420-625252,SongFacts,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638959420-625252,SongFacts,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638959420-625252,SongFacts,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638959420-625252,SongFacts,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638959420-625252,SongFacts,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1639035690-2216108,National Cultural Audiovisual Archives,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1639035690-2216108,National Cultural Audiovisual Archives,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1639035690-2216108,National Cultural Audiovisual Archives,CC-BY_v4,Can,derive
+https://w3id.org/musow/1639035690-2216108,National Cultural Audiovisual Archives,CC-BY_v4,Can,present
+https://w3id.org/musow/1639035690-2216108,National Cultural Audiovisual Archives,CC-BY_v4,Can,modify
+https://w3id.org/musow/1639035690-2216108,National Cultural Audiovisual Archives,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1639035690-2216108,National Cultural Audiovisual Archives,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1639035690-2216108,National Cultural Audiovisual Archives,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1639035690-2216108,National Cultural Audiovisual Archives,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1639035690-2216108,National Cultural Audiovisual Archives,CC-BY_v4,Can,display
+https://w3id.org/musow/1639035690-2216108,National Cultural Audiovisual Archives,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1639035690-2216108,National Cultural Audiovisual Archives,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1639035690-2216108,National Cultural Audiovisual Archives,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1639035690-2216108,National Cultural Audiovisual Archives,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1639035690-2216108,National Cultural Audiovisual Archives,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1635268063-594427,MusOpen,Cc010Universal,Can,present
+https://w3id.org/musow/1635268063-594427,MusOpen,Cc010Universal,Can,distribute
+https://w3id.org/musow/1635268063-594427,MusOpen,Cc010Universal,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-594427,MusOpen,Cc010Universal,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-594427,MusOpen,Cc010Universal,Can,modify
+https://w3id.org/musow/1635268063-594427,MusOpen,Cc010Universal,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-594427,MusOpen,Cc010Universal,Can,derive
+https://w3id.org/musow/1635268063-594427,MusOpen,Cc010Universal,Can,ChangeLicense
+https://w3id.org/musow/1635268063-594427,MusOpen,Cc010Universal,Can,display
+https://w3id.org/musow/1635268063-594427,MusOpen,Cc010Universal,Can,CommercialUse
+https://w3id.org/musow/1635268063-594427,MusOpen,Cc010Universal,Can,reproduce
+https://w3id.org/musow/1635268063-594427,MusOpen,Cc010Universal,Cannot,promote
+https://w3id.org/musow/1639036364-7362227,Song in the Sumatran Highlands,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1639036364-7362227,Song in the Sumatran Highlands,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1639036364-7362227,Song in the Sumatran Highlands,CC-BY_v4,Can,derive
+https://w3id.org/musow/1639036364-7362227,Song in the Sumatran Highlands,CC-BY_v4,Can,present
+https://w3id.org/musow/1639036364-7362227,Song in the Sumatran Highlands,CC-BY_v4,Can,modify
+https://w3id.org/musow/1639036364-7362227,Song in the Sumatran Highlands,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1639036364-7362227,Song in the Sumatran Highlands,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1639036364-7362227,Song in the Sumatran Highlands,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1639036364-7362227,Song in the Sumatran Highlands,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1639036364-7362227,Song in the Sumatran Highlands,CC-BY_v4,Can,display
+https://w3id.org/musow/1639036364-7362227,Song in the Sumatran Highlands,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1639036364-7362227,Song in the Sumatran Highlands,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1639036364-7362227,Song in the Sumatran Highlands,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1639036364-7362227,Song in the Sumatran Highlands,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1639036364-7362227,Song in the Sumatran Highlands,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1635268063-599139,IMSLP Petrucci Music Library,Cc010Universal,Can,present
+https://w3id.org/musow/1635268063-599139,IMSLP Petrucci Music Library,Cc010Universal,Can,distribute
+https://w3id.org/musow/1635268063-599139,IMSLP Petrucci Music Library,Cc010Universal,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-599139,IMSLP Petrucci Music Library,Cc010Universal,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-599139,IMSLP Petrucci Music Library,Cc010Universal,Can,modify
+https://w3id.org/musow/1635268063-599139,IMSLP Petrucci Music Library,Cc010Universal,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-599139,IMSLP Petrucci Music Library,Cc010Universal,Can,derive
+https://w3id.org/musow/1635268063-599139,IMSLP Petrucci Music Library,Cc010Universal,Can,ChangeLicense
+https://w3id.org/musow/1635268063-599139,IMSLP Petrucci Music Library,Cc010Universal,Can,display
+https://w3id.org/musow/1635268063-599139,IMSLP Petrucci Music Library,Cc010Universal,Can,CommercialUse
+https://w3id.org/musow/1635268063-599139,IMSLP Petrucci Music Library,Cc010Universal,Can,reproduce
+https://w3id.org/musow/1635268063-599139,IMSLP Petrucci Music Library,Cc010Universal,Cannot,promote
+https://w3id.org/musow/1635268063-598314,Timeline Ontology,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1635268063-598314,Timeline Ontology,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-598314,Timeline Ontology,CC-BY_v4,Can,derive
+https://w3id.org/musow/1635268063-598314,Timeline Ontology,CC-BY_v4,Can,present
+https://w3id.org/musow/1635268063-598314,Timeline Ontology,CC-BY_v4,Can,modify
+https://w3id.org/musow/1635268063-598314,Timeline Ontology,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1635268063-598314,Timeline Ontology,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-598314,Timeline Ontology,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1635268063-598314,Timeline Ontology,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-598314,Timeline Ontology,CC-BY_v4,Can,display
+https://w3id.org/musow/1635268063-598314,Timeline Ontology,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-598314,Timeline Ontology,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1635268063-598314,Timeline Ontology,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-598314,Timeline Ontology,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1635268063-598314,Timeline Ontology,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1638949650-001854,Citations: The Renaissance Imitation Mass (CRIM),CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638949650-001854,Citations: The Renaissance Imitation Mass (CRIM),CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638949650-001854,Citations: The Renaissance Imitation Mass (CRIM),CC-BY_v4,Can,derive
+https://w3id.org/musow/1638949650-001854,Citations: The Renaissance Imitation Mass (CRIM),CC-BY_v4,Can,present
+https://w3id.org/musow/1638949650-001854,Citations: The Renaissance Imitation Mass (CRIM),CC-BY_v4,Can,modify
+https://w3id.org/musow/1638949650-001854,Citations: The Renaissance Imitation Mass (CRIM),CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638949650-001854,Citations: The Renaissance Imitation Mass (CRIM),CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638949650-001854,Citations: The Renaissance Imitation Mass (CRIM),CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638949650-001854,Citations: The Renaissance Imitation Mass (CRIM),CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638949650-001854,Citations: The Renaissance Imitation Mass (CRIM),CC-BY_v4,Can,display
+https://w3id.org/musow/1638949650-001854,Citations: The Renaissance Imitation Mass (CRIM),CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638949650-001854,Citations: The Renaissance Imitation Mass (CRIM),CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638949650-001854,Citations: The Renaissance Imitation Mass (CRIM),CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638949650-001854,Citations: The Renaissance Imitation Mass (CRIM),CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638949650-001854,Citations: The Renaissance Imitation Mass (CRIM),CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1638798413-3540587,Segment Ontology,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638798413-3540587,Segment Ontology,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638798413-3540587,Segment Ontology,CC-BY_v4,Can,derive
+https://w3id.org/musow/1638798413-3540587,Segment Ontology,CC-BY_v4,Can,present
+https://w3id.org/musow/1638798413-3540587,Segment Ontology,CC-BY_v4,Can,modify
+https://w3id.org/musow/1638798413-3540587,Segment Ontology,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638798413-3540587,Segment Ontology,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638798413-3540587,Segment Ontology,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638798413-3540587,Segment Ontology,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638798413-3540587,Segment Ontology,CC-BY_v4,Can,display
+https://w3id.org/musow/1638798413-3540587,Segment Ontology,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638798413-3540587,Segment Ontology,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638798413-3540587,Segment Ontology,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638798413-3540587,Segment Ontology,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638798413-3540587,Segment Ontology,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1639162951-0181825,Boston Public Library (BPL) sound collection,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1639162951-0181825,Boston Public Library (BPL) sound collection,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1639162951-0181825,Boston Public Library (BPL) sound collection,CC-BY_v4,Can,derive
+https://w3id.org/musow/1639162951-0181825,Boston Public Library (BPL) sound collection,CC-BY_v4,Can,present
+https://w3id.org/musow/1639162951-0181825,Boston Public Library (BPL) sound collection,CC-BY_v4,Can,modify
+https://w3id.org/musow/1639162951-0181825,Boston Public Library (BPL) sound collection,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1639162951-0181825,Boston Public Library (BPL) sound collection,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1639162951-0181825,Boston Public Library (BPL) sound collection,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1639162951-0181825,Boston Public Library (BPL) sound collection,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1639162951-0181825,Boston Public Library (BPL) sound collection,CC-BY_v4,Can,display
+https://w3id.org/musow/1639162951-0181825,Boston Public Library (BPL) sound collection,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1639162951-0181825,Boston Public Library (BPL) sound collection,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1639162951-0181825,Boston Public Library (BPL) sound collection,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1639162951-0181825,Boston Public Library (BPL) sound collection,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1639162951-0181825,Boston Public Library (BPL) sound collection,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1635268063-582466,Discogs Dataset,Cc010Universal,Can,present
+https://w3id.org/musow/1635268063-582466,Discogs Dataset,Cc010Universal,Can,distribute
+https://w3id.org/musow/1635268063-582466,Discogs Dataset,Cc010Universal,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-582466,Discogs Dataset,Cc010Universal,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-582466,Discogs Dataset,Cc010Universal,Can,modify
+https://w3id.org/musow/1635268063-582466,Discogs Dataset,Cc010Universal,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-582466,Discogs Dataset,Cc010Universal,Can,derive
+https://w3id.org/musow/1635268063-582466,Discogs Dataset,Cc010Universal,Can,ChangeLicense
+https://w3id.org/musow/1635268063-582466,Discogs Dataset,Cc010Universal,Can,display
+https://w3id.org/musow/1635268063-582466,Discogs Dataset,Cc010Universal,Can,CommercialUse
+https://w3id.org/musow/1635268063-582466,Discogs Dataset,Cc010Universal,Can,reproduce
+https://w3id.org/musow/1635268063-582466,Discogs Dataset,Cc010Universal,Cannot,promote
+https://w3id.org/musow/1635268063-596666,Freischütz Digital,CC-BY-NC-SA_v4,Can,derive
+https://w3id.org/musow/1635268063-596666,Freischütz Digital,CC-BY-NC-SA_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-596666,Freischütz Digital,CC-BY-NC-SA_v4,Can,modify
+https://w3id.org/musow/1635268063-596666,Freischütz Digital,CC-BY-NC-SA_v4,Can,reproduce
+https://w3id.org/musow/1635268063-596666,Freischütz Digital,CC-BY-NC-SA_v4,Can,display
+https://w3id.org/musow/1635268063-596666,Freischütz Digital,CC-BY-NC-SA_v4,Can,present
+https://w3id.org/musow/1635268063-596666,Freischütz Digital,CC-BY-NC-SA_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-596666,Freischütz Digital,CC-BY-NC-SA_v4,Can,distribute
+https://w3id.org/musow/1635268063-596666,Freischütz Digital,CC-BY-NC-SA_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-596666,Freischütz Digital,CC-BY-NC-SA_v4,Cannot,promote
+https://w3id.org/musow/1635268063-596666,Freischütz Digital,CC-BY-NC-SA_v4,Cannot,CommercialUse
+https://w3id.org/musow/1635268063-596666,Freischütz Digital,CC-BY-NC-SA_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-596666,Freischütz Digital,CC-BY-NC-SA_v4,Must,Notice
+https://w3id.org/musow/1635268063-596666,Freischütz Digital,CC-BY-NC-SA_v4,Must,Attribution
+https://w3id.org/musow/1635268063-601466,Cantus Melody search,CC-BY-NC-SA_v4,Can,derive
+https://w3id.org/musow/1635268063-601466,Cantus Melody search,CC-BY-NC-SA_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-601466,Cantus Melody search,CC-BY-NC-SA_v4,Can,modify
+https://w3id.org/musow/1635268063-601466,Cantus Melody search,CC-BY-NC-SA_v4,Can,reproduce
+https://w3id.org/musow/1635268063-601466,Cantus Melody search,CC-BY-NC-SA_v4,Can,display
+https://w3id.org/musow/1635268063-601466,Cantus Melody search,CC-BY-NC-SA_v4,Can,present
+https://w3id.org/musow/1635268063-601466,Cantus Melody search,CC-BY-NC-SA_v4,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-601466,Cantus Melody search,CC-BY-NC-SA_v4,Can,distribute
+https://w3id.org/musow/1635268063-601466,Cantus Melody search,CC-BY-NC-SA_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-601466,Cantus Melody search,CC-BY-NC-SA_v4,Cannot,promote
+https://w3id.org/musow/1635268063-601466,Cantus Melody search,CC-BY-NC-SA_v4,Cannot,CommercialUse
+https://w3id.org/musow/1635268063-601466,Cantus Melody search,CC-BY-NC-SA_v4,Must,modificationNotice
+https://w3id.org/musow/1635268063-601466,Cantus Melody search,CC-BY-NC-SA_v4,Must,Notice
+https://w3id.org/musow/1635268063-601466,Cantus Melody search,CC-BY-NC-SA_v4,Must,Attribution
+https://w3id.org/musow/1638951400-4520338,Measuring Polyphony,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638951400-4520338,Measuring Polyphony,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638951400-4520338,Measuring Polyphony,CC-BY_v4,Can,derive
+https://w3id.org/musow/1638951400-4520338,Measuring Polyphony,CC-BY_v4,Can,present
+https://w3id.org/musow/1638951400-4520338,Measuring Polyphony,CC-BY_v4,Can,modify
+https://w3id.org/musow/1638951400-4520338,Measuring Polyphony,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638951400-4520338,Measuring Polyphony,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638951400-4520338,Measuring Polyphony,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638951400-4520338,Measuring Polyphony,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638951400-4520338,Measuring Polyphony,CC-BY_v4,Can,display
+https://w3id.org/musow/1638951400-4520338,Measuring Polyphony,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638951400-4520338,Measuring Polyphony,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638951400-4520338,Measuring Polyphony,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638951400-4520338,Measuring Polyphony,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638951400-4520338,Measuring Polyphony,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1635268063-587527,Europeana: Connecting Cultural Heritage,Cc010Universal,Can,present
+https://w3id.org/musow/1635268063-587527,Europeana: Connecting Cultural Heritage,Cc010Universal,Can,distribute
+https://w3id.org/musow/1635268063-587527,Europeana: Connecting Cultural Heritage,Cc010Universal,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-587527,Europeana: Connecting Cultural Heritage,Cc010Universal,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-587527,Europeana: Connecting Cultural Heritage,Cc010Universal,Can,modify
+https://w3id.org/musow/1635268063-587527,Europeana: Connecting Cultural Heritage,Cc010Universal,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-587527,Europeana: Connecting Cultural Heritage,Cc010Universal,Can,derive
+https://w3id.org/musow/1635268063-587527,Europeana: Connecting Cultural Heritage,Cc010Universal,Can,ChangeLicense
+https://w3id.org/musow/1635268063-587527,Europeana: Connecting Cultural Heritage,Cc010Universal,Can,display
+https://w3id.org/musow/1635268063-587527,Europeana: Connecting Cultural Heritage,Cc010Universal,Can,CommercialUse
+https://w3id.org/musow/1635268063-587527,Europeana: Connecting Cultural Heritage,Cc010Universal,Can,reproduce
+https://w3id.org/musow/1635268063-587527,Europeana: Connecting Cultural Heritage,Cc010Universal,Cannot,promote
+https://w3id.org/musow/1635268063-595698,Corago,CC-BY-NC-ND_v4,Can,reproduce
+https://w3id.org/musow/1635268063-595698,Corago,CC-BY-NC-ND_v4,Can,display
+https://w3id.org/musow/1635268063-595698,Corago,CC-BY-NC-ND_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-595698,Corago,CC-BY-NC-ND_v4,Can,present
+https://w3id.org/musow/1635268063-595698,Corago,CC-BY-NC-ND_v4,Can,distribute
+https://w3id.org/musow/1635268063-595698,Corago,CC-BY-NC-ND_v4,Can,modify
+https://w3id.org/musow/1635268063-595698,Corago,CC-BY-NC-ND_v4,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-595698,Corago,CC-BY-NC-ND_v4,Cannot,promote
+https://w3id.org/musow/1635268063-595698,Corago,CC-BY-NC-ND_v4,Cannot,CommercialUse
+https://w3id.org/musow/1635268063-595698,Corago,CC-BY-NC-ND_v4,Cannot,derive
+https://w3id.org/musow/1635268063-595698,Corago,CC-BY-NC-ND_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1635268063-595698,Corago,CC-BY-NC-ND_v4,Must,Notice
+https://w3id.org/musow/1635268063-595698,Corago,CC-BY-NC-ND_v4,Must,Attribution
+https://w3id.org/musow/1635268063-595698,Corago,CC-BY-NC-ND_v4,Must,modificationNotice
+https://w3id.org/musow/1638960085-8914223,"Early American Secular Music and Its European Sources, 1589–1839",CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638960085-8914223,"Early American Secular Music and Its European Sources, 1589–1839",CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638960085-8914223,"Early American Secular Music and Its European Sources, 1589–1839",CC-BY_v4,Can,derive
+https://w3id.org/musow/1638960085-8914223,"Early American Secular Music and Its European Sources, 1589–1839",CC-BY_v4,Can,present
+https://w3id.org/musow/1638960085-8914223,"Early American Secular Music and Its European Sources, 1589–1839",CC-BY_v4,Can,modify
+https://w3id.org/musow/1638960085-8914223,"Early American Secular Music and Its European Sources, 1589–1839",CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638960085-8914223,"Early American Secular Music and Its European Sources, 1589–1839",CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638960085-8914223,"Early American Secular Music and Its European Sources, 1589–1839",CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638960085-8914223,"Early American Secular Music and Its European Sources, 1589–1839",CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638960085-8914223,"Early American Secular Music and Its European Sources, 1589–1839",CC-BY_v4,Can,display
+https://w3id.org/musow/1638960085-8914223,"Early American Secular Music and Its European Sources, 1589–1839",CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638960085-8914223,"Early American Secular Music and Its European Sources, 1589–1839",CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638960085-8914223,"Early American Secular Music and Its European Sources, 1589–1839",CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638960085-8914223,"Early American Secular Music and Its European Sources, 1589–1839",CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638960085-8914223,"Early American Secular Music and Its European Sources, 1589–1839",CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1645551746-8065944,MusicNet dataset,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1645551746-8065944,MusicNet dataset,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1645551746-8065944,MusicNet dataset,CC-BY_v4,Can,derive
+https://w3id.org/musow/1645551746-8065944,MusicNet dataset,CC-BY_v4,Can,present
+https://w3id.org/musow/1645551746-8065944,MusicNet dataset,CC-BY_v4,Can,modify
+https://w3id.org/musow/1645551746-8065944,MusicNet dataset,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1645551746-8065944,MusicNet dataset,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1645551746-8065944,MusicNet dataset,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1645551746-8065944,MusicNet dataset,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1645551746-8065944,MusicNet dataset,CC-BY_v4,Can,display
+https://w3id.org/musow/1645551746-8065944,MusicNet dataset,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1645551746-8065944,MusicNet dataset,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1645551746-8065944,MusicNet dataset,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1645551746-8065944,MusicNet dataset,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1645551746-8065944,MusicNet dataset,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1638976584-2402775,Hogan Archive of New Orleans Music and New Orleans Jazz,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1638976584-2402775,Hogan Archive of New Orleans Music and New Orleans Jazz,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1638976584-2402775,Hogan Archive of New Orleans Music and New Orleans Jazz,CC-BY_v4,Can,derive
+https://w3id.org/musow/1638976584-2402775,Hogan Archive of New Orleans Music and New Orleans Jazz,CC-BY_v4,Can,present
+https://w3id.org/musow/1638976584-2402775,Hogan Archive of New Orleans Music and New Orleans Jazz,CC-BY_v4,Can,modify
+https://w3id.org/musow/1638976584-2402775,Hogan Archive of New Orleans Music and New Orleans Jazz,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1638976584-2402775,Hogan Archive of New Orleans Music and New Orleans Jazz,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1638976584-2402775,Hogan Archive of New Orleans Music and New Orleans Jazz,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1638976584-2402775,Hogan Archive of New Orleans Music and New Orleans Jazz,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1638976584-2402775,Hogan Archive of New Orleans Music and New Orleans Jazz,CC-BY_v4,Can,display
+https://w3id.org/musow/1638976584-2402775,Hogan Archive of New Orleans Music and New Orleans Jazz,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1638976584-2402775,Hogan Archive of New Orleans Music and New Orleans Jazz,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1638976584-2402775,Hogan Archive of New Orleans Music and New Orleans Jazz,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1638976584-2402775,Hogan Archive of New Orleans Music and New Orleans Jazz,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1638976584-2402775,Hogan Archive of New Orleans Music and New Orleans Jazz,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1635268063-587816,NYPL Digital Gallery,Cc010Universal,Can,present
+https://w3id.org/musow/1635268063-587816,NYPL Digital Gallery,Cc010Universal,Can,distribute
+https://w3id.org/musow/1635268063-587816,NYPL Digital Gallery,Cc010Universal,Can,DerivativeWorks
+https://w3id.org/musow/1635268063-587816,NYPL Digital Gallery,Cc010Universal,Can,chargeDistributionFee
+https://w3id.org/musow/1635268063-587816,NYPL Digital Gallery,Cc010Universal,Can,modify
+https://w3id.org/musow/1635268063-587816,NYPL Digital Gallery,Cc010Universal,Can,ModifiedWorks
+https://w3id.org/musow/1635268063-587816,NYPL Digital Gallery,Cc010Universal,Can,derive
+https://w3id.org/musow/1635268063-587816,NYPL Digital Gallery,Cc010Universal,Can,ChangeLicense
+https://w3id.org/musow/1635268063-587816,NYPL Digital Gallery,Cc010Universal,Can,display
+https://w3id.org/musow/1635268063-587816,NYPL Digital Gallery,Cc010Universal,Can,CommercialUse
+https://w3id.org/musow/1635268063-587816,NYPL Digital Gallery,Cc010Universal,Can,reproduce
+https://w3id.org/musow/1635268063-587816,NYPL Digital Gallery,Cc010Universal,Cannot,promote
+https://w3id.org/musow/1645597469-7097328,Peachnote datasets,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1645597469-7097328,Peachnote datasets,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1645597469-7097328,Peachnote datasets,CC-BY_v4,Can,derive
+https://w3id.org/musow/1645597469-7097328,Peachnote datasets,CC-BY_v4,Can,present
+https://w3id.org/musow/1645597469-7097328,Peachnote datasets,CC-BY_v4,Can,modify
+https://w3id.org/musow/1645597469-7097328,Peachnote datasets,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1645597469-7097328,Peachnote datasets,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1645597469-7097328,Peachnote datasets,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1645597469-7097328,Peachnote datasets,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1645597469-7097328,Peachnote datasets,CC-BY_v4,Can,display
+https://w3id.org/musow/1645597469-7097328,Peachnote datasets,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1645597469-7097328,Peachnote datasets,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1645597469-7097328,Peachnote datasets,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1645597469-7097328,Peachnote datasets,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1645597469-7097328,Peachnote datasets,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1639299888-6683187,Freesound,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1639299888-6683187,Freesound,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1639299888-6683187,Freesound,CC-BY_v4,Can,derive
+https://w3id.org/musow/1639299888-6683187,Freesound,CC-BY_v4,Can,present
+https://w3id.org/musow/1639299888-6683187,Freesound,CC-BY_v4,Can,modify
+https://w3id.org/musow/1639299888-6683187,Freesound,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1639299888-6683187,Freesound,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1639299888-6683187,Freesound,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1639299888-6683187,Freesound,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1639299888-6683187,Freesound,CC-BY_v4,Can,display
+https://w3id.org/musow/1639299888-6683187,Freesound,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1639299888-6683187,Freesound,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1639299888-6683187,Freesound,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1639299888-6683187,Freesound,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1639299888-6683187,Freesound,CC-BY_v4,Must,Attribution
+https://w3id.org/musow/1645534635-3681836,Beethoven Piano Sonata with Function Harmony (BPS-FH) dataset,CC-BY_v4,Can,CommercialUse
+https://w3id.org/musow/1645534635-3681836,Beethoven Piano Sonata with Function Harmony (BPS-FH) dataset,CC-BY_v4,Can,ModifiedWorks
+https://w3id.org/musow/1645534635-3681836,Beethoven Piano Sonata with Function Harmony (BPS-FH) dataset,CC-BY_v4,Can,derive
+https://w3id.org/musow/1645534635-3681836,Beethoven Piano Sonata with Function Harmony (BPS-FH) dataset,CC-BY_v4,Can,present
+https://w3id.org/musow/1645534635-3681836,Beethoven Piano Sonata with Function Harmony (BPS-FH) dataset,CC-BY_v4,Can,modify
+https://w3id.org/musow/1645534635-3681836,Beethoven Piano Sonata with Function Harmony (BPS-FH) dataset,CC-BY_v4,Can,reproduce
+https://w3id.org/musow/1645534635-3681836,Beethoven Piano Sonata with Function Harmony (BPS-FH) dataset,CC-BY_v4,Can,DerivativeWorks
+https://w3id.org/musow/1645534635-3681836,Beethoven Piano Sonata with Function Harmony (BPS-FH) dataset,CC-BY_v4,Can,distribute
+https://w3id.org/musow/1645534635-3681836,Beethoven Piano Sonata with Function Harmony (BPS-FH) dataset,CC-BY_v4,Can,chargeDistributionFee
+https://w3id.org/musow/1645534635-3681836,Beethoven Piano Sonata with Function Harmony (BPS-FH) dataset,CC-BY_v4,Can,display
+https://w3id.org/musow/1645534635-3681836,Beethoven Piano Sonata with Function Harmony (BPS-FH) dataset,CC-BY_v4,Cannot,ChangeLicense
+https://w3id.org/musow/1645534635-3681836,Beethoven Piano Sonata with Function Harmony (BPS-FH) dataset,CC-BY_v4,Cannot,promote
+https://w3id.org/musow/1645534635-3681836,Beethoven Piano Sonata with Function Harmony (BPS-FH) dataset,CC-BY_v4,Must,modificationNotice
+https://w3id.org/musow/1645534635-3681836,Beethoven Piano Sonata with Function Harmony (BPS-FH) dataset,CC-BY_v4,Must,Notice
+https://w3id.org/musow/1645534635-3681836,Beethoven Piano Sonata with Function Harmony (BPS-FH) dataset,CC-BY_v4,Must,Attribution

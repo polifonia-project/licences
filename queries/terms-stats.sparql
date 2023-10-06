@@ -26,8 +26,12 @@ SELECT distinct ?resource ?type ?operation
 WHERE {
 
 	graph ?g {
-		?licence odrl:asset/rdfs:label ?resource 
+		?licence odrl:asset ?asset
 	}
+    
+    graph ?g2 {
+        ?asset rdfs:label ?resource 
+    }
 	
 	graph ?g1 {
 		{ ?licence odrl:permission/odrl:action ?action . bind ("Can" as ?type) .}
