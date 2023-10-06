@@ -19,6 +19,7 @@ related-components:
 - reuses:
   - sparql-anything-cli
   - Dalicc, https://www.dalicc.net/
+  - musow-licences
 ---
 # Licences KG generation pipeline
 

@@ -1,0 +1,160 @@
+@prefix apf:    <http://jena.hpl.hp.com/ARQ/property#> .
+@prefix dc:     <http://purl.org/dc/elements/1.1/> .
+@prefix dcat:   <http://www.w3.org/ns/dcat#> .
+@prefix dct:    <http://purl.org/dc/terms/> .
+@prefix fx:     <http://sparql.xyz/facade-x/ns/> .
+@prefix odrl:   <http://www.w3.org/ns/odrl/2/> .
+@prefix owl:    <http://www.w3.org/2002/07/owl#> .
+@prefix pl:     <http://w3id.org/polifonia/licences/> .
+@prefix prov:   <http://www.w3.org/ns/prov#> .
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix reco:   <http://purl.org/research-ecosystem/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos:   <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+@prefix xyz:    <http://sparql.xyz/facade-x/data/> .
+
+<http://dalicc.net/licenselibrary/CC-BY_v4>
+        odrl:asset  <https://w3id.org/musow/1635268063-59808/> , <https://w3id.org/musow/1635268063-591857/> , <https://w3id.org/musow/1635268063-579562/> , <https://w3id.org/musow/1635268063-601828/> , <https://w3id.org/musow/1635268063-599884/> , <https://w3id.org/musow/1635268063-600864/> , <https://w3id.org/musow/1635268063-594798/> .
+
+<http://dalicc.net/licenselibrary/GnuFreeDocumentationLicense>
+        odrl:asset  <https://w3id.org/musow/1635268063-587671/> .
+
+<https://w3id.org/musow/1645712351-8043017/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1635268063-588935/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<http://dalicc.net/licenselibrary/CC-BY-NC-ND_v4>
+        odrl:asset  <https://w3id.org/musow/1635268063-584757/> .
+
+<http://dalicc.net/licenselibrary/CC-BY-SA_v4>
+        odrl:asset  <https://w3id.org/musow/1635268063-581866/> , <https://w3id.org/musow/1635268063-601321/> , <https://w3id.org/musow/1635268063-595096/> , <https://w3id.org/musow/1635268063-581575/> , <https://w3id.org/musow/1635268063-596305/> , <https://w3id.org/musow/1635268063-593289/> .
+
+<http://dalicc.net/licenselibrary/MIT>
+        odrl:asset  <https://w3id.org/musow/1635268063-595624/> .
+
+<https://w3id.org/musow/1635268063-601321/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1635268063-57863/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1635268063-584757/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1635268063-579188/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<http://dalicc.net/licenselibrary/CC-BY-NC-SA_v4>
+        odrl:asset  <https://w3id.org/musow/1638798594-7252076/> , <https://w3id.org/musow/1635268063-580315/> , <https://w3id.org/musow/1635268063-594207/> , <https://w3id.org/musow/1645711895-1029153/> , <https://w3id.org/musow/1635268063-5954/> , <https://w3id.org/musow/1635268063-595552/> , <https://w3id.org/musow/1645712351-8043017/> , <https://w3id.org/musow/1635268063-591035/> , <https://w3id.org/musow/1635268063-590653/> .
+
+<https://w3id.org/musow/1635268063-590653/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1635268063-581575/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1635268063-59808/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1635268063-600864/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1635268063-591857/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1635268063-595096/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1635268063-598463/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1645595496-6777816/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<http://dalicc.net/licenselibrary/LGPLv3>
+        odrl:asset  <https://w3id.org/musow/1635268063-594871/> .
+
+<https://w3id.org/musow/1635268063-599884/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1635268063-601828/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1645595889-5140848/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1635268063-581866/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1638798594-7252076/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<http://dalicc.net/licenselibrary/GNU_GPL_v3>
+        odrl:asset  <https://w3id.org/musow/1638798594-7252076/> , <https://w3id.org/musow/1638949164-9532564/> , <https://w3id.org/musow/1645595889-5140848/> , <https://w3id.org/musow/1635268063-584757/> , <https://w3id.org/musow/1645595496-6777816/> .
+
+<http://dalicc.net/licenselibrary/Cc010Universal>
+        odrl:asset  <https://w3id.org/musow/1635268063-590961/> , <https://w3id.org/musow/1635268063-591422/> , <https://w3id.org/musow/1635268063-601321/> , <https://w3id.org/musow/1635268063-579188/> , <https://w3id.org/musow/1641118226-9568648/> , <https://w3id.org/musow/1635268063-598463/> , <https://w3id.org/musow/1635268063-57863/> , <https://w3id.org/musow/1635268063-587671/> .
+
+<https://w3id.org/musow/1635268063-597411/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1635268063-579562/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1635268063-580315/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1635268063-5954/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<http://dalicc.net/licenselibrary/CC-BY-NC_v4>
+        odrl:asset  <https://w3id.org/musow/1635268063-58968/> , <https://w3id.org/musow/1635268063-597411/> , <https://w3id.org/musow/1635268063-579188/> , <https://w3id.org/musow/1635268063-598463/> , <https://w3id.org/musow/1635268063-588935/> .
+
+<https://w3id.org/musow/1635268063-595552/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1638949164-9532564/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1645711895-1029153/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1635268063-590961/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1635268063-595624/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1635268063-594798/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1635268063-596305/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1635268063-593289/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1635268063-591422/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1635268063-594207/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1635268063-58968/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1635268063-591035/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1641118226-9568648/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1635268063-594871/>
+        rdf:type  odrl:Asset , reco:Resource .
+
+<https://w3id.org/musow/1635268063-587671/>
+        rdf:type  odrl:Asset , reco:Resource .
