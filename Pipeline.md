@@ -39,7 +39,7 @@ fx -q queries/harvest-dalicc.sparql -f TTL -o knowledgegraph/dalicc.ttl
 From the spreadhseet in `data/` to the RDF file.
 
 ```
-fx -q queries/kg.sparql -f TTL -o knowledgegraph/datasets-licences.ttl
+fx -q queries/datasets-kg.sparql -f TTL -o knowledgegraph/datasets-licences.ttl
 ```
 
 ### Views

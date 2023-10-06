@@ -1,0 +1,7 @@
+CONSTRUCT {
+?x ?y ?z
+} WHERE {
+    SERVICE <https://projects.dharc.unibo.it/musow/sparql> {
+        ?x ?y ?z    
+    }
+}

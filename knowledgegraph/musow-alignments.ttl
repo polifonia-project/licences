@@ -1,0 +1,20 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#>.
+@prefix dalicc: <http://dalicc.net/licenselibrary/>.
+@prefix musow: <https://w3id.org/musow/vocab/>.
+
+musow:cc-by owl:sameAs dalicc:CC-BY_v4 .
+#musow:open-access a
+musow:cc-by-3.0 owl:sameAs dalicc:CC-BY_v4 .
+musow:cc-by-4.0 owl:sameAs dalicc:CC-BY_v4 .
+musow:cc-by-nc owl:sameAs dalicc:CC-BY-NC_v4 .
+musow:cc-by-nc-nd owl:sameAs dalicc:CC-BY-NC-ND_v4 .
+musow:cc-by-nc-sa owl:sameAs dalicc:CC-BY-NC-SA_v4 .
+musow:cc-by-sa owl:sameAs dalicc:CC-BY-SA_v4 .
+musow:cc0 owl:sameAs dalicc:Cc010Universal . 
+#musow:copyright
+musow:gnu-fdl owl:sameAs dalicc:GnuFreeDocumentationLicense .
+musow:gnu-gpl owl:sameAs dalicc:GNU_GPL_v3 .
+musow:mit-license owl:sameAs dalicc:MIT .
+#musow:not-specified
+#musow:privative 
+#unknown-licence
